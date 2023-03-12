@@ -17,11 +17,14 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+
 }
 
 .main{
     background-color: #f0f0f0;
     height:100vh;
+    padding-right:0;
+    padding-left:0;
 }
 .welcome{
     list-style-type: none;
@@ -43,12 +46,21 @@ time, mark, audio, video {
     margin-bottom: 20px;
 }
 
+.subheadline{
+    margin-bottom:10px;
+}
+
 button{
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-style: italic;
+    padding-left:0;
+    padding-right:0;
 }
 
+.backbtn{
+    margin-left:25px;
+}
 .headline-result{
     font-family: 'Playfair Display', serif;
     font-weight: 500;
@@ -66,6 +78,52 @@ button{
 
 }
 
-.backbtn {
-    margin-top: 10px;
+.results{
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 20px;
+}
+
+.popular{
+    background-color: #c4c4c4;
+    margin-right:5px;
+    height: 55vh;
+}
+
+.seats{
+    background-color: #c4c4c4;
+    height: 55vh;
+    margin-left:5px;
+}
+
+
+.coldets, .colprev{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.colconst, .colcomp{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.dets, .prev{
+    width:calc(100% - 30px);
+}
+
+.const, .comp{
+     width:calc(100% - 30px);
+     margin-left:5px;
+ }
+
+.buttons1{
+    margin-bottom:10px;
 }
