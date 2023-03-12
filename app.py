@@ -15,3 +15,19 @@ def back():
 @app.route("/results.html")
 def results():
     return render_template('results.html')
+
+@app.route('/details.html')
+def details():
+    return render_template('details.html')
+
+@app.route('/previous.html')
+def details():
+    return render_template('previous.html')
+
+@app.route('/constituencies.html')
+def details():
+    return render_template('constituencies.html')
+
+@app.route('/compare.html')
+def details():
+    return render_template('compare.html')
