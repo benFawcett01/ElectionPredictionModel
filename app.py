@@ -21,13 +21,13 @@ def details():
     return render_template('details.html')
 
 @app.route('/previous.html')
-def details():
+def previous():
     return render_template('previous.html')
 
 @app.route('/constituencies.html')
-def details():
+def constituencies():
     return render_template('constituencies.html')
 
 @app.route('/compare.html')
-def details():
+def comapre():
     return render_template('compare.html')
