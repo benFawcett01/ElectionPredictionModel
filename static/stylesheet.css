@@ -192,3 +192,18 @@ button{
 .breakdown-table{
     text-align: left;
 }
+
+.comparison-table{
+    font-family: 'Playfair Display', serif;
+    margin-top:20px;
+    font-size:12px;
+}
+
+.comparison-table tr td{
+    margin:0 !important;
+}
+
+.comparison-headline{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
+}
