@@ -1,3 +1,4 @@
+/** CSS reset defaults **/
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -79,6 +80,8 @@ button{
 
 }
 
+/** Results Page Exclusive Classes **/
+
 .results{
     margin-left:10px;
     margin-right:10px;
@@ -129,12 +132,16 @@ button{
     margin-bottom:10px;
 }
 
+/** Details Page Exclusive Classes **/
+
 .details{
     background-color: white;
     width:calc(100% - 10px);
     margin-left:5px;
     margin-right:5px;
 }
+
+/** Constituency Page Exclusive Classes **/
 
 .constcontainer{
     width:calc(100% - 20px);
@@ -207,6 +214,8 @@ button{
     margin:0 !important;
     padding:0 !important;
 }
+
+/** Comparison Page Exclusive Classes **/
 
 .comparison-table{
     font-family: 'Playfair Display', serif;

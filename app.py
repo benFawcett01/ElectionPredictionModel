@@ -29,6 +29,6 @@ def constituencies():
     return render_template('constituencies.html')
 
 @app.route('/compare.html')
-def comapre():
+def compare():
     return render_template('compare.html')
 
