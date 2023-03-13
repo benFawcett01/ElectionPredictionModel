@@ -231,3 +231,16 @@ button{
     font-family: 'Playfair Display', serif;
     font-size:20px;
 }
+
+.individual_container{
+    height:calc(69vh - 10px);
+    background-color:#c4c4c4;
+    margin-left:10px;
+    margin-right:10px;
+    text-align: center;
+}
+
+.individual_container h1{
+    font-size:30px;
+    font-family: 'Playfair Display', serif;
+}

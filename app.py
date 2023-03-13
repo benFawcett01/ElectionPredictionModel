@@ -32,3 +32,6 @@ def constituencies():
 def compare():
     return render_template('compare.html')
 
+@app.route('/individual_seat.html')
+def individual_seat():
+    return render_template('individual_seat.html')
