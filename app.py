@@ -35,3 +35,9 @@ def compare():
 @app.route('/individual_seat.html')
 def individual_seat():
     return render_template('individual_seat.html')
+
+# Error pages
+
+@app.errorhandler(404)
+def not_found(error):
+    return render_template('404.html'), 404
