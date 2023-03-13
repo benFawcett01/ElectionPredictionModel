@@ -12,6 +12,10 @@ def index():
 def back():
     return render_template('index.html')
 
+@app.route('/results.html')
+def results():
+    return render_template('results.html')
+
 @app.route('/details.html')
 def details():
     return render_template('details.html')
