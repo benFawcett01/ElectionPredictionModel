@@ -135,3 +135,60 @@ button{
     margin-left:5px;
     margin-right:5px;
 }
+
+.constcontainer{
+    width:calc(100% - 20px);
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    height:calc(69vh - 10px);
+
+}
+
+.listview{
+    background-color: #c4c4c4;
+}
+
+.search{
+    height:calc(34.5vh - 13px);
+    margin-bottom: 16px;
+    background-color: #c4c4c4;
+}
+
+.breakdown{
+    height:calc(34.5vh - 13px);
+    background-color: #c4c4c4;
+}
+
+.formlist{
+    text-align:center;
+}
+
+.search-headline, .breakdown-headline{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
+    margin-bottom:10px;
+    text-align: center;
+}
+
+.h1-search{
+    padding-top:25px;
+}
+
+.input-const, .input-postcode{
+    width:calc(100% - 20px);
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.searchbtn{
+    margin-top:10px
+}
+
+.breakdown-headline{
+    margin-bottom: 5px;
+}
+
+.breakdown-table{
+    text-align: left;
+}

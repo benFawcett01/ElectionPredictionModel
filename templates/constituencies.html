@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'stylesheet.css') }}">
+  </head>
+  <body>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+        <div class="main container-fluid">
+            <div class="row">
+                <a href="results.html"><button class="backbtn btn btn-light border border-dark float-left">Go Back</button></a>
+            </div>
+
+            <div class="welcome row justify-content-center d-flex vh-10">
+                <img class="left-img float-left" src="{{ url_for('static', filename= 'media/bar_graphic.png') }}" alt="">
+                <ul>
+                    <li><h1 class="headline-result">Who Will Win the Next General Election?</h1></li>
+                    <li><p class="subheadline">*winner* Will Form the Next Government</p></li>
+                </ul>
+                <img class="right-img float-right" src="{{ url_for('static', filename= 'media/bar_graphic1.png') }}" alt="">
+            </div>
+
+            <div class="row gx-2 constcontainer">
+                <div class="col-8 listview">
+                    <p>Hello</p>
+                </div>
+                <div class="col-4 search-and-breakdown">
+                    <div class="search">
+                        <div class="search-headline d-flex justify-content-center">
+                            <h1 class="h1-search">Search</h1>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="Constituency" class="form-control input-const">
+                            <p class="d-flex justify-content-center">or</p>
+                            <input type="text" placeholder="Post Code" class="form-control input-postcode">
+                            <div class="d-flex justify-content-center">
+                                <button class="searchbtn d-flex justify-content-center btn btn-light border border-dark">Search</button>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="breakdown">
+                        <div class="breakdown-headline d-flex justify-content-center">
+                            <p>Result Summary</p>
+                        </div>
+
+                        <table class="breakdown-table table-sm d-flex justify-content-center">
+                            <thead>
+                                <tr>
+                                    <th>*1st Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="1st party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*2st Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="2nd party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*3rd Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="3rd party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*4th Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="4th party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*5th Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="5th party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*6th Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="6th party colour"></th>
+                                </tr>
+                                <tr>
+                                    <th>*7th Party*</th>
+                                    <th>*no . seats*</th>
+                                    <th><img src="" alt="7th party colour"></th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+
+
+
+</html>
