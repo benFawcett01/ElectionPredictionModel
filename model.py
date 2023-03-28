@@ -98,8 +98,38 @@ class model:
         new_df.to_csv("datasets/clean_sec.csv")
 
 
+    def clean_historical(self):
+
+        file = pd.ExcelFile('datasets/election_history_cut_nospaces.xlsx')
+        df_list = []
+        df = self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', '1979'))
+        print(df.columns)
+    '''for i in file.sheet_names:
+            df_list.append(self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i)))
+            print("Done ", i)
+        print(df_list)'''
+
+
+    def clean_historical_sheet(self, sheet):
+
+        headers = sheet.columns
+        newheaders = []
+
+        for i in range(0, len(headers)): #remove whitespace from column headers
+            newheaders.append(headers[i].strip())
+
+        sheet.set_axis(newheaders, axis=1, inplace=True) #replace column names with non-whitespace newheaders list
+
+        sheet.drop('County', axis=1, inplace=True) #Drop County column
+
+        votes = [col for col in sheet.columns if 'Votes' in col]
+
+        for i in votes:
+            sheet.drop(i, axis=1, inplace=True)
+
+        return sheet
 
 
 if __name__ == "__main__":
     m = model()
-    m.clean_socioeconomic_data()
+    m.clean_historical()
