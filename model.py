@@ -73,8 +73,33 @@ class model:
         new_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
         print(new_df)
 
+    def clean_socioeconomic_data(self):
+        sec_df = pd.read_csv("datasets/sec_csv.csv")
+        new_df = pd.DataFrame()
+
+        rankAv = 0
+        count = 0
+        totalrank = {'ConstituencyName': [], 'Rank': []}
+
+        for i in range(1, len(sec_df)):
+            if sec_df['ConstituencyName'][i] == sec_df['ConstituencyName'][i-1]:
+                rankAv = rankAv + sec_df['rank'][i]
+                count = count + 1
+            elif (sec_df['ConstituencyName'][i] != sec_df['ConstituencyName'][i-1]) or sec_df['ConstituencyName'][i] == "End":
+                string = str(sec_df['ConstituencyName'][i-1]) + ": " + str((rankAv / count))
+                totalrank['ConstituencyName'].append(sec_df['ConstituencyName'][i-1])
+                totalrank['Rank'].append(rankAv/count)
+                rankAv = sec_df['rank'][i]
+                count = 1
+
+        new_df['ConstituencyName'] = totalrank['ConstituencyName']
+        new_df['Rank'] = totalrank['Rank']
+
+        new_df.to_csv("datasets/clean_sec.csv")
+
+
 
 
 if __name__ == "__main__":
-    hello = model()
-    hello.clean_pollbase()
+    m = model()
+    m.clean_socioeconomic_data()
