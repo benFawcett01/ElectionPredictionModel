@@ -74,13 +74,15 @@ class model:
         print(new_df)
 
     def clean_socioeconomic_data(self):
-        sec_df = pd.read_csv("datasets/sec_csv.csv")
+        sec_df = pd.read_csv("datasets/sec_csv.csv") # Turn sec.csv into a dataset
         new_df = pd.DataFrame()
 
         rankAv = 0
         count = 0
         totalrank = {'ConstituencyName': [], 'Rank': []}
 
+        '''Iterate through all neighbourhoods in sec dataset, calculate average SEC rank for the constituency, add 
+        totalrank dictionary'''
         for i in range(1, len(sec_df)):
             if sec_df['ConstituencyName'][i] == sec_df['ConstituencyName'][i-1]:
                 rankAv = rankAv + sec_df['rank'][i]
@@ -92,23 +94,25 @@ class model:
                 rankAv = sec_df['rank'][i]
                 count = 1
 
+        #new_df holds data from totalrank
         new_df['ConstituencyName'] = totalrank['ConstituencyName']
         new_df['Rank'] = totalrank['Rank']
 
+        #save clean sec dataset to dataset directory
         new_df.to_csv("datasets/clean_sec.csv")
 
 
     def clean_historical(self):
 
+        # Get excel file instance of the historical dataset
         file = pd.ExcelFile('datasets/election_history_cut_nospaces.xlsx')
         df_list = []
-        df = self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', '1979'))
-        print(df.columns)
-    '''for i in file.sheet_names:
-            df_list.append(self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i)))
-            print("Done ", i)
-        print(df_list)'''
 
+        #Iterate through all the sheets in the historical dataset and clean them using clean_history_sheet()
+        for i in file.sheet_names:
+            df_list.append(self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i)))
+
+        print(df_list)
 
     def clean_historical_sheet(self, sheet):
 
@@ -122,12 +126,20 @@ class model:
 
         sheet.drop('County', axis=1, inplace=True) #Drop County column
 
+        # drop columns with names that contain 'Votes
         votes = [col for col in sheet.columns if 'Votes' in col]
 
         for i in votes:
-            sheet.drop(i, axis=1, inplace=True)
+            try:
+                sheet.drop(i, axis=1, inplace=True)
+            except:
+                sheet.drop('Votes.1', axis=1, inplace=True)
+                votes.pop(0)
+                print(votes)
+        print(sheet.columns)
 
-        return sheet
+
+        return sheet #return the cleaned sheet
 
 
 if __name__ == "__main__":
