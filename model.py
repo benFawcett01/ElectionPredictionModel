@@ -1,4 +1,7 @@
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 import numpy as np
 class model:
 
@@ -41,37 +44,71 @@ class model:
         date_df.drop(['Published'], axis=1)
 
         date_df['Month'] = months
+
         date_df['Published'] = days
 
-        monthDict = {'Jan':1, 'Feb':2, 'Mar':3, 'Apr':4, 'May':5, 'Jun':6, 'Jul':7, 'Aug':8, 'Sep':9, 'Oct':10,
-                     'Nov':11, 'Dec':12}
+        monthDict = {'Jan':'01', 'Feb':'02', 'Mar':'03', 'Apr':'04', 'May':'05', 'Jun':'06', 'Jul':'07', 'Aug':'08',
+                     'Sep':'09', 'Oct':'10','Nov':'11', 'Dec':'12'}
 
+        date_df['Month'] = date_df['Month'].astype("string")
         date_df['Month'].str.strip()
         date_df['Month'] = date_df['Month'].map(monthDict)
+
         date_df['Month'] = date_df['Month'].fillna(0)
-        date_df['Month'] = date_df['Month'].astype(int)
+
         for index, row in date_df.iterrows():
             if '-' in row['Published']:
                 day = row['Published'][0:1]
                 month = row['Published'][3:6]
-                date = day + "." + month + "." + str(row['Year'])
+
+                date = day + month + str(row['Year'])
             elif '/' in row['Published']:
                 day = row['Published'][0:1]
-                month = row['Published'][2:3]
-                date = day + "." + month + "." + str(row['Year'])
+                month = "0" + row['Published'][2:3]
+                date = day + month + str(row['Year'])
             else:
-                date = str(row['Published']) + "." + str(row['Month']) + "." + str(row['Year'])
+                date = str(row['Published']) + str(row['Month']) + str(row['Year'])
+
+            if len(date) < 8:
+                date = "0"+date
+
             dates.append(date)
 
         date_df['date'] = dates
 
-        #print(date_df)
+        for i in date_df['date']:
+            if len(i) < 8:
+                print(i)
 
         new_df.drop(['Year', 'Month', 'Fieldwork', 'Published', 'Ukip'], axis=1, inplace=True)
         new_df['date_published'] = dates
 
+        new_df['date_published'] = pd.to_datetime(new_df['date_published'], format='%d%m%Y')
+
+        count = 8
+
+
         new_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
-        print(new_df)
+
+
+    def pre_process_pollbase(self):
+        clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv')
+        clean_df = clean_df.iloc[:, 1:]
+        clean_df['date_published'] = pd.to_datetime(clean_df['date_published'], errors='coerce')
+        clean_df.sort_values(by='date_published', inplace=True)
+
+        for i in clean_df['date_published']:
+            print(i)
+
+        ax = sns.scatterplot(data=clean_df, palette=['blue', 'red', 'orange', 'green', 'cyan'])
+
+        plt.savefig("static/opinionpollgraph.png")
+
+
+
+        print("figure saved")
+
+
 
     def clean_socioeconomic_data(self):
         sec_df = pd.read_csv("datasets/sec_csv.csv") # Turn sec.csv into a dataset
@@ -112,7 +149,21 @@ class model:
         for i in file.sheet_names:
             df_list.append(self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i)))
 
-        print(df_list)
+        # Create a new CSV for each party, showing their electoral history in each constituency
+        csv_names = [col for col in df_list[len(df_list)-1] if 'Vote' in col]
+        df = pd.DataFrame({
+            'id':[], 'Constituency':[], '1964 Vote Share':[], '1966 Vote Share':[], '1970 Vote Share': [],
+            '1974 (F) Vote Share': [], '1974 (O) Vote Share': [], '1979 Vote Share': [], '1983 Vote Share': [],
+            '1987 Vote Share': [], '1992 Vote Share': [], '1997 Vote Share': [], '2001 Vote Share': [],
+            '2005 Vote Share': [], '2010 Vote Share': [], '2015 Vote Share': [], '2017 Vote Share': [],
+            '2019 Vote Share': [],
+        })
+
+        ''' for i in csv_names:
+            for j in df_list:
+                j[]'''
+
+
 
     def clean_historical_sheet(self, sheet):
 
@@ -124,24 +175,23 @@ class model:
 
         sheet.set_axis(newheaders, axis=1, inplace=True) #replace column names with non-whitespace newheaders list
 
-        sheet.drop('County', axis=1, inplace=True) #Drop County column
+        sheet.drop(['County', 'Electorate', 'Turnout'], axis=1, inplace=True) #Drop County column
 
         # drop columns with names that contain 'Votes
         votes = [col for col in sheet.columns if 'Votes' in col]
-
         for i in votes:
             try:
                 sheet.drop(i, axis=1, inplace=True)
             except:
                 sheet.drop('Votes.1', axis=1, inplace=True)
                 votes.pop(0)
-                print(votes)
+
         print(sheet.columns)
-
-
         return sheet #return the cleaned sheet
+
+
 
 
 if __name__ == "__main__":
     m = model()
-    m.clean_historical()
+    m.pre_process_pollbase()
