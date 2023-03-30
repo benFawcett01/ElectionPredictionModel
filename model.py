@@ -1,6 +1,8 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.linear_model import Ridge
+from scipy import stats
 import matplotlib.dates as mdates
 import numpy as np
 class model:
@@ -61,29 +63,25 @@ class model:
                 day = row['Published'][0:1]
                 month = row['Published'][3:6]
 
-                date = day + month + str(row['Year'])
+                date = str(row['Year']) + month + day
             elif '/' in row['Published']:
                 day = row['Published'][0:1]
                 month = "0" + row['Published'][2:3]
-                date = day + month + str(row['Year'])
+                date = str(row['Year']) + month + day
             else:
-                date = str(row['Published']) + str(row['Month']) + str(row['Year'])
+                date = str(row['Year']) + str(row['Month']) + str(row['Published'])
 
             if len(date) < 8:
-                date = "0"+date
+                date = date[0:6] + "0" + date[6]
 
             dates.append(date)
 
         date_df['date'] = dates
 
-        for i in date_df['date']:
-            if len(i) < 8:
-                print(i)
-
         new_df.drop(['Year', 'Month', 'Fieldwork', 'Published', 'Ukip'], axis=1, inplace=True)
         new_df['date_published'] = dates
 
-        new_df['date_published'] = pd.to_datetime(new_df['date_published'], format='%d%m%Y')
+        new_df['date_published'] = pd.to_datetime(new_df['date_published'], format='%Y%m%d')
 
         count = 8
 
@@ -93,22 +91,57 @@ class model:
 
     def pre_process_pollbase(self):
         clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv')
-        clean_df = clean_df.iloc[:, 1:]
         clean_df['date_published'] = pd.to_datetime(clean_df['date_published'], errors='coerce')
         clean_df.sort_values(by='date_published', inplace=True)
 
+        clean_df.drop('Polling', axis=1, inplace=True)
+
+        # Timestamps are not supported by linear regression, t.f. we have to use date ordinals
+
+        ordinals = []
         for i in clean_df['date_published']:
-            print(i)
+            ordinals.append(i.toordinal())
+
+        clean_df['date_ordinals'] = ordinals
+
+        clean_df.dropna(inplace=True)
 
         ax = sns.scatterplot(data=clean_df, palette=['blue', 'red', 'orange', 'green', 'cyan'])
-
+        ax.legend()
         plt.savefig("static/opinionpollgraph.png")
+        # Deleting outliers
 
+        for i in clean_df.columns:
+            if not "date" in i:
+                upper = clean_df[i].mean() + clean_df[i].std()
+                lower = clean_df[i].mean() - clean_df[i].std()
+                clean_df = clean_df.loc[(clean_df[i] < upper) & (clean_df[i] > lower)]
 
+        clean_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
+        ax = sns.scatterplot(data=clean_df, palette=['blue', 'red', 'orange', 'green', 'cyan'])
+        ax.legend()
+        plt.savefig("static/opinionpollgraph.png")
+        return clean_df
 
-        print("figure saved")
+    def forecast_popular_vote(self):
+        model = Ridge()
+        clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv')
 
+        model_results = []
 
+        for i in clean_df.columns:
+            if not "date" in i:
+                x = clean_df['date_ordinals'].tail(100).values.reshape(-1, 1)
+                y = clean_df[i].tail(100).values.reshape(-1, 1)
+                pred_date = "2024-12-08"
+                pred_date = pd.to_datetime(pred_date)
+                pred_date = pred_date.toordinal()
+
+                model.fit(x, y)
+                pred = model.predict([[pred_date]])
+                model_results.append(i + ":" + str(pred))
+
+        return model_results
 
     def clean_socioeconomic_data(self):
         sec_df = pd.read_csv("datasets/sec_csv.csv") # Turn sec.csv into a dataset
@@ -122,7 +155,7 @@ class model:
         totalrank dictionary'''
         for i in range(1, len(sec_df)):
             if sec_df['ConstituencyName'][i] == sec_df['ConstituencyName'][i-1]:
-                rankAv = rankAv + sec_df['rank'][i]
+                rankAv = rankAv + sec_df['ranking_total'][i]
                 count = count + 1
             elif (sec_df['ConstituencyName'][i] != sec_df['ConstituencyName'][i-1]) or sec_df['ConstituencyName'][i] == "End":
                 string = str(sec_df['ConstituencyName'][i-1]) + ": " + str((rankAv / count))
@@ -134,6 +167,8 @@ class model:
         #new_df holds data from totalrank
         new_df['ConstituencyName'] = totalrank['ConstituencyName']
         new_df['Rank'] = totalrank['Rank']
+
+        new_df.sort_values(by='Rank', inplace=True)
 
         #save clean sec dataset to dataset directory
         new_df.to_csv("datasets/clean_sec.csv")
@@ -147,10 +182,21 @@ class model:
 
         #Iterate through all the sheets in the historical dataset and clean them using clean_history_sheet()
         for i in file.sheet_names:
-            df_list.append(self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i)))
+            x = self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i))
+            df_list.append(x)
+            string = "datasets/historical_csv/" + i + ".csv"
+            x.to_csv(string)
+
+
+
 
         # Create a new CSV for each party, showing their electoral history in each constituency
         csv_names = [col for col in df_list[len(df_list)-1] if 'Vote' in col]
+
+        party_dfs = []
+
+        print(csv_names)
+
         df = pd.DataFrame({
             'id':[], 'Constituency':[], '1964 Vote Share':[], '1966 Vote Share':[], '1970 Vote Share': [],
             '1974 (F) Vote Share': [], '1974 (O) Vote Share': [], '1979 Vote Share': [], '1983 Vote Share': [],
@@ -159,9 +205,9 @@ class model:
             '2019 Vote Share': [],
         })
 
-        ''' for i in csv_names:
-            for j in df_list:
-                j[]'''
+        df['id'] = df_list[len(df_list)-1]['id']
+        df['Constituency'] = df_list[len(df_list)-1]['Constituency']
+
 
 
 
@@ -186,7 +232,6 @@ class model:
                 sheet.drop('Votes.1', axis=1, inplace=True)
                 votes.pop(0)
 
-        print(sheet.columns)
         return sheet #return the cleaned sheet
 
 
@@ -194,4 +239,4 @@ class model:
 
 if __name__ == "__main__":
     m = model()
-    m.pre_process_pollbase()
+    m.clean_socioeconomic_data()
