@@ -83,32 +83,22 @@ class model:
 
         new_df['date_published'] = pd.to_datetime(new_df['date_published'], format='%Y%m%d')
 
-        count = 8
+        ordinals = []
+        for i in new_df['date_published']:
+            ordinals.append(i.toordinal())
 
+        new_df['date_ordinals'] = ordinals
 
         new_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
 
 
     def pre_process_pollbase(self):
-        clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv')
+        clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv', index_col=0)
         clean_df['date_published'] = pd.to_datetime(clean_df['date_published'], errors='coerce')
-        clean_df.sort_values(by='date_published', inplace=True)
+        clean_df.sort_values(by="date_ordinals", inplace=True)
 
-        clean_df.drop('Polling', axis=1, inplace=True)
-
-        # Timestamps are not supported by linear regression, t.f. we have to use date ordinals
-
-        ordinals = []
-        for i in clean_df['date_published']:
-            ordinals.append(i.toordinal())
-
-        clean_df['date_ordinals'] = ordinals
 
         clean_df.dropna(inplace=True)
-
-        ax = sns.scatterplot(data=clean_df, palette=['blue', 'red', 'orange', 'green', 'cyan'])
-        ax.legend()
-        plt.savefig("static/opinionpollgraph.png")
         # Deleting outliers
 
         for i in clean_df.columns:
@@ -117,32 +107,68 @@ class model:
                 lower = clean_df[i].mean() - clean_df[i].std()
                 clean_df = clean_df.loc[(clean_df[i] < upper) & (clean_df[i] > lower)]
 
-        clean_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
-        ax = sns.scatterplot(data=clean_df, palette=['blue', 'red', 'orange', 'green', 'cyan'])
-        ax.legend()
-        plt.savefig("static/opinionpollgraph.png")
-        return clean_df
+        clean_df.to_csv('datasets/PreprocessedOpinionPolls.csv', index=False)
 
     def forecast_popular_vote(self):
         model = Ridge()
-        clean_df = pd.read_csv('datasets/CleanOpinionPolls.csv')
+        pp_df = pd.read_csv('datasets/PreprocessedOpinionPolls.csv')
 
-        model_results = []
+        model_results ={
+            "Polling": ["model"],
+            "Con":[],
+            "Lab":[],
+            "LD":[],
+            "Green":[],
+            "BXP/Reform":[],
+            "date_published":["2024-12-08"],
+            "date_ordinals":[pd.to_datetime("2024-12-08").toordinal()]
+        }
 
-        for i in clean_df.columns:
+        print(pp_df.columns)
+
+        for i in pp_df.columns:
             if not "date" in i:
-                x = clean_df['date_ordinals'].tail(100).values.reshape(-1, 1)
-                y = clean_df[i].tail(100).values.reshape(-1, 1)
+                x = pp_df['date_ordinals'].tail(100).values.reshape(-1, 1)
+                y = pp_df[i].tail(100).values.reshape(-1, 1)
                 pred_date = "2024-12-08"
                 pred_date = pd.to_datetime(pred_date)
-                pred_date = pred_date.toordinal()
+                pred_date_ords = pred_date.toordinal()
 
                 model.fit(x, y)
-                pred = model.predict([[pred_date]])
-                model_results.append(i + ":" + str(pred))
+                pred = model.predict([[pred_date_ords]])
+                model_results[i].append(round(pred[0][0], 1))
 
-        return model_results
 
+        print(model_results)
+
+        model_results = pd.DataFrame(model_results)
+        clean_df = pd.read_csv("datasets/CleanOpinionPolls.csv")
+        pp_df = pd.concat([pp_df, model_results.iloc[:, 1:]], ignore_index=True)
+        clean_df = pd.concat([clean_df, model_results], ignore_index=True)
+        pp_df.to_csv("datasets/PreprocessedOpinionPolls.csv")
+        clean_df.to_csv("datasets/CleanOpinionPolls.csv")
+
+    def gen_popvote_graph(self):
+        clean_df = pd.read_csv("datasets/CleanOpinionPolls.csv")
+        pp_df = pd.read_csv("datasets/PreprocessedOpinionPolls.csv")
+
+        clean_df = clean_df.iloc[:, 2:]
+        colours = ["blue", "red", "orange", "green", "cyan"]
+        for i, c in zip(clean_df.columns, colours):
+            if not "date" in i:
+                x = pp_df["date_ordinals"]
+                y = pp_df[i]
+                ax = sns.scatterplot(data=clean_df, y=i, s=5, x="date_ordinals", color=c)
+                m, b = np.polyfit(x, y, 1)
+                ax.plot(x, m*x+b, color = c, label=i)
+                plt.annotate(str(pp_df[i][len(pp_df)-1]), xy=(pp_df["date_ordinals"][len(pp_df)-1]+90, pp_df[i][len(pp_df)-1]))
+
+        plt.legend(fontsize="7")
+        ax.set_xticklabels(pp_df["date_published"])
+        plt.xticks(rotation=30, fontsize=7)
+        ax.set(xlabel='Date', ylabel='% Vote')
+        plt.savefig("static/opinionpollgraph.png", dpi=250)
+        print("done")
     def clean_socioeconomic_data(self):
         sec_df = pd.read_csv("datasets/sec_csv.csv") # Turn sec.csv into a dataset
         new_df = pd.DataFrame()
@@ -239,4 +265,9 @@ class model:
 
 if __name__ == "__main__":
     m = model()
-    m.clean_socioeconomic_data()
+    m.clean_pollbase()
+    m.pre_process_pollbase()
+    m.forecast_popular_vote()
+    m.gen_popvote_graph()
+
+
