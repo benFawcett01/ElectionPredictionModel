@@ -1,0 +1,651 @@
+,id,Constituency,1964 Vote Share,1966 Vote Share,1970 Vote Share,1974 (F) Vote Share,1974 (O) Vote Share,1979 Vote Share,1983 Vote Share,1987 Vote Share,1992 Vote Share,1997 Vote Share,2001 Vote Share,2005 Vote Share,2010 Vote Share,2015 Vote Share,2017 Vote Share,2019 Vote Share,Con Vote,Liberal Vote,Labour Vote,Brexit Vote,Green Vote
+0,W07000049,ABERAVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+1,W07000058,ABERCONWY,,,,,,,,,,,,,,,,,na,na,na,na,na
+2,S14000001,ABERDEEN NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+3,S14000002,ABERDEEN SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+4,S14000003,AIRDRIE AND SHOTTS,,,,,,,,,,,,,,,,,na,na,na,na,na
+5,E14000530,ALDERSHOT,,,,,,,,,,,,,,,,,na,na,na,na,na
+6,E14000531,ALDRIDGE-BROWNHILLS,,,,,,,,,,,,,,,,,na,na,na,na,na
+7,E14000532,ALTRINCHAM AND SALE WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+8,W07000043,ALYN AND DEESIDE,,,,,,,,,,,,,,,,,na,na,na,na,na
+9,E14000533,AMBER VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+10,S14000004,ANGUS,,,,,,,,,,,,,,,,,na,na,na,na,na
+11,W07000057,ARFON,,,,,,,,,,,,,,,,,na,na,na,na,na
+12,S14000005,ARGYLL AND BUTE,,,,,,,,,,,,,,,,,na,na,na,na,na
+13,E14000534,ARUNDEL AND SOUTH DOWNS,,,,,,,,,,,,,,,,,na,na,na,na,na
+14,E14000535,ASHFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+15,E14000536,ASHFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+16,E14000537,ASHTON-UNDER-LYNE,,,,,,,,,,,,,,,,,na,na,na,na,na
+17,E14000538,AYLESBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+18,S14000006,"AYR, CARRICK AND CUMNOCK",,,,,,,,,,,,,,,,,na,na,na,na,na
+19,E14000539,BANBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+20,S14000007,BANFF AND BUCHAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+21,E14000540,BARKING,,,,,,,,,,,,,,,,,na,na,na,na,na
+22,E14000541,BARNSLEY CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+23,E14000542,BARNSLEY EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+24,E14000543,BARROW AND FURNESS,,,,,,,,,,,,,,,,,na,na,na,na,na
+25,E14000544,BASILDON AND BILLERICAY,,,,,,,,,,,,,,,,,na,na,na,na,na
+26,E14000545,BASINGSTOKE,,,,,,,,,,,,,,,,,na,na,na,na,na
+27,E14000546,BASSETLAW,,,,,,,,,,,,,,,,,na,na,na,na,na
+28,E14000547,BATH,,,,,,,,,,,,,,,,,na,na,na,na,na
+29,E14000548,BATLEY AND SPEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+30,E14000549,BATTERSEA,,,,,,,,,,,,,,,,,na,na,na,na,na
+31,E14000550,BEACONSFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+32,E14000551,BECKENHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+33,E14000552,BEDFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+34,N06000001,BELFAST EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+35,N06000002,BELFAST NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+36,N06000003,BELFAST SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+37,N06000004,BELFAST WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+38,E14000553,BERMONDSEY AND OLD SOUTHWARK,,,,,,,,,,,,,,,,,na,na,na,na,na
+39,S14000008,"BERWICKSHIRE, ROXBURGH AND SELKIRK",,,,,,,,,,,,,,,,,na,na,na,na,na
+40,E14000554,BERWICK-UPON-TWEED,,,,,,,,,,,,,,,,,na,na,na,na,na
+41,E14000555,BETHNAL GREEN AND BOW,,,,,,,,,,,,,,,,,na,na,na,na,na
+42,E14000556,BEVERLEY AND HOLDERNESS,,,,,,,,,,,,,,,,,na,na,na,na,na
+43,E14000557,BEXHILL AND BATTLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+44,E14000558,BEXLEYHEATH AND CRAYFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+45,E14000559,BIRKENHEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+46,E14000560,"BIRMINGHAM, EDGBASTON",,,,,,,,,,,,,,,,,na,na,na,na,na
+47,E14000561,"BIRMINGHAM, ERDINGTON",,,,,,,,,,,,,,,,,na,na,na,na,na
+48,E14000562,"BIRMINGHAM, HALL GREEN",,,,,,,,,,,,,,,,,na,na,na,na,na
+49,E14000563,"BIRMINGHAM, HODGE HILL",,,,,,,,,,,,,,,,,na,na,na,na,na
+50,E14000564,"BIRMINGHAM, LADYWOOD",,,,,,,,,,,,,,,,,na,na,na,na,na
+51,E14000565,"BIRMINGHAM, NORTHFIELD",,,,,,,,,,,,,,,,,na,na,na,na,na
+52,E14000566,"BIRMINGHAM, PERRY BARR",,,,,,,,,,,,,,,,,na,na,na,na,na
+53,E14000567,"BIRMINGHAM, SELLY OAK",,,,,,,,,,,,,,,,,na,na,na,na,na
+54,E14000568,"BIRMINGHAM, YARDLEY",,,,,,,,,,,,,,,,,na,na,na,na,na
+55,E14000569,BISHOP AUCKLAND,,,,,,,,,,,,,,,,,na,na,na,na,na
+56,E14000570,BLACKBURN,,,,,,,,,,,,,,,,,na,na,na,na,na
+57,E14000571,BLACKLEY AND BROUGHTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+58,E14000572,BLACKPOOL NORTH AND CLEVELEYS,,,,,,,,,,,,,,,,,na,na,na,na,na
+59,E14000573,BLACKPOOL SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+60,W07000072,BLAENAU GWENT,,,,,,,,,,,,,,,,,na,na,na,na,na
+61,E14000574,BLAYDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+62,E14000575,BLYTH VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+63,E14000576,BOGNOR REGIS AND LITTLEHAMPTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+64,E14000577,BOLSOVER,,,,,,,,,,,,,,,,,na,na,na,na,na
+65,E14000578,BOLTON NORTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+66,E14000579,BOLTON SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+67,E14000580,BOLTON WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+68,E14000581,BOOTLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+69,E14000582,BOSTON AND SKEGNESS,,,,,,,,,,,,,,,,,na,na,na,na,na
+70,E14000583,BOSWORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+71,E14000584,BOURNEMOUTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+72,E14000585,BOURNEMOUTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+73,E14000586,BRACKNELL,,,,,,,,,,,,,,,,,na,na,na,na,na
+74,E14000587,BRADFORD EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+75,E14000588,BRADFORD SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+76,E14000589,BRADFORD WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+77,E14000590,BRAINTREE,,,,,,,,,,,,,,,,,na,na,na,na,na
+78,W07000068,BRECON AND RADNORSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+79,E14000591,BRENT CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+80,E14000593,BRENTFORD AND ISLEWORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+81,E14000592,BRENT NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+82,E14000594,BRENTWOOD AND ONGAR,,,,,,,,,,,,,,,,,na,na,na,na,na
+83,W07000073,BRIDGEND,,,,,,,,,,,,,,,,,na,na,na,na,na
+84,E14000595,BRIDGWATER AND WEST SOMERSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+85,E14000596,BRIGG AND GOOLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+86,E14000597,"BRIGHTON, KEMPTOWN",,,,,,,,,,,,,,,,,na,na,na,na,na
+87,E14000598,"BRIGHTON, PAVILION",,,,,,,,,,,,,,,,,na,na,na,na,na
+88,E14000599,BRISTOL EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+89,E14000600,BRISTOL NORTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+90,E14000601,BRISTOL SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+91,E14000602,BRISTOL WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+92,E14000603,BROADLAND,,,,,,,,,,,,,,,,,na,na,na,na,na
+93,E14000604,BROMLEY AND CHISLEHURST,,,,,,,,,,,,,,,,,na,na,na,na,na
+94,E14000605,BROMSGROVE,,,,,,,,,,,,,,,,,na,na,na,na,na
+95,E14000606,BROXBOURNE,,,,,,,,,,,,,,,,,na,na,na,na,na
+96,E14000607,BROXTOWE,,,,,,,,,,,,,,,,,na,na,na,na,na
+97,E14000608,BUCKINGHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+98,E14000609,BURNLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+99,E14000610,BURTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+100,E14000611,BURY NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+101,E14000612,BURY SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+102,E14000613,BURY ST EDMUNDS,,,,,,,,,,,,,,,,,na,na,na,na,na
+103,W07000076,CAERPHILLY,,,,,,,,,,,,,,,,,na,na,na,na,na
+104,S14000009,"CAITHNESS, SUTHERLAND AND EASTER ROSS",,,,,,,,,,,,,,,,,na,na,na,na,na
+105,E14000614,CALDER VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+106,E14000615,CAMBERWELL AND PECKHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+107,E14000616,CAMBORNE AND REDRUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+108,E14000617,CAMBRIDGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+109,E14000618,CANNOCK CHASE,,,,,,,,,,,,,,,,,na,na,na,na,na
+110,E14000619,CANTERBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+111,W07000050,CARDIFF CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+112,W07000051,CARDIFF NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+113,W07000080,CARDIFF SOUTH AND PENARTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+114,W07000079,CARDIFF WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+115,E14000620,CARLISLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+116,W07000067,CARMARTHEN EAST AND DINEFWR,,,,,,,,,,,,,,,,,na,na,na,na,na
+117,W07000066,CARMARTHEN WEST AND SOUTH PEMBROKESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+118,E14000621,CARSHALTON AND WALLINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+119,E14000622,CASTLE POINT,,,,,,,,,,,,,,,,,na,na,na,na,na
+120,S14000010,CENTRAL AYRSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+121,E14000623,CENTRAL DEVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+122,E14000624,CENTRAL SUFFOLK AND NORTH IPSWICH,,,,,,,,,,,,,,,,,na,na,na,na,na
+123,W07000064,CEREDIGION,,,,,,,,,,,,,,,,,na,na,na,na,na
+124,E14000625,CHARNWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+125,E14000626,CHATHAM AND AYLESFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+126,E14000627,CHEADLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+127,E14000628,CHELMSFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+128,E14000629,CHELSEA AND FULHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+129,E14000630,CHELTENHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+130,E14000631,CHESHAM AND AMERSHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+131,E14000632,CHESTERFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+132,E14000633,CHICHESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+133,E14000634,CHINGFORD AND WOODFORD GREEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+134,E14000635,CHIPPENHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+135,E14000636,CHIPPING BARNET,,,,,,,,,,,,,,,,,na,na,na,na,na
+136,E14000637,CHORLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+137,E14000638,CHRISTCHURCH,,,,,,,,,,,,,,,,,na,na,na,na,na
+138,E14000639,CITIES OF LONDON AND WESTMINSTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+139,E14000640,CITY OF CHESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+140,E14000641,CITY OF DURHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+141,E14000642,CLACTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+142,E14000643,CLEETHORPES,,,,,,,,,,,,,,,,,na,na,na,na,na
+143,W07000062,CLWYD SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+144,W07000059,CLWYD WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+145,S14000011,"COATBRIDGE, CHRYSTON AND BELLSHILL",,,,,,,,,,,,,,,,,na,na,na,na,na
+146,E14000644,COLCHESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+147,E14000645,COLNE VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+148,E14000646,CONGLETON,,,,,,,,,,,,,,,,,na,na,na,na,na
+149,E14000647,COPELAND,,,,,,,,,,,,,,,,,na,na,na,na,na
+150,E14000648,CORBY,,,,,,,,,,,,,,,,,na,na,na,na,na
+151,E14000649,COVENTRY NORTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+152,E14000650,COVENTRY NORTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+153,E14000651,COVENTRY SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+154,E14000652,CRAWLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+155,E14000653,CREWE AND NANTWICH,,,,,,,,,,,,,,,,,na,na,na,na,na
+156,E14000654,CROYDON CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+157,E14000655,CROYDON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+158,E14000656,CROYDON SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+159,S14000012,"CUMBERNAULD, KILSYTH AND KIRKINTILLOCH EAST",,,,,,,,,,,,,,,,,na,na,na,na,na
+160,W07000070,CYNON VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+161,E14000657,DAGENHAM AND RAINHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+162,E14000658,DARLINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+163,E14000659,DARTFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+164,E14000660,DAVENTRY,,,,,,,,,,,,,,,,,na,na,na,na,na
+165,W07000042,DELYN,,,,,,,,,,,,,,,,,na,na,na,na,na
+166,E14000661,DENTON AND REDDISH,,,,,,,,,,,,,,,,,na,na,na,na,na
+167,E14000662,DERBY NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+168,E14000664,DERBYSHIRE DALES,,,,,,,,,,,,,,,,,na,na,na,na,na
+169,E14000663,DERBY SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+170,E14000665,DEVIZES,,,,,,,,,,,,,,,,,na,na,na,na,na
+171,E14000666,DEWSBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+172,E14000668,DONCASTER CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+173,E14000669,DONCASTER NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+174,E14000667,DON VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+175,E14000670,DOVER,,,,,,,,,,,,,,,,,na,na,na,na,na
+176,E14000671,DUDLEY NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+177,E14000672,DUDLEY SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+178,E14000673,DULWICH AND WEST NORWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+179,S14000013,DUMFRIES AND GALLOWAY,,,,,,,,,,,,,,,,,na,na,na,na,na
+180,S14000014,"DUMFRIESSHIRE, CLYDESDALE AND TWEEDDALE",,,,,,,,,,,,,,,,,na,na,na,na,na
+181,S14000015,DUNDEE EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+182,S14000016,DUNDEE WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+183,S14000017,DUNFERMLINE AND WEST FIFE,,,,,,,,,,,,,,,,,na,na,na,na,na
+184,W07000061,DWYFOR MEIRIONNYDD,,,,,,,,,,,,,,,,,na,na,na,na,na
+185,E14000674,EALING CENTRAL AND ACTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+186,E14000675,EALING NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+187,E14000676,"EALING, SOUTHALL",,,,,,,,,,,,,,,,,na,na,na,na,na
+188,E14000677,EASINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+189,N06000005,EAST ANTRIM,,,,,,,,,,,,,,,,,na,na,na,na,na
+190,E14000684,EASTBOURNE,,,,,,,,,,,,,,,,,na,na,na,na,na
+191,E14000678,EAST DEVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+192,S14000018,EAST DUNBARTONSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+193,E14000679,EAST HAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+194,E14000680,EAST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+195,S14000019,"EAST KILBRIDE, STRATHAVEN AND LESMAHAGOW",,,,,,,,,,,,,,,,,na,na,na,na,na
+196,E14000685,EASTLEIGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+197,N06000006,EAST LONDONDERRY,,,,,,,,,,,,,,,,,na,na,na,na,na
+198,S14000020,EAST LOTHIAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+199,S14000021,EAST RENFREWSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+200,E14000681,EAST SURREY,,,,,,,,,,,,,,,,,na,na,na,na,na
+201,E14000682,EAST WORTHING AND SHOREHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+202,E14000683,EAST YORKSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+203,E14000686,EDDISBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+204,S14000022,EDINBURGH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+205,S14000023,EDINBURGH NORTH AND LEITH,,,,,,,,,,,,,,,,,na,na,na,na,na
+206,S14000024,EDINBURGH SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+207,S14000025,EDINBURGH SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+208,S14000026,EDINBURGH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+209,E14000687,EDMONTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+210,E14000688,ELLESMERE PORT AND NESTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+211,E14000689,ELMET AND ROTHWELL,,,,,,,,,,,,,,,,,na,na,na,na,na
+212,E14000690,ELTHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+213,E14000691,ENFIELD NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+214,E14000692,"ENFIELD, SOUTHGATE",,,,,,,,,,,,,,,,,na,na,na,na,na
+215,E14000693,EPPING FOREST,,,,,,,,,,,,,,,,,na,na,na,na,na
+216,E14000694,EPSOM AND EWELL,,,,,,,,,,,,,,,,,na,na,na,na,na
+217,E14000695,EREWASH,,,,,,,,,,,,,,,,,na,na,na,na,na
+218,E14000696,ERITH AND THAMESMEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+219,E14000697,ESHER AND WALTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+220,E14000698,EXETER,,,,,,,,,,,,,,,,,na,na,na,na,na
+221,S14000028,FALKIRK,,,,,,,,,,,,,,,,,na,na,na,na,na
+222,E14000699,FAREHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+223,E14000700,FAVERSHAM AND MID KENT,,,,,,,,,,,,,,,,,na,na,na,na,na
+224,E14000701,FELTHAM AND HESTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+225,N06000007,FERMANAGH AND SOUTH TYRONE,,,,,,,,,,,,,,,,,na,na,na,na,na
+226,E14000702,FILTON AND BRADLEY STOKE,,,,,,,,,,,,,,,,,na,na,na,na,na
+227,E14000703,FINCHLEY AND GOLDERS GREEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+228,E14000704,FOLKESTONE AND HYTHE,,,,,,,,,,,,,,,,,na,na,na,na,na
+229,E14000705,FOREST OF DEAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+230,N06000008,FOYLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+231,E14000706,FYLDE,,,,,,,,,,,,,,,,,na,na,na,na,na
+232,E14000707,GAINSBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+233,E14000708,GARSTON AND HALEWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+234,E14000709,GATESHEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+235,E14000710,GEDLING,,,,,,,,,,,,,,,,,na,na,na,na,na
+236,E14000711,GILLINGHAM AND RAINHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+237,S14000029,GLASGOW CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+238,S14000030,GLASGOW EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+239,S14000031,GLASGOW NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+240,S14000032,GLASGOW NORTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+241,S14000033,GLASGOW NORTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+242,S14000034,GLASGOW SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+243,S14000035,GLASGOW SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+244,S14000036,GLENROTHES,,,,,,,,,,,,,,,,,na,na,na,na,na
+245,E14000712,GLOUCESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+246,S14000037,GORDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+247,E14000713,GOSPORT,,,,,,,,,,,,,,,,,na,na,na,na,na
+248,W07000046,GOWER,,,,,,,,,,,,,,,,,na,na,na,na,na
+249,E14000714,GRANTHAM AND STAMFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+250,E14000715,GRAVESHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+251,E14000716,GREAT GRIMSBY,,,,,,,,,,,,,,,,,na,na,na,na,na
+252,E14000717,GREAT YARMOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+253,E14000718,GREENWICH AND WOOLWICH,,,,,,,,,,,,,,,,,na,na,na,na,na
+254,E14000719,GUILDFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+255,E14000720,HACKNEY NORTH AND STOKE NEWINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+256,E14000721,HACKNEY SOUTH AND SHOREDITCH,,,,,,,,,,,,,,,,,na,na,na,na,na
+257,E14000722,HALESOWEN AND ROWLEY REGIS,,,,,,,,,,,,,,,,,na,na,na,na,na
+258,E14000723,HALIFAX,,,,,,,,,,,,,,,,,na,na,na,na,na
+259,E14000724,HALTEMPRICE AND HOWDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+260,E14000725,HALTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+261,E14000726,HAMMERSMITH,,,,,,,,,,,,,,,,,na,na,na,na,na
+262,E14000727,HAMPSTEAD AND KILBURN,,,,,,,,,,,,,,,,,na,na,na,na,na
+263,E14000728,HARBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+264,E14000729,HARLOW,,,,,,,,,,,,,,,,,na,na,na,na,na
+265,E14000730,HARROGATE AND KNARESBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+266,E14000731,HARROW EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+267,E14000732,HARROW WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+268,E14000733,HARTLEPOOL,,,,,,,,,,,,,,,,,na,na,na,na,na
+269,E14000734,HARWICH AND NORTH ESSEX,,,,,,,,,,,,,,,,,na,na,na,na,na
+270,E14000735,HASTINGS AND RYE,,,,,,,,,,,,,,,,,na,na,na,na,na
+271,E14000736,HAVANT,,,,,,,,,,,,,,,,,na,na,na,na,na
+272,E14000737,HAYES AND HARLINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+273,E14000738,HAZEL GROVE,,,,,,,,,,,,,,,,,na,na,na,na,na
+274,E14000739,HEMEL HEMPSTEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+275,E14000740,HEMSWORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+276,E14000741,HENDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+277,E14000742,HENLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+278,E14000743,HEREFORD AND SOUTH HEREFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+279,E14000744,HERTFORD AND STORTFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+280,E14000745,HERTSMERE,,,,,,,,,,,,,,,,,na,na,na,na,na
+281,E14000746,HEXHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+282,E14000747,HEYWOOD AND MIDDLETON,,,,,,,,,,,,,,,,,na,na,na,na,na
+283,E14000748,HIGH PEAK,,,,,,,,,,,,,,,,,na,na,na,na,na
+284,E14000749,HITCHIN AND HARPENDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+285,E14000750,HOLBORN AND ST PANCRAS,,,,,,,,,,,,,,,,,na,na,na,na,na
+286,E14000751,HORNCHURCH AND UPMINSTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+287,E14000752,HORNSEY AND WOOD GREEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+288,E14000753,HORSHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+289,E14000754,HOUGHTON AND SUNDERLAND SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+290,E14000755,HOVE,,,,,,,,,,,,,,,,,na,na,na,na,na
+291,E14000756,HUDDERSFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+292,E14000757,HUNTINGDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+293,E14000758,HYNDBURN,,,,,,,,,,,,,,,,,na,na,na,na,na
+294,E14000759,ILFORD NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+295,E14000760,ILFORD SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+296,S14000038,INVERCLYDE,,,,,,,,,,,,,,,,,na,na,na,na,na
+297,S14000039,"INVERNESS, NAIRN, BADENOCH AND STRATHSPEY",,,,,,,,,,,,,,,,,na,na,na,na,na
+298,E14000761,IPSWICH,,,,,,,,,,,,,,,,,na,na,na,na,na
+299,E14000762,ISLE OF WIGHT,,,,,,,,,,,,,,,,,na,na,na,na,na
+300,E14000763,ISLINGTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+301,E14000764,ISLINGTON SOUTH AND FINSBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+302,W07000077,ISLWYN,,,,,,,,,,,,,,,,,na,na,na,na,na
+303,E14000765,JARROW,,,,,,,,,,,,,,,,,na,na,na,na,na
+304,E14000766,KEIGHLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+305,E14000767,KENILWORTH AND SOUTHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+306,E14000768,KENSINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+307,E14000769,KETTERING,,,,,,,,,,,,,,,,,na,na,na,na,na
+308,S14000040,KILMARNOCK AND LOUDOUN,,,,,,,,,,,,,,,,,na,na,na,na,na
+309,E14000770,KINGSTON AND SURBITON,,,,,,,,,,,,,,,,,na,na,na,na,na
+310,E14000771,KINGSTON UPON HULL EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+311,E14000772,KINGSTON UPON HULL NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+312,E14000773,KINGSTON UPON HULL WEST AND HESSLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+313,E14000774,KINGSWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+314,S14000041,KIRKCALDY AND COWDENBEATH,,,,,,,,,,,,,,,,,na,na,na,na,na
+315,E14000775,KNOWSLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+316,N06000009,LAGAN VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+317,S14000042,LANARK AND HAMILTON EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+318,E14000776,LANCASTER AND FLEETWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+319,E14000777,LEEDS CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+320,E14000778,LEEDS EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+321,E14000779,LEEDS NORTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+322,E14000780,LEEDS NORTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+323,E14000781,LEEDS WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+324,E14000782,LEICESTER EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+325,E14000783,LEICESTER SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+326,E14000784,LEICESTER WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+327,E14000785,LEIGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+328,E14000786,LEWES,,,,,,,,,,,,,,,,,na,na,na,na,na
+329,E14000789,"LEWISHAM, DEPTFORD",,,,,,,,,,,,,,,,,na,na,na,na,na
+330,E14000787,LEWISHAM EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+331,E14000788,LEWISHAM WEST AND PENGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+332,E14000790,LEYTON AND WANSTEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+333,E14000791,LICHFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+334,E14000792,LINCOLN,,,,,,,,,,,,,,,,,na,na,na,na,na
+335,S14000043,LINLITHGOW AND EAST FALKIRK,,,,,,,,,,,,,,,,,na,na,na,na,na
+336,E14000793,"LIVERPOOL, RIVERSIDE",,,,,,,,,,,,,,,,,na,na,na,na,na
+337,E14000794,"LIVERPOOL, WALTON",,,,,,,,,,,,,,,,,na,na,na,na,na
+338,E14000795,"LIVERPOOL, WAVERTREE",,,,,,,,,,,,,,,,,na,na,na,na,na
+339,E14000796,"LIVERPOOL, WEST DERBY",,,,,,,,,,,,,,,,,na,na,na,na,na
+340,S14000044,LIVINGSTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+341,W07000045,LLANELLI,,,,,,,,,,,,,,,,,na,na,na,na,na
+342,E14000797,LOUGHBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+343,E14000798,LOUTH AND HORNCASTLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+344,E14000799,LUDLOW,,,,,,,,,,,,,,,,,na,na,na,na,na
+345,E14000800,LUTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+346,E14000801,LUTON SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+347,E14000802,MACCLESFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+348,E14000803,MAIDENHEAD,,,,,,,,,,,,,,,,,na,na,na,na,na
+349,E14000804,MAIDSTONE AND THE WEALD,,,,,,,,,,,,,,,,,na,na,na,na,na
+350,E14000805,MAKERFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+351,E14000806,MALDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+352,E14000807,MANCHESTER CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+353,E14000808,"MANCHESTER, GORTON",,,,,,,,,,,,,,,,,na,na,na,na,na
+354,E14000809,"MANCHESTER, WITHINGTON",,,,,,,,,,,,,,,,,na,na,na,na,na
+355,E14000810,MANSFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+356,E14000811,MEON VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+357,E14000812,MERIDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+358,W07000071,MERTHYR TYDFIL AND RHYMNEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+359,E14000813,MID BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+360,E14000814,MID DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+361,E14000819,MIDDLESBROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+362,E14000820,MIDDLESBROUGH SOUTH AND EAST CLEVELAND,,,,,,,,,,,,,,,,,na,na,na,na,na
+363,E14000815,MID DORSET AND NORTH POOLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+364,S14000045,MIDLOTHIAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+365,E14000816,MID NORFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+366,E14000817,MID SUSSEX,,,,,,,,,,,,,,,,,na,na,na,na,na
+367,N06000010,MID ULSTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+368,E14000818,MID WORCESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+369,E14000821,MILTON KEYNES NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+370,E14000822,MILTON KEYNES SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+371,E14000823,MITCHAM AND MORDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+372,E14000824,MOLE VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+373,W07000054,MONMOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+374,W07000063,MONTGOMERYSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+375,S14000046,MORAY,,,,,,,,,,,,,,,,,na,na,na,na,na
+376,E14000825,MORECAMBE AND LUNESDALE,,,,,,,,,,,,,,,,,na,na,na,na,na
+377,E14000826,MORLEY AND OUTWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+378,S14000047,MOTHERWELL AND WISHAW,,,,,,,,,,,,,,,,,na,na,na,na,na
+379,S14000027,NA H-EILEANAN AN IAR,,,,,,,,,,,,,,,,,na,na,na,na,na
+380,W07000069,NEATH,,,,,,,,,,,,,,,,,na,na,na,na,na
+381,E14000829,NEWARK,,,,,,,,,,,,,,,,,na,na,na,na,na
+382,E14000830,NEWBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+383,E14000834,NEWCASTLE-UNDER-LYME,,,,,,,,,,,,,,,,,na,na,na,na,na
+384,E14000831,NEWCASTLE UPON TYNE CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+385,E14000832,NEWCASTLE UPON TYNE EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+386,E14000833,NEWCASTLE UPON TYNE NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+387,E14000827,NEW FOREST EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+388,E14000828,NEW FOREST WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+389,W07000055,NEWPORT EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+390,W07000056,NEWPORT WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+391,N06000011,NEWRY AND ARMAGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+392,E14000835,NEWTON ABBOT,,,,,,,,,,,,,,,,,na,na,na,na,na
+393,E14000836,"NORMANTON, PONTEFRACT AND CASTLEFORD",,,,,,,,,,,,,,,,,na,na,na,na,na
+394,E14000861,NORTHAMPTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+395,E14000862,NORTHAMPTON SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+396,N06000012,NORTH ANTRIM,,,,,,,,,,,,,,,,,na,na,na,na,na
+397,S14000048,NORTH AYRSHIRE AND ARRAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+398,E14000837,NORTH CORNWALL,,,,,,,,,,,,,,,,,na,na,na,na,na
+399,E14000838,NORTH DEVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+400,E14000839,NORTH DORSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+401,N06000013,NORTH DOWN,,,,,,,,,,,,,,,,,na,na,na,na,na
+402,E14000840,NORTH DURHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+403,E14000841,NORTH EAST BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+404,E14000842,NORTH EAST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+405,E14000843,NORTH EAST DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+406,S14000049,NORTH EAST FIFE,,,,,,,,,,,,,,,,,na,na,na,na,na
+407,E14000844,NORTH EAST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+408,E14000845,NORTH EAST HERTFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+409,E14000846,NORTH EAST SOMERSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+410,E14000847,NORTH HEREFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+411,E14000848,NORTH NORFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+412,E14000849,NORTH SHROPSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+413,E14000850,NORTH SOMERSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+414,E14000851,NORTH SWINDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+415,E14000852,NORTH THANET,,,,,,,,,,,,,,,,,na,na,na,na,na
+416,E14000853,NORTH TYNESIDE,,,,,,,,,,,,,,,,,na,na,na,na,na
+417,E14000854,NORTH WARWICKSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+418,E14000855,NORTH WEST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+419,E14000856,NORTH WEST DURHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+420,E14000857,NORTH WEST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+421,E14000858,NORTH WEST LEICESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+422,E14000859,NORTH WEST NORFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+423,E14000860,NORTH WILTSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+424,E14000863,NORWICH NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+425,E14000864,NORWICH SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+426,E14000865,NOTTINGHAM EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+427,E14000866,NOTTINGHAM NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+428,E14000867,NOTTINGHAM SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+429,E14000868,NUNEATON,,,,,,,,,,,,,,,,,na,na,na,na,na
+430,S14000050,OCHIL AND SOUTH PERTHSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+431,W07000074,OGMORE,,,,,,,,,,,,,,,,,na,na,na,na,na
+432,E14000869,OLD BEXLEY AND SIDCUP,,,,,,,,,,,,,,,,,na,na,na,na,na
+433,E14000870,OLDHAM EAST AND SADDLEWORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+434,E14000871,OLDHAM WEST AND ROYTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+435,S14000051,ORKNEY AND SHETLAND,,,,,,,,,,,,,,,,,na,na,na,na,na
+436,E14000872,ORPINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+437,E14000873,OXFORD EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+438,E14000874,OXFORD WEST AND ABINGDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+439,S14000052,PAISLEY AND RENFREWSHIRE NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+440,S14000053,PAISLEY AND RENFREWSHIRE SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+441,E14000875,PENDLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+442,E14000876,PENISTONE AND STOCKSBRIDGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+443,E14000877,PENRITH AND THE BORDER,,,,,,,,,,,,,,,,,na,na,na,na,na
+444,S14000054,PERTH AND NORTH PERTHSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+445,E14000878,PETERBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+446,E14000879,"PLYMOUTH, MOOR VIEW",,,,,,,,,,,,,,,,,na,na,na,na,na
+447,E14000880,"PLYMOUTH, SUTTON AND DEVONPORT",,,,,,,,,,,,,,,,,na,na,na,na,na
+448,W07000075,PONTYPRIDD,,,,,,,,,,,,,,,,,na,na,na,na,na
+449,E14000881,POOLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+450,E14000882,POPLAR AND LIMEHOUSE,,,,,,,,,,,,,,,,,na,na,na,na,na
+451,E14000883,PORTSMOUTH NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+452,E14000884,PORTSMOUTH SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+453,W07000065,PRESELI PEMBROKESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+454,E14000885,PRESTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+455,E14000886,PUDSEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+456,E14000887,PUTNEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+457,E14000888,RAYLEIGH AND WICKFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+458,E14000889,READING EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+459,E14000890,READING WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+460,E14000891,REDCAR,,,,,,,,,,,,,,,,,na,na,na,na,na
+461,E14000892,REDDITCH,,,,,,,,,,,,,,,,,na,na,na,na,na
+462,E14000893,REIGATE,,,,,,,,,,,,,,,,,na,na,na,na,na
+463,W07000052,RHONDDA,,,,,,,,,,,,,,,,,na,na,na,na,na
+464,E14000894,RIBBLE VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+465,E14000896,RICHMOND PARK,,,,,,,,,,,,,,,,,na,na,na,na,na
+466,E14000895,RICHMOND (YORKS),,,,,,,,,,,,,,,,,na,na,na,na,na
+467,E14000897,ROCHDALE,,,,,,,,,,,,,,,,,na,na,na,na,na
+468,E14000898,ROCHESTER AND STROOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+469,E14000899,ROCHFORD AND SOUTHEND EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+470,E14000900,ROMFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+471,E14000901,ROMSEY AND SOUTHAMPTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+472,E14000902,ROSSENDALE AND DARWEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+473,S14000055,"ROSS, SKYE AND LOCHABER",,,,,,,,,,,,,,,,,na,na,na,na,na
+474,E14000904,ROTHERHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+475,E14000903,ROTHER VALLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+476,E14000905,RUGBY,,,,,,,,,,,,,,,,,na,na,na,na,na
+477,E14000906,"RUISLIP, NORTHWOOD AND PINNER",,,,,,,,,,,,,,,,,na,na,na,na,na
+478,E14000907,RUNNYMEDE AND WEYBRIDGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+479,E14000908,RUSHCLIFFE,,,,,,,,,,,,,,,,,na,na,na,na,na
+480,S14000056,RUTHERGLEN AND HAMILTON WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+481,E14000909,RUTLAND AND MELTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+482,E14000910,SAFFRON WALDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+483,E14000911,SALFORD AND ECCLES,,,,,,,,,,,,,,,,,na,na,na,na,na
+484,E14000912,SALISBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+485,E14000913,SCARBOROUGH AND WHITBY,,,,,,,,,,,,,,,,,na,na,na,na,na
+486,E14000914,SCUNTHORPE,,,,,,,,,,,,,,,,,na,na,na,na,na
+487,E14000915,SEDGEFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+488,E14000916,SEFTON CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+489,E14000917,SELBY AND AINSTY,,,,,,,,,,,,,,,,,na,na,na,na,na
+490,E14000918,SEVENOAKS,,,,,,,,,,,,,,,,,na,na,na,na,na
+491,E14000921,"SHEFFIELD, BRIGHTSIDE AND HILLSBOROUGH",,,,,,,,,,,,,,,,,na,na,na,na,na
+492,E14000919,SHEFFIELD CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+493,E14000922,"SHEFFIELD, HALLAM",,,,,,,,,,,,,,,,,na,na,na,na,na
+494,E14000923,"SHEFFIELD, HEELEY",,,,,,,,,,,,,,,,,na,na,na,na,na
+495,E14000920,SHEFFIELD SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+496,E14000924,SHERWOOD,,,,,,,,,,,,,,,,,na,na,na,na,na
+497,E14000925,SHIPLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+498,E14000926,SHREWSBURY AND ATCHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+499,E14000927,SITTINGBOURNE AND SHEPPEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+500,E14000928,SKIPTON AND RIPON,,,,,,,,,,,,,,,,,na,na,na,na,na
+501,E14000929,SLEAFORD AND NORTH HYKEHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+502,E14000930,SLOUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+503,E14000931,SOLIHULL,,,,,,,,,,,,,,,,,na,na,na,na,na
+504,E14000932,SOMERTON AND FROME,,,,,,,,,,,,,,,,,na,na,na,na,na
+505,E14000955,"SOUTHAMPTON, ITCHEN",,,,,,,,,,,,,,,,,na,na,na,na,na
+506,E14000956,"SOUTHAMPTON, TEST",,,,,,,,,,,,,,,,,na,na,na,na,na
+507,N06000014,SOUTH ANTRIM,,,,,,,,,,,,,,,,,na,na,na,na,na
+508,E14000933,SOUTH BASILDON AND EAST THURROCK,,,,,,,,,,,,,,,,,na,na,na,na,na
+509,E14000934,SOUTH CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+510,E14000935,SOUTH DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+511,E14000936,SOUTH DORSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+512,N06000015,SOUTH DOWN,,,,,,,,,,,,,,,,,na,na,na,na,na
+513,E14000937,SOUTH EAST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+514,E14000938,SOUTH EAST CORNWALL,,,,,,,,,,,,,,,,,na,na,na,na,na
+515,E14000957,SOUTHEND WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+516,E14000939,SOUTH HOLLAND AND THE DEEPINGS,,,,,,,,,,,,,,,,,na,na,na,na,na
+517,E14000940,SOUTH LEICESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+518,E14000941,SOUTH NORFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+519,E14000942,SOUTH NORTHAMPTONSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+520,E14000958,SOUTHPORT,,,,,,,,,,,,,,,,,na,na,na,na,na
+521,E14000943,SOUTH RIBBLE,,,,,,,,,,,,,,,,,na,na,na,na,na
+522,E14000944,SOUTH SHIELDS,,,,,,,,,,,,,,,,,na,na,na,na,na
+523,E14000945,SOUTH STAFFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+524,E14000946,SOUTH SUFFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+525,E14000947,SOUTH SWINDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+526,E14000948,SOUTH THANET,,,,,,,,,,,,,,,,,na,na,na,na,na
+527,E14000949,SOUTH WEST BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+528,E14000950,SOUTH WEST DEVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+529,E14000951,SOUTH WEST HERTFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+530,E14000952,SOUTH WEST NORFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+531,E14000953,SOUTH WEST SURREY,,,,,,,,,,,,,,,,,na,na,na,na,na
+532,E14000954,SOUTH WEST WILTSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+533,E14000959,SPELTHORNE,,,,,,,,,,,,,,,,,na,na,na,na,na
+534,E14000965,STAFFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+535,E14000966,STAFFORDSHIRE MOORLANDS,,,,,,,,,,,,,,,,,na,na,na,na,na
+536,E14000960,ST ALBANS,,,,,,,,,,,,,,,,,na,na,na,na,na
+537,E14000967,STALYBRIDGE AND HYDE,,,,,,,,,,,,,,,,,na,na,na,na,na
+538,E14000961,ST AUSTELL AND NEWQUAY,,,,,,,,,,,,,,,,,na,na,na,na,na
+539,E14000968,STEVENAGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+540,E14000962,ST HELENS NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+541,E14000963,ST HELENS SOUTH AND WHISTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+542,S14000057,STIRLING,,,,,,,,,,,,,,,,,na,na,na,na,na
+543,E14000964,ST IVES,,,,,,,,,,,,,,,,,na,na,na,na,na
+544,E14000969,STOCKPORT,,,,,,,,,,,,,,,,,na,na,na,na,na
+545,E14000970,STOCKTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+546,E14000971,STOCKTON SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+547,E14000972,STOKE-ON-TRENT CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+548,E14000973,STOKE-ON-TRENT NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+549,E14000974,STOKE-ON-TRENT SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+550,E14000975,STONE,,,,,,,,,,,,,,,,,na,na,na,na,na
+551,E14000976,STOURBRIDGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+552,N06000016,STRANGFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+553,E14000977,STRATFORD-ON-AVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+554,E14000978,STREATHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+555,E14000979,STRETFORD AND URMSTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+556,E14000980,STROUD,,,,,,,,,,,,,,,,,na,na,na,na,na
+557,E14000981,SUFFOLK COASTAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+558,E14000982,SUNDERLAND CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+559,E14000983,SURREY HEATH,,,,,,,,,,,,,,,,,na,na,na,na,na
+560,E14000984,SUTTON AND CHEAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+561,E14000985,SUTTON COLDFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+562,W07000048,SWANSEA EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+563,W07000047,SWANSEA WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+564,E14000986,TAMWORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+565,E14000987,TATTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+566,E14000988,TAUNTON DEANE,,,,,,,,,,,,,,,,,na,na,na,na,na
+567,E14000989,TELFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+568,E14000990,TEWKESBURY,,,,,,,,,,,,,,,,,na,na,na,na,na
+569,E14000991,THE COTSWOLDS,,,,,,,,,,,,,,,,,na,na,na,na,na
+570,E14000992,THE WREKIN,,,,,,,,,,,,,,,,,na,na,na,na,na
+571,E14000993,THIRSK AND MALTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+572,E14000994,THORNBURY AND YATE,,,,,,,,,,,,,,,,,na,na,na,na,na
+573,E14000995,THURROCK,,,,,,,,,,,,,,,,,na,na,na,na,na
+574,E14000996,TIVERTON AND HONITON,,,,,,,,,,,,,,,,,na,na,na,na,na
+575,E14000997,TONBRIDGE AND MALLING,,,,,,,,,,,,,,,,,na,na,na,na,na
+576,E14000998,TOOTING,,,,,,,,,,,,,,,,,na,na,na,na,na
+577,E14000999,TORBAY,,,,,,,,,,,,,,,,,na,na,na,na,na
+578,W07000053,TORFAEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+579,E14001000,TORRIDGE AND WEST DEVON,,,,,,,,,,,,,,,,,na,na,na,na,na
+580,E14001001,TOTNES,,,,,,,,,,,,,,,,,na,na,na,na,na
+581,E14001002,TOTTENHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+582,E14001003,TRURO AND FALMOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+583,E14001004,TUNBRIDGE WELLS,,,,,,,,,,,,,,,,,na,na,na,na,na
+584,E14001005,TWICKENHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+585,E14001006,TYNEMOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+586,N06000017,UPPER BANN,,,,,,,,,,,,,,,,,na,na,na,na,na
+587,E14001007,UXBRIDGE AND SOUTH RUISLIP,,,,,,,,,,,,,,,,,na,na,na,na,na
+588,W07000060,VALE OF CLWYD,,,,,,,,,,,,,,,,,na,na,na,na,na
+589,W07000078,VALE OF GLAMORGAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+590,E14001008,VAUXHALL,,,,,,,,,,,,,,,,,na,na,na,na,na
+591,E14001009,WAKEFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+592,E14001010,WALLASEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+593,E14001011,WALSALL NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+594,E14001012,WALSALL SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+595,E14001013,WALTHAMSTOW,,,,,,,,,,,,,,,,,na,na,na,na,na
+596,E14001014,WANSBECK,,,,,,,,,,,,,,,,,na,na,na,na,na
+597,E14001015,WANTAGE,,,,,,,,,,,,,,,,,na,na,na,na,na
+598,E14001016,WARLEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+599,E14001017,WARRINGTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+600,E14001018,WARRINGTON SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+601,E14001019,WARWICK AND LEAMINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+602,E14001020,WASHINGTON AND SUNDERLAND WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+603,E14001021,WATFORD,,,,,,,,,,,,,,,,,na,na,na,na,na
+604,E14001022,WAVENEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+605,E14001023,WEALDEN,,,,,,,,,,,,,,,,,na,na,na,na,na
+606,E14001024,WEAVER VALE,,,,,,,,,,,,,,,,,na,na,na,na,na
+607,E14001025,WELLINGBOROUGH,,,,,,,,,,,,,,,,,na,na,na,na,na
+608,E14001026,WELLS,,,,,,,,,,,,,,,,,na,na,na,na,na
+609,E14001027,WELWYN HATFIELD,,,,,,,,,,,,,,,,,na,na,na,na,na
+610,E14001028,WENTWORTH AND DEARNE,,,,,,,,,,,,,,,,,na,na,na,na,na
+611,S14000058,WEST ABERDEENSHIRE AND KINCARDINE,,,,,,,,,,,,,,,,,na,na,na,na,na
+612,E14001029,WEST BROMWICH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+613,E14001030,WEST BROMWICH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+614,E14001031,WEST DORSET,,,,,,,,,,,,,,,,,na,na,na,na,na
+615,S14000059,WEST DUNBARTONSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+616,E14001032,WEST HAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+617,E14001033,WEST LANCASHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+618,E14001036,WESTMINSTER NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+619,E14001037,WESTMORLAND AND LONSDALE,,,,,,,,,,,,,,,,,na,na,na,na,na
+620,E14001038,WESTON-SUPER-MARE,,,,,,,,,,,,,,,,,na,na,na,na,na
+621,E14001034,WEST SUFFOLK,,,,,,,,,,,,,,,,,na,na,na,na,na
+622,N06000018,WEST TYRONE,,,,,,,,,,,,,,,,,na,na,na,na,na
+623,E14001035,WEST WORCESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na,na,na
+624,E14001039,WIGAN,,,,,,,,,,,,,,,,,na,na,na,na,na
+625,E14001040,WIMBLEDON,,,,,,,,,,,,,,,,,na,na,na,na,na
+626,E14001041,WINCHESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+627,E14001042,WINDSOR,,,,,,,,,,,,,,,,,na,na,na,na,na
+628,E14001043,WIRRAL SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+629,E14001044,WIRRAL WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+630,E14001045,WITHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+631,E14001046,WITNEY,,,,,,,,,,,,,,,,,na,na,na,na,na
+632,E14001047,WOKING,,,,,,,,,,,,,,,,,na,na,na,na,na
+633,E14001048,WOKINGHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+634,E14001049,WOLVERHAMPTON NORTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+635,E14001050,WOLVERHAMPTON SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+636,E14001051,WOLVERHAMPTON SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+637,E14001052,WORCESTER,,,,,,,,,,,,,,,,,na,na,na,na,na
+638,E14001053,WORKINGTON,,,,,,,,,,,,,,,,,na,na,na,na,na
+639,E14001054,WORSLEY AND ECCLES SOUTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+640,E14001055,WORTHING WEST,,,,,,,,,,,,,,,,,na,na,na,na,na
+641,W07000044,WREXHAM,,,,,,,,,,,,,,,,,na,na,na,na,na
+642,E14001056,WYCOMBE,,,,,,,,,,,,,,,,,na,na,na,na,na
+643,E14001057,WYRE AND PRESTON NORTH,,,,,,,,,,,,,,,,,na,na,na,na,na
+644,E14001058,WYRE FOREST,,,,,,,,,,,,,,,,,na,na,na,na,na
+645,E14001059,WYTHENSHAWE AND SALE EAST,,,,,,,,,,,,,,,,,na,na,na,na,na
+646,E14001060,YEOVIL,,,,,,,,,,,,,,,,,na,na,na,na,na
+647,W07000041,YNYS MON,,,,,,,,,,,,,,,,,na,na,na,na,na
+648,E14001061,YORK CENTRAL,,,,,,,,,,,,,,,,,na,na,na,na,na
+649,E14001062,YORK OUTER,,,,,,,,,,,,,,,,,na,na,na,na,na

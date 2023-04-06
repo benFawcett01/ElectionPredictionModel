@@ -1,7 +1,9 @@
 from flask import Flask, render_template
+from model import Model
 
 
 app = Flask(__name__)
+
 
 
 @app.route("/")
@@ -14,6 +16,10 @@ def back():
 
 @app.route('/results.html')
 def results():
+
+    m = Model()
+    m.run_pop_forecast()
+
     return render_template('results.html')
 
 @app.route('/details.html')
@@ -35,3 +41,7 @@ def compare():
 @app.route('/individual_seat.html')
 def individual_seat():
     return render_template('individual_seat.html')
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
