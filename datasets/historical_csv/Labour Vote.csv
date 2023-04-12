@@ -1,651 +1,651 @@
-,id,Constituency,1964 Vote Share,1966 Vote Share,1970 Vote Share,1974 (F) Vote Share,1974 (O) Vote Share,1979 Vote Share,1983 Vote Share,1987 Vote Share,1992 Vote Share,1997 Vote Share,2001 Vote Share,2005 Vote Share,2010 Vote Share,2015 Vote Share,2017 Vote Share,2019 Vote Share,Con Vote,Liberal Vote,Labour Vote
-0,W07000049,ABERAVON,,,,,,,,,,,,,,,,,na,na,na
-1,W07000058,ABERCONWY,,,,,,,,,,,,,,,,,na,na,na
-2,S14000001,ABERDEEN NORTH,,,,,,,,,,,,,,,,,na,na,na
-3,S14000002,ABERDEEN SOUTH,,,,,,,,,,,,,,,,,na,na,na
-4,S14000003,AIRDRIE AND SHOTTS,,,,,,,,,,,,,,,,,na,na,na
-5,E14000530,ALDERSHOT,,,,,,,,,,,,,,,,,na,na,na
-6,E14000531,ALDRIDGE-BROWNHILLS,,,,,,,,,,,,,,,,,na,na,na
-7,E14000532,ALTRINCHAM AND SALE WEST,,,,,,,,,,,,,,,,,na,na,na
-8,W07000043,ALYN AND DEESIDE,,,,,,,,,,,,,,,,,na,na,na
-9,E14000533,AMBER VALLEY,,,,,,,,,,,,,,,,,na,na,na
-10,S14000004,ANGUS,,,,,,,,,,,,,,,,,na,na,na
-11,W07000057,ARFON,,,,,,,,,,,,,,,,,na,na,na
-12,S14000005,ARGYLL AND BUTE,,,,,,,,,,,,,,,,,na,na,na
-13,E14000534,ARUNDEL AND SOUTH DOWNS,,,,,,,,,,,,,,,,,na,na,na
-14,E14000535,ASHFIELD,,,,,,,,,,,,,,,,,na,na,na
-15,E14000536,ASHFORD,,,,,,,,,,,,,,,,,na,na,na
-16,E14000537,ASHTON-UNDER-LYNE,,,,,,,,,,,,,,,,,na,na,na
-17,E14000538,AYLESBURY,,,,,,,,,,,,,,,,,na,na,na
-18,S14000006,"AYR, CARRICK AND CUMNOCK",,,,,,,,,,,,,,,,,na,na,na
-19,E14000539,BANBURY,,,,,,,,,,,,,,,,,na,na,na
-20,S14000007,BANFF AND BUCHAN,,,,,,,,,,,,,,,,,na,na,na
-21,E14000540,BARKING,,,,,,,,,,,,,,,,,na,na,na
-22,E14000541,BARNSLEY CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-23,E14000542,BARNSLEY EAST,,,,,,,,,,,,,,,,,na,na,na
-24,E14000543,BARROW AND FURNESS,,,,,,,,,,,,,,,,,na,na,na
-25,E14000544,BASILDON AND BILLERICAY,,,,,,,,,,,,,,,,,na,na,na
-26,E14000545,BASINGSTOKE,,,,,,,,,,,,,,,,,na,na,na
-27,E14000546,BASSETLAW,,,,,,,,,,,,,,,,,na,na,na
-28,E14000547,BATH,,,,,,,,,,,,,,,,,na,na,na
-29,E14000548,BATLEY AND SPEN,,,,,,,,,,,,,,,,,na,na,na
-30,E14000549,BATTERSEA,,,,,,,,,,,,,,,,,na,na,na
-31,E14000550,BEACONSFIELD,,,,,,,,,,,,,,,,,na,na,na
-32,E14000551,BECKENHAM,,,,,,,,,,,,,,,,,na,na,na
-33,E14000552,BEDFORD,,,,,,,,,,,,,,,,,na,na,na
-34,N06000001,BELFAST EAST,,,,,,,,,,,,,,,,,na,na,na
-35,N06000002,BELFAST NORTH,,,,,,,,,,,,,,,,,na,na,na
-36,N06000003,BELFAST SOUTH,,,,,,,,,,,,,,,,,na,na,na
-37,N06000004,BELFAST WEST,,,,,,,,,,,,,,,,,na,na,na
-38,E14000553,BERMONDSEY AND OLD SOUTHWARK,,,,,,,,,,,,,,,,,na,na,na
-39,S14000008,"BERWICKSHIRE, ROXBURGH AND SELKIRK",,,,,,,,,,,,,,,,,na,na,na
-40,E14000554,BERWICK-UPON-TWEED,,,,,,,,,,,,,,,,,na,na,na
-41,E14000555,BETHNAL GREEN AND BOW,,,,,,,,,,,,,,,,,na,na,na
-42,E14000556,BEVERLEY AND HOLDERNESS,,,,,,,,,,,,,,,,,na,na,na
-43,E14000557,BEXHILL AND BATTLE,,,,,,,,,,,,,,,,,na,na,na
-44,E14000558,BEXLEYHEATH AND CRAYFORD,,,,,,,,,,,,,,,,,na,na,na
-45,E14000559,BIRKENHEAD,,,,,,,,,,,,,,,,,na,na,na
-46,E14000560,"BIRMINGHAM, EDGBASTON",,,,,,,,,,,,,,,,,na,na,na
-47,E14000561,"BIRMINGHAM, ERDINGTON",,,,,,,,,,,,,,,,,na,na,na
-48,E14000562,"BIRMINGHAM, HALL GREEN",,,,,,,,,,,,,,,,,na,na,na
-49,E14000563,"BIRMINGHAM, HODGE HILL",,,,,,,,,,,,,,,,,na,na,na
-50,E14000564,"BIRMINGHAM, LADYWOOD",,,,,,,,,,,,,,,,,na,na,na
-51,E14000565,"BIRMINGHAM, NORTHFIELD",,,,,,,,,,,,,,,,,na,na,na
-52,E14000566,"BIRMINGHAM, PERRY BARR",,,,,,,,,,,,,,,,,na,na,na
-53,E14000567,"BIRMINGHAM, SELLY OAK",,,,,,,,,,,,,,,,,na,na,na
-54,E14000568,"BIRMINGHAM, YARDLEY",,,,,,,,,,,,,,,,,na,na,na
-55,E14000569,BISHOP AUCKLAND,,,,,,,,,,,,,,,,,na,na,na
-56,E14000570,BLACKBURN,,,,,,,,,,,,,,,,,na,na,na
-57,E14000571,BLACKLEY AND BROUGHTON,,,,,,,,,,,,,,,,,na,na,na
-58,E14000572,BLACKPOOL NORTH AND CLEVELEYS,,,,,,,,,,,,,,,,,na,na,na
-59,E14000573,BLACKPOOL SOUTH,,,,,,,,,,,,,,,,,na,na,na
-60,W07000072,BLAENAU GWENT,,,,,,,,,,,,,,,,,na,na,na
-61,E14000574,BLAYDON,,,,,,,,,,,,,,,,,na,na,na
-62,E14000575,BLYTH VALLEY,,,,,,,,,,,,,,,,,na,na,na
-63,E14000576,BOGNOR REGIS AND LITTLEHAMPTON,,,,,,,,,,,,,,,,,na,na,na
-64,E14000577,BOLSOVER,,,,,,,,,,,,,,,,,na,na,na
-65,E14000578,BOLTON NORTH EAST,,,,,,,,,,,,,,,,,na,na,na
-66,E14000579,BOLTON SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na
-67,E14000580,BOLTON WEST,,,,,,,,,,,,,,,,,na,na,na
-68,E14000581,BOOTLE,,,,,,,,,,,,,,,,,na,na,na
-69,E14000582,BOSTON AND SKEGNESS,,,,,,,,,,,,,,,,,na,na,na
-70,E14000583,BOSWORTH,,,,,,,,,,,,,,,,,na,na,na
-71,E14000584,BOURNEMOUTH EAST,,,,,,,,,,,,,,,,,na,na,na
-72,E14000585,BOURNEMOUTH WEST,,,,,,,,,,,,,,,,,na,na,na
-73,E14000586,BRACKNELL,,,,,,,,,,,,,,,,,na,na,na
-74,E14000587,BRADFORD EAST,,,,,,,,,,,,,,,,,na,na,na
-75,E14000588,BRADFORD SOUTH,,,,,,,,,,,,,,,,,na,na,na
-76,E14000589,BRADFORD WEST,,,,,,,,,,,,,,,,,na,na,na
-77,E14000590,BRAINTREE,,,,,,,,,,,,,,,,,na,na,na
-78,W07000068,BRECON AND RADNORSHIRE,,,,,,,,,,,,,,,,,na,na,na
-79,E14000591,BRENT CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-80,E14000593,BRENTFORD AND ISLEWORTH,,,,,,,,,,,,,,,,,na,na,na
-81,E14000592,BRENT NORTH,,,,,,,,,,,,,,,,,na,na,na
-82,E14000594,BRENTWOOD AND ONGAR,,,,,,,,,,,,,,,,,na,na,na
-83,W07000073,BRIDGEND,,,,,,,,,,,,,,,,,na,na,na
-84,E14000595,BRIDGWATER AND WEST SOMERSET,,,,,,,,,,,,,,,,,na,na,na
-85,E14000596,BRIGG AND GOOLE,,,,,,,,,,,,,,,,,na,na,na
-86,E14000597,"BRIGHTON, KEMPTOWN",,,,,,,,,,,,,,,,,na,na,na
-87,E14000598,"BRIGHTON, PAVILION",,,,,,,,,,,,,,,,,na,na,na
-88,E14000599,BRISTOL EAST,,,,,,,,,,,,,,,,,na,na,na
-89,E14000600,BRISTOL NORTH WEST,,,,,,,,,,,,,,,,,na,na,na
-90,E14000601,BRISTOL SOUTH,,,,,,,,,,,,,,,,,na,na,na
-91,E14000602,BRISTOL WEST,,,,,,,,,,,,,,,,,na,na,na
-92,E14000603,BROADLAND,,,,,,,,,,,,,,,,,na,na,na
-93,E14000604,BROMLEY AND CHISLEHURST,,,,,,,,,,,,,,,,,na,na,na
-94,E14000605,BROMSGROVE,,,,,,,,,,,,,,,,,na,na,na
-95,E14000606,BROXBOURNE,,,,,,,,,,,,,,,,,na,na,na
-96,E14000607,BROXTOWE,,,,,,,,,,,,,,,,,na,na,na
-97,E14000608,BUCKINGHAM,,,,,,,,,,,,,,,,,na,na,na
-98,E14000609,BURNLEY,,,,,,,,,,,,,,,,,na,na,na
-99,E14000610,BURTON,,,,,,,,,,,,,,,,,na,na,na
-100,E14000611,BURY NORTH,,,,,,,,,,,,,,,,,na,na,na
-101,E14000612,BURY SOUTH,,,,,,,,,,,,,,,,,na,na,na
-102,E14000613,BURY ST EDMUNDS,,,,,,,,,,,,,,,,,na,na,na
-103,W07000076,CAERPHILLY,,,,,,,,,,,,,,,,,na,na,na
-104,S14000009,"CAITHNESS, SUTHERLAND AND EASTER ROSS",,,,,,,,,,,,,,,,,na,na,na
-105,E14000614,CALDER VALLEY,,,,,,,,,,,,,,,,,na,na,na
-106,E14000615,CAMBERWELL AND PECKHAM,,,,,,,,,,,,,,,,,na,na,na
-107,E14000616,CAMBORNE AND REDRUTH,,,,,,,,,,,,,,,,,na,na,na
-108,E14000617,CAMBRIDGE,,,,,,,,,,,,,,,,,na,na,na
-109,E14000618,CANNOCK CHASE,,,,,,,,,,,,,,,,,na,na,na
-110,E14000619,CANTERBURY,,,,,,,,,,,,,,,,,na,na,na
-111,W07000050,CARDIFF CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-112,W07000051,CARDIFF NORTH,,,,,,,,,,,,,,,,,na,na,na
-113,W07000080,CARDIFF SOUTH AND PENARTH,,,,,,,,,,,,,,,,,na,na,na
-114,W07000079,CARDIFF WEST,,,,,,,,,,,,,,,,,na,na,na
-115,E14000620,CARLISLE,,,,,,,,,,,,,,,,,na,na,na
-116,W07000067,CARMARTHEN EAST AND DINEFWR,,,,,,,,,,,,,,,,,na,na,na
-117,W07000066,CARMARTHEN WEST AND SOUTH PEMBROKESHIRE,,,,,,,,,,,,,,,,,na,na,na
-118,E14000621,CARSHALTON AND WALLINGTON,,,,,,,,,,,,,,,,,na,na,na
-119,E14000622,CASTLE POINT,,,,,,,,,,,,,,,,,na,na,na
-120,S14000010,CENTRAL AYRSHIRE,,,,,,,,,,,,,,,,,na,na,na
-121,E14000623,CENTRAL DEVON,,,,,,,,,,,,,,,,,na,na,na
-122,E14000624,CENTRAL SUFFOLK AND NORTH IPSWICH,,,,,,,,,,,,,,,,,na,na,na
-123,W07000064,CEREDIGION,,,,,,,,,,,,,,,,,na,na,na
-124,E14000625,CHARNWOOD,,,,,,,,,,,,,,,,,na,na,na
-125,E14000626,CHATHAM AND AYLESFORD,,,,,,,,,,,,,,,,,na,na,na
-126,E14000627,CHEADLE,,,,,,,,,,,,,,,,,na,na,na
-127,E14000628,CHELMSFORD,,,,,,,,,,,,,,,,,na,na,na
-128,E14000629,CHELSEA AND FULHAM,,,,,,,,,,,,,,,,,na,na,na
-129,E14000630,CHELTENHAM,,,,,,,,,,,,,,,,,na,na,na
-130,E14000631,CHESHAM AND AMERSHAM,,,,,,,,,,,,,,,,,na,na,na
-131,E14000632,CHESTERFIELD,,,,,,,,,,,,,,,,,na,na,na
-132,E14000633,CHICHESTER,,,,,,,,,,,,,,,,,na,na,na
-133,E14000634,CHINGFORD AND WOODFORD GREEN,,,,,,,,,,,,,,,,,na,na,na
-134,E14000635,CHIPPENHAM,,,,,,,,,,,,,,,,,na,na,na
-135,E14000636,CHIPPING BARNET,,,,,,,,,,,,,,,,,na,na,na
-136,E14000637,CHORLEY,,,,,,,,,,,,,,,,,na,na,na
-137,E14000638,CHRISTCHURCH,,,,,,,,,,,,,,,,,na,na,na
-138,E14000639,CITIES OF LONDON AND WESTMINSTER,,,,,,,,,,,,,,,,,na,na,na
-139,E14000640,CITY OF CHESTER,,,,,,,,,,,,,,,,,na,na,na
-140,E14000641,CITY OF DURHAM,,,,,,,,,,,,,,,,,na,na,na
-141,E14000642,CLACTON,,,,,,,,,,,,,,,,,na,na,na
-142,E14000643,CLEETHORPES,,,,,,,,,,,,,,,,,na,na,na
-143,W07000062,CLWYD SOUTH,,,,,,,,,,,,,,,,,na,na,na
-144,W07000059,CLWYD WEST,,,,,,,,,,,,,,,,,na,na,na
-145,S14000011,"COATBRIDGE, CHRYSTON AND BELLSHILL",,,,,,,,,,,,,,,,,na,na,na
-146,E14000644,COLCHESTER,,,,,,,,,,,,,,,,,na,na,na
-147,E14000645,COLNE VALLEY,,,,,,,,,,,,,,,,,na,na,na
-148,E14000646,CONGLETON,,,,,,,,,,,,,,,,,na,na,na
-149,E14000647,COPELAND,,,,,,,,,,,,,,,,,na,na,na
-150,E14000648,CORBY,,,,,,,,,,,,,,,,,na,na,na
-151,E14000649,COVENTRY NORTH EAST,,,,,,,,,,,,,,,,,na,na,na
-152,E14000650,COVENTRY NORTH WEST,,,,,,,,,,,,,,,,,na,na,na
-153,E14000651,COVENTRY SOUTH,,,,,,,,,,,,,,,,,na,na,na
-154,E14000652,CRAWLEY,,,,,,,,,,,,,,,,,na,na,na
-155,E14000653,CREWE AND NANTWICH,,,,,,,,,,,,,,,,,na,na,na
-156,E14000654,CROYDON CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-157,E14000655,CROYDON NORTH,,,,,,,,,,,,,,,,,na,na,na
-158,E14000656,CROYDON SOUTH,,,,,,,,,,,,,,,,,na,na,na
-159,S14000012,"CUMBERNAULD, KILSYTH AND KIRKINTILLOCH EAST",,,,,,,,,,,,,,,,,na,na,na
-160,W07000070,CYNON VALLEY,,,,,,,,,,,,,,,,,na,na,na
-161,E14000657,DAGENHAM AND RAINHAM,,,,,,,,,,,,,,,,,na,na,na
-162,E14000658,DARLINGTON,,,,,,,,,,,,,,,,,na,na,na
-163,E14000659,DARTFORD,,,,,,,,,,,,,,,,,na,na,na
-164,E14000660,DAVENTRY,,,,,,,,,,,,,,,,,na,na,na
-165,W07000042,DELYN,,,,,,,,,,,,,,,,,na,na,na
-166,E14000661,DENTON AND REDDISH,,,,,,,,,,,,,,,,,na,na,na
-167,E14000662,DERBY NORTH,,,,,,,,,,,,,,,,,na,na,na
-168,E14000664,DERBYSHIRE DALES,,,,,,,,,,,,,,,,,na,na,na
-169,E14000663,DERBY SOUTH,,,,,,,,,,,,,,,,,na,na,na
-170,E14000665,DEVIZES,,,,,,,,,,,,,,,,,na,na,na
-171,E14000666,DEWSBURY,,,,,,,,,,,,,,,,,na,na,na
-172,E14000668,DONCASTER CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-173,E14000669,DONCASTER NORTH,,,,,,,,,,,,,,,,,na,na,na
-174,E14000667,DON VALLEY,,,,,,,,,,,,,,,,,na,na,na
-175,E14000670,DOVER,,,,,,,,,,,,,,,,,na,na,na
-176,E14000671,DUDLEY NORTH,,,,,,,,,,,,,,,,,na,na,na
-177,E14000672,DUDLEY SOUTH,,,,,,,,,,,,,,,,,na,na,na
-178,E14000673,DULWICH AND WEST NORWOOD,,,,,,,,,,,,,,,,,na,na,na
-179,S14000013,DUMFRIES AND GALLOWAY,,,,,,,,,,,,,,,,,na,na,na
-180,S14000014,"DUMFRIESSHIRE, CLYDESDALE AND TWEEDDALE",,,,,,,,,,,,,,,,,na,na,na
-181,S14000015,DUNDEE EAST,,,,,,,,,,,,,,,,,na,na,na
-182,S14000016,DUNDEE WEST,,,,,,,,,,,,,,,,,na,na,na
-183,S14000017,DUNFERMLINE AND WEST FIFE,,,,,,,,,,,,,,,,,na,na,na
-184,W07000061,DWYFOR MEIRIONNYDD,,,,,,,,,,,,,,,,,na,na,na
-185,E14000674,EALING CENTRAL AND ACTON,,,,,,,,,,,,,,,,,na,na,na
-186,E14000675,EALING NORTH,,,,,,,,,,,,,,,,,na,na,na
-187,E14000676,"EALING, SOUTHALL",,,,,,,,,,,,,,,,,na,na,na
-188,E14000677,EASINGTON,,,,,,,,,,,,,,,,,na,na,na
-189,N06000005,EAST ANTRIM,,,,,,,,,,,,,,,,,na,na,na
-190,E14000684,EASTBOURNE,,,,,,,,,,,,,,,,,na,na,na
-191,E14000678,EAST DEVON,,,,,,,,,,,,,,,,,na,na,na
-192,S14000018,EAST DUNBARTONSHIRE,,,,,,,,,,,,,,,,,na,na,na
-193,E14000679,EAST HAM,,,,,,,,,,,,,,,,,na,na,na
-194,E14000680,EAST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na
-195,S14000019,"EAST KILBRIDE, STRATHAVEN AND LESMAHAGOW",,,,,,,,,,,,,,,,,na,na,na
-196,E14000685,EASTLEIGH,,,,,,,,,,,,,,,,,na,na,na
-197,N06000006,EAST LONDONDERRY,,,,,,,,,,,,,,,,,na,na,na
-198,S14000020,EAST LOTHIAN,,,,,,,,,,,,,,,,,na,na,na
-199,S14000021,EAST RENFREWSHIRE,,,,,,,,,,,,,,,,,na,na,na
-200,E14000681,EAST SURREY,,,,,,,,,,,,,,,,,na,na,na
-201,E14000682,EAST WORTHING AND SHOREHAM,,,,,,,,,,,,,,,,,na,na,na
-202,E14000683,EAST YORKSHIRE,,,,,,,,,,,,,,,,,na,na,na
-203,E14000686,EDDISBURY,,,,,,,,,,,,,,,,,na,na,na
-204,S14000022,EDINBURGH EAST,,,,,,,,,,,,,,,,,na,na,na
-205,S14000023,EDINBURGH NORTH AND LEITH,,,,,,,,,,,,,,,,,na,na,na
-206,S14000024,EDINBURGH SOUTH,,,,,,,,,,,,,,,,,na,na,na
-207,S14000025,EDINBURGH SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na
-208,S14000026,EDINBURGH WEST,,,,,,,,,,,,,,,,,na,na,na
-209,E14000687,EDMONTON,,,,,,,,,,,,,,,,,na,na,na
-210,E14000688,ELLESMERE PORT AND NESTON,,,,,,,,,,,,,,,,,na,na,na
-211,E14000689,ELMET AND ROTHWELL,,,,,,,,,,,,,,,,,na,na,na
-212,E14000690,ELTHAM,,,,,,,,,,,,,,,,,na,na,na
-213,E14000691,ENFIELD NORTH,,,,,,,,,,,,,,,,,na,na,na
-214,E14000692,"ENFIELD, SOUTHGATE",,,,,,,,,,,,,,,,,na,na,na
-215,E14000693,EPPING FOREST,,,,,,,,,,,,,,,,,na,na,na
-216,E14000694,EPSOM AND EWELL,,,,,,,,,,,,,,,,,na,na,na
-217,E14000695,EREWASH,,,,,,,,,,,,,,,,,na,na,na
-218,E14000696,ERITH AND THAMESMEAD,,,,,,,,,,,,,,,,,na,na,na
-219,E14000697,ESHER AND WALTON,,,,,,,,,,,,,,,,,na,na,na
-220,E14000698,EXETER,,,,,,,,,,,,,,,,,na,na,na
-221,S14000028,FALKIRK,,,,,,,,,,,,,,,,,na,na,na
-222,E14000699,FAREHAM,,,,,,,,,,,,,,,,,na,na,na
-223,E14000700,FAVERSHAM AND MID KENT,,,,,,,,,,,,,,,,,na,na,na
-224,E14000701,FELTHAM AND HESTON,,,,,,,,,,,,,,,,,na,na,na
-225,N06000007,FERMANAGH AND SOUTH TYRONE,,,,,,,,,,,,,,,,,na,na,na
-226,E14000702,FILTON AND BRADLEY STOKE,,,,,,,,,,,,,,,,,na,na,na
-227,E14000703,FINCHLEY AND GOLDERS GREEN,,,,,,,,,,,,,,,,,na,na,na
-228,E14000704,FOLKESTONE AND HYTHE,,,,,,,,,,,,,,,,,na,na,na
-229,E14000705,FOREST OF DEAN,,,,,,,,,,,,,,,,,na,na,na
-230,N06000008,FOYLE,,,,,,,,,,,,,,,,,na,na,na
-231,E14000706,FYLDE,,,,,,,,,,,,,,,,,na,na,na
-232,E14000707,GAINSBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-233,E14000708,GARSTON AND HALEWOOD,,,,,,,,,,,,,,,,,na,na,na
-234,E14000709,GATESHEAD,,,,,,,,,,,,,,,,,na,na,na
-235,E14000710,GEDLING,,,,,,,,,,,,,,,,,na,na,na
-236,E14000711,GILLINGHAM AND RAINHAM,,,,,,,,,,,,,,,,,na,na,na
-237,S14000029,GLASGOW CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-238,S14000030,GLASGOW EAST,,,,,,,,,,,,,,,,,na,na,na
-239,S14000031,GLASGOW NORTH,,,,,,,,,,,,,,,,,na,na,na
-240,S14000032,GLASGOW NORTH EAST,,,,,,,,,,,,,,,,,na,na,na
-241,S14000033,GLASGOW NORTH WEST,,,,,,,,,,,,,,,,,na,na,na
-242,S14000034,GLASGOW SOUTH,,,,,,,,,,,,,,,,,na,na,na
-243,S14000035,GLASGOW SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na
-244,S14000036,GLENROTHES,,,,,,,,,,,,,,,,,na,na,na
-245,E14000712,GLOUCESTER,,,,,,,,,,,,,,,,,na,na,na
-246,S14000037,GORDON,,,,,,,,,,,,,,,,,na,na,na
-247,E14000713,GOSPORT,,,,,,,,,,,,,,,,,na,na,na
-248,W07000046,GOWER,,,,,,,,,,,,,,,,,na,na,na
-249,E14000714,GRANTHAM AND STAMFORD,,,,,,,,,,,,,,,,,na,na,na
-250,E14000715,GRAVESHAM,,,,,,,,,,,,,,,,,na,na,na
-251,E14000716,GREAT GRIMSBY,,,,,,,,,,,,,,,,,na,na,na
-252,E14000717,GREAT YARMOUTH,,,,,,,,,,,,,,,,,na,na,na
-253,E14000718,GREENWICH AND WOOLWICH,,,,,,,,,,,,,,,,,na,na,na
-254,E14000719,GUILDFORD,,,,,,,,,,,,,,,,,na,na,na
-255,E14000720,HACKNEY NORTH AND STOKE NEWINGTON,,,,,,,,,,,,,,,,,na,na,na
-256,E14000721,HACKNEY SOUTH AND SHOREDITCH,,,,,,,,,,,,,,,,,na,na,na
-257,E14000722,HALESOWEN AND ROWLEY REGIS,,,,,,,,,,,,,,,,,na,na,na
-258,E14000723,HALIFAX,,,,,,,,,,,,,,,,,na,na,na
-259,E14000724,HALTEMPRICE AND HOWDEN,,,,,,,,,,,,,,,,,na,na,na
-260,E14000725,HALTON,,,,,,,,,,,,,,,,,na,na,na
-261,E14000726,HAMMERSMITH,,,,,,,,,,,,,,,,,na,na,na
-262,E14000727,HAMPSTEAD AND KILBURN,,,,,,,,,,,,,,,,,na,na,na
-263,E14000728,HARBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-264,E14000729,HARLOW,,,,,,,,,,,,,,,,,na,na,na
-265,E14000730,HARROGATE AND KNARESBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-266,E14000731,HARROW EAST,,,,,,,,,,,,,,,,,na,na,na
-267,E14000732,HARROW WEST,,,,,,,,,,,,,,,,,na,na,na
-268,E14000733,HARTLEPOOL,,,,,,,,,,,,,,,,,na,na,na
-269,E14000734,HARWICH AND NORTH ESSEX,,,,,,,,,,,,,,,,,na,na,na
-270,E14000735,HASTINGS AND RYE,,,,,,,,,,,,,,,,,na,na,na
-271,E14000736,HAVANT,,,,,,,,,,,,,,,,,na,na,na
-272,E14000737,HAYES AND HARLINGTON,,,,,,,,,,,,,,,,,na,na,na
-273,E14000738,HAZEL GROVE,,,,,,,,,,,,,,,,,na,na,na
-274,E14000739,HEMEL HEMPSTEAD,,,,,,,,,,,,,,,,,na,na,na
-275,E14000740,HEMSWORTH,,,,,,,,,,,,,,,,,na,na,na
-276,E14000741,HENDON,,,,,,,,,,,,,,,,,na,na,na
-277,E14000742,HENLEY,,,,,,,,,,,,,,,,,na,na,na
-278,E14000743,HEREFORD AND SOUTH HEREFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-279,E14000744,HERTFORD AND STORTFORD,,,,,,,,,,,,,,,,,na,na,na
-280,E14000745,HERTSMERE,,,,,,,,,,,,,,,,,na,na,na
-281,E14000746,HEXHAM,,,,,,,,,,,,,,,,,na,na,na
-282,E14000747,HEYWOOD AND MIDDLETON,,,,,,,,,,,,,,,,,na,na,na
-283,E14000748,HIGH PEAK,,,,,,,,,,,,,,,,,na,na,na
-284,E14000749,HITCHIN AND HARPENDEN,,,,,,,,,,,,,,,,,na,na,na
-285,E14000750,HOLBORN AND ST PANCRAS,,,,,,,,,,,,,,,,,na,na,na
-286,E14000751,HORNCHURCH AND UPMINSTER,,,,,,,,,,,,,,,,,na,na,na
-287,E14000752,HORNSEY AND WOOD GREEN,,,,,,,,,,,,,,,,,na,na,na
-288,E14000753,HORSHAM,,,,,,,,,,,,,,,,,na,na,na
-289,E14000754,HOUGHTON AND SUNDERLAND SOUTH,,,,,,,,,,,,,,,,,na,na,na
-290,E14000755,HOVE,,,,,,,,,,,,,,,,,na,na,na
-291,E14000756,HUDDERSFIELD,,,,,,,,,,,,,,,,,na,na,na
-292,E14000757,HUNTINGDON,,,,,,,,,,,,,,,,,na,na,na
-293,E14000758,HYNDBURN,,,,,,,,,,,,,,,,,na,na,na
-294,E14000759,ILFORD NORTH,,,,,,,,,,,,,,,,,na,na,na
-295,E14000760,ILFORD SOUTH,,,,,,,,,,,,,,,,,na,na,na
-296,S14000038,INVERCLYDE,,,,,,,,,,,,,,,,,na,na,na
-297,S14000039,"INVERNESS, NAIRN, BADENOCH AND STRATHSPEY",,,,,,,,,,,,,,,,,na,na,na
-298,E14000761,IPSWICH,,,,,,,,,,,,,,,,,na,na,na
-299,E14000762,ISLE OF WIGHT,,,,,,,,,,,,,,,,,na,na,na
-300,E14000763,ISLINGTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-301,E14000764,ISLINGTON SOUTH AND FINSBURY,,,,,,,,,,,,,,,,,na,na,na
-302,W07000077,ISLWYN,,,,,,,,,,,,,,,,,na,na,na
-303,E14000765,JARROW,,,,,,,,,,,,,,,,,na,na,na
-304,E14000766,KEIGHLEY,,,,,,,,,,,,,,,,,na,na,na
-305,E14000767,KENILWORTH AND SOUTHAM,,,,,,,,,,,,,,,,,na,na,na
-306,E14000768,KENSINGTON,,,,,,,,,,,,,,,,,na,na,na
-307,E14000769,KETTERING,,,,,,,,,,,,,,,,,na,na,na
-308,S14000040,KILMARNOCK AND LOUDOUN,,,,,,,,,,,,,,,,,na,na,na
-309,E14000770,KINGSTON AND SURBITON,,,,,,,,,,,,,,,,,na,na,na
-310,E14000771,KINGSTON UPON HULL EAST,,,,,,,,,,,,,,,,,na,na,na
-311,E14000772,KINGSTON UPON HULL NORTH,,,,,,,,,,,,,,,,,na,na,na
-312,E14000773,KINGSTON UPON HULL WEST AND HESSLE,,,,,,,,,,,,,,,,,na,na,na
-313,E14000774,KINGSWOOD,,,,,,,,,,,,,,,,,na,na,na
-314,S14000041,KIRKCALDY AND COWDENBEATH,,,,,,,,,,,,,,,,,na,na,na
-315,E14000775,KNOWSLEY,,,,,,,,,,,,,,,,,na,na,na
-316,N06000009,LAGAN VALLEY,,,,,,,,,,,,,,,,,na,na,na
-317,S14000042,LANARK AND HAMILTON EAST,,,,,,,,,,,,,,,,,na,na,na
-318,E14000776,LANCASTER AND FLEETWOOD,,,,,,,,,,,,,,,,,na,na,na
-319,E14000777,LEEDS CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-320,E14000778,LEEDS EAST,,,,,,,,,,,,,,,,,na,na,na
-321,E14000779,LEEDS NORTH EAST,,,,,,,,,,,,,,,,,na,na,na
-322,E14000780,LEEDS NORTH WEST,,,,,,,,,,,,,,,,,na,na,na
-323,E14000781,LEEDS WEST,,,,,,,,,,,,,,,,,na,na,na
-324,E14000782,LEICESTER EAST,,,,,,,,,,,,,,,,,na,na,na
-325,E14000783,LEICESTER SOUTH,,,,,,,,,,,,,,,,,na,na,na
-326,E14000784,LEICESTER WEST,,,,,,,,,,,,,,,,,na,na,na
-327,E14000785,LEIGH,,,,,,,,,,,,,,,,,na,na,na
-328,E14000786,LEWES,,,,,,,,,,,,,,,,,na,na,na
-329,E14000789,"LEWISHAM, DEPTFORD",,,,,,,,,,,,,,,,,na,na,na
-330,E14000787,LEWISHAM EAST,,,,,,,,,,,,,,,,,na,na,na
-331,E14000788,LEWISHAM WEST AND PENGE,,,,,,,,,,,,,,,,,na,na,na
-332,E14000790,LEYTON AND WANSTEAD,,,,,,,,,,,,,,,,,na,na,na
-333,E14000791,LICHFIELD,,,,,,,,,,,,,,,,,na,na,na
-334,E14000792,LINCOLN,,,,,,,,,,,,,,,,,na,na,na
-335,S14000043,LINLITHGOW AND EAST FALKIRK,,,,,,,,,,,,,,,,,na,na,na
-336,E14000793,"LIVERPOOL, RIVERSIDE",,,,,,,,,,,,,,,,,na,na,na
-337,E14000794,"LIVERPOOL, WALTON",,,,,,,,,,,,,,,,,na,na,na
-338,E14000795,"LIVERPOOL, WAVERTREE",,,,,,,,,,,,,,,,,na,na,na
-339,E14000796,"LIVERPOOL, WEST DERBY",,,,,,,,,,,,,,,,,na,na,na
-340,S14000044,LIVINGSTON,,,,,,,,,,,,,,,,,na,na,na
-341,W07000045,LLANELLI,,,,,,,,,,,,,,,,,na,na,na
-342,E14000797,LOUGHBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-343,E14000798,LOUTH AND HORNCASTLE,,,,,,,,,,,,,,,,,na,na,na
-344,E14000799,LUDLOW,,,,,,,,,,,,,,,,,na,na,na
-345,E14000800,LUTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-346,E14000801,LUTON SOUTH,,,,,,,,,,,,,,,,,na,na,na
-347,E14000802,MACCLESFIELD,,,,,,,,,,,,,,,,,na,na,na
-348,E14000803,MAIDENHEAD,,,,,,,,,,,,,,,,,na,na,na
-349,E14000804,MAIDSTONE AND THE WEALD,,,,,,,,,,,,,,,,,na,na,na
-350,E14000805,MAKERFIELD,,,,,,,,,,,,,,,,,na,na,na
-351,E14000806,MALDON,,,,,,,,,,,,,,,,,na,na,na
-352,E14000807,MANCHESTER CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-353,E14000808,"MANCHESTER, GORTON",,,,,,,,,,,,,,,,,na,na,na
-354,E14000809,"MANCHESTER, WITHINGTON",,,,,,,,,,,,,,,,,na,na,na
-355,E14000810,MANSFIELD,,,,,,,,,,,,,,,,,na,na,na
-356,E14000811,MEON VALLEY,,,,,,,,,,,,,,,,,na,na,na
-357,E14000812,MERIDEN,,,,,,,,,,,,,,,,,na,na,na
-358,W07000071,MERTHYR TYDFIL AND RHYMNEY,,,,,,,,,,,,,,,,,na,na,na
-359,E14000813,MID BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-360,E14000814,MID DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na
-361,E14000819,MIDDLESBROUGH,,,,,,,,,,,,,,,,,na,na,na
-362,E14000820,MIDDLESBROUGH SOUTH AND EAST CLEVELAND,,,,,,,,,,,,,,,,,na,na,na
-363,E14000815,MID DORSET AND NORTH POOLE,,,,,,,,,,,,,,,,,na,na,na
-364,S14000045,MIDLOTHIAN,,,,,,,,,,,,,,,,,na,na,na
-365,E14000816,MID NORFOLK,,,,,,,,,,,,,,,,,na,na,na
-366,E14000817,MID SUSSEX,,,,,,,,,,,,,,,,,na,na,na
-367,N06000010,MID ULSTER,,,,,,,,,,,,,,,,,na,na,na
-368,E14000818,MID WORCESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na
-369,E14000821,MILTON KEYNES NORTH,,,,,,,,,,,,,,,,,na,na,na
-370,E14000822,MILTON KEYNES SOUTH,,,,,,,,,,,,,,,,,na,na,na
-371,E14000823,MITCHAM AND MORDEN,,,,,,,,,,,,,,,,,na,na,na
-372,E14000824,MOLE VALLEY,,,,,,,,,,,,,,,,,na,na,na
-373,W07000054,MONMOUTH,,,,,,,,,,,,,,,,,na,na,na
-374,W07000063,MONTGOMERYSHIRE,,,,,,,,,,,,,,,,,na,na,na
-375,S14000046,MORAY,,,,,,,,,,,,,,,,,na,na,na
-376,E14000825,MORECAMBE AND LUNESDALE,,,,,,,,,,,,,,,,,na,na,na
-377,E14000826,MORLEY AND OUTWOOD,,,,,,,,,,,,,,,,,na,na,na
-378,S14000047,MOTHERWELL AND WISHAW,,,,,,,,,,,,,,,,,na,na,na
-379,S14000027,NA H-EILEANAN AN IAR,,,,,,,,,,,,,,,,,na,na,na
-380,W07000069,NEATH,,,,,,,,,,,,,,,,,na,na,na
-381,E14000829,NEWARK,,,,,,,,,,,,,,,,,na,na,na
-382,E14000830,NEWBURY,,,,,,,,,,,,,,,,,na,na,na
-383,E14000834,NEWCASTLE-UNDER-LYME,,,,,,,,,,,,,,,,,na,na,na
-384,E14000831,NEWCASTLE UPON TYNE CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-385,E14000832,NEWCASTLE UPON TYNE EAST,,,,,,,,,,,,,,,,,na,na,na
-386,E14000833,NEWCASTLE UPON TYNE NORTH,,,,,,,,,,,,,,,,,na,na,na
-387,E14000827,NEW FOREST EAST,,,,,,,,,,,,,,,,,na,na,na
-388,E14000828,NEW FOREST WEST,,,,,,,,,,,,,,,,,na,na,na
-389,W07000055,NEWPORT EAST,,,,,,,,,,,,,,,,,na,na,na
-390,W07000056,NEWPORT WEST,,,,,,,,,,,,,,,,,na,na,na
-391,N06000011,NEWRY AND ARMAGH,,,,,,,,,,,,,,,,,na,na,na
-392,E14000835,NEWTON ABBOT,,,,,,,,,,,,,,,,,na,na,na
-393,E14000836,"NORMANTON, PONTEFRACT AND CASTLEFORD",,,,,,,,,,,,,,,,,na,na,na
-394,E14000861,NORTHAMPTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-395,E14000862,NORTHAMPTON SOUTH,,,,,,,,,,,,,,,,,na,na,na
-396,N06000012,NORTH ANTRIM,,,,,,,,,,,,,,,,,na,na,na
-397,S14000048,NORTH AYRSHIRE AND ARRAN,,,,,,,,,,,,,,,,,na,na,na
-398,E14000837,NORTH CORNWALL,,,,,,,,,,,,,,,,,na,na,na
-399,E14000838,NORTH DEVON,,,,,,,,,,,,,,,,,na,na,na
-400,E14000839,NORTH DORSET,,,,,,,,,,,,,,,,,na,na,na
-401,N06000013,NORTH DOWN,,,,,,,,,,,,,,,,,na,na,na
-402,E14000840,NORTH DURHAM,,,,,,,,,,,,,,,,,na,na,na
-403,E14000841,NORTH EAST BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-404,E14000842,NORTH EAST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na
-405,E14000843,NORTH EAST DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na
-406,S14000049,NORTH EAST FIFE,,,,,,,,,,,,,,,,,na,na,na
-407,E14000844,NORTH EAST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na
-408,E14000845,NORTH EAST HERTFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-409,E14000846,NORTH EAST SOMERSET,,,,,,,,,,,,,,,,,na,na,na
-410,E14000847,NORTH HEREFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-411,E14000848,NORTH NORFOLK,,,,,,,,,,,,,,,,,na,na,na
-412,E14000849,NORTH SHROPSHIRE,,,,,,,,,,,,,,,,,na,na,na
-413,E14000850,NORTH SOMERSET,,,,,,,,,,,,,,,,,na,na,na
-414,E14000851,NORTH SWINDON,,,,,,,,,,,,,,,,,na,na,na
-415,E14000852,NORTH THANET,,,,,,,,,,,,,,,,,na,na,na
-416,E14000853,NORTH TYNESIDE,,,,,,,,,,,,,,,,,na,na,na
-417,E14000854,NORTH WARWICKSHIRE,,,,,,,,,,,,,,,,,na,na,na
-418,E14000855,NORTH WEST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na
-419,E14000856,NORTH WEST DURHAM,,,,,,,,,,,,,,,,,na,na,na
-420,E14000857,NORTH WEST HAMPSHIRE,,,,,,,,,,,,,,,,,na,na,na
-421,E14000858,NORTH WEST LEICESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na
-422,E14000859,NORTH WEST NORFOLK,,,,,,,,,,,,,,,,,na,na,na
-423,E14000860,NORTH WILTSHIRE,,,,,,,,,,,,,,,,,na,na,na
-424,E14000863,NORWICH NORTH,,,,,,,,,,,,,,,,,na,na,na
-425,E14000864,NORWICH SOUTH,,,,,,,,,,,,,,,,,na,na,na
-426,E14000865,NOTTINGHAM EAST,,,,,,,,,,,,,,,,,na,na,na
-427,E14000866,NOTTINGHAM NORTH,,,,,,,,,,,,,,,,,na,na,na
-428,E14000867,NOTTINGHAM SOUTH,,,,,,,,,,,,,,,,,na,na,na
-429,E14000868,NUNEATON,,,,,,,,,,,,,,,,,na,na,na
-430,S14000050,OCHIL AND SOUTH PERTHSHIRE,,,,,,,,,,,,,,,,,na,na,na
-431,W07000074,OGMORE,,,,,,,,,,,,,,,,,na,na,na
-432,E14000869,OLD BEXLEY AND SIDCUP,,,,,,,,,,,,,,,,,na,na,na
-433,E14000870,OLDHAM EAST AND SADDLEWORTH,,,,,,,,,,,,,,,,,na,na,na
-434,E14000871,OLDHAM WEST AND ROYTON,,,,,,,,,,,,,,,,,na,na,na
-435,S14000051,ORKNEY AND SHETLAND,,,,,,,,,,,,,,,,,na,na,na
-436,E14000872,ORPINGTON,,,,,,,,,,,,,,,,,na,na,na
-437,E14000873,OXFORD EAST,,,,,,,,,,,,,,,,,na,na,na
-438,E14000874,OXFORD WEST AND ABINGDON,,,,,,,,,,,,,,,,,na,na,na
-439,S14000052,PAISLEY AND RENFREWSHIRE NORTH,,,,,,,,,,,,,,,,,na,na,na
-440,S14000053,PAISLEY AND RENFREWSHIRE SOUTH,,,,,,,,,,,,,,,,,na,na,na
-441,E14000875,PENDLE,,,,,,,,,,,,,,,,,na,na,na
-442,E14000876,PENISTONE AND STOCKSBRIDGE,,,,,,,,,,,,,,,,,na,na,na
-443,E14000877,PENRITH AND THE BORDER,,,,,,,,,,,,,,,,,na,na,na
-444,S14000054,PERTH AND NORTH PERTHSHIRE,,,,,,,,,,,,,,,,,na,na,na
-445,E14000878,PETERBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-446,E14000879,"PLYMOUTH, MOOR VIEW",,,,,,,,,,,,,,,,,na,na,na
-447,E14000880,"PLYMOUTH, SUTTON AND DEVONPORT",,,,,,,,,,,,,,,,,na,na,na
-448,W07000075,PONTYPRIDD,,,,,,,,,,,,,,,,,na,na,na
-449,E14000881,POOLE,,,,,,,,,,,,,,,,,na,na,na
-450,E14000882,POPLAR AND LIMEHOUSE,,,,,,,,,,,,,,,,,na,na,na
-451,E14000883,PORTSMOUTH NORTH,,,,,,,,,,,,,,,,,na,na,na
-452,E14000884,PORTSMOUTH SOUTH,,,,,,,,,,,,,,,,,na,na,na
-453,W07000065,PRESELI PEMBROKESHIRE,,,,,,,,,,,,,,,,,na,na,na
-454,E14000885,PRESTON,,,,,,,,,,,,,,,,,na,na,na
-455,E14000886,PUDSEY,,,,,,,,,,,,,,,,,na,na,na
-456,E14000887,PUTNEY,,,,,,,,,,,,,,,,,na,na,na
-457,E14000888,RAYLEIGH AND WICKFORD,,,,,,,,,,,,,,,,,na,na,na
-458,E14000889,READING EAST,,,,,,,,,,,,,,,,,na,na,na
-459,E14000890,READING WEST,,,,,,,,,,,,,,,,,na,na,na
-460,E14000891,REDCAR,,,,,,,,,,,,,,,,,na,na,na
-461,E14000892,REDDITCH,,,,,,,,,,,,,,,,,na,na,na
-462,E14000893,REIGATE,,,,,,,,,,,,,,,,,na,na,na
-463,W07000052,RHONDDA,,,,,,,,,,,,,,,,,na,na,na
-464,E14000894,RIBBLE VALLEY,,,,,,,,,,,,,,,,,na,na,na
-465,E14000896,RICHMOND PARK,,,,,,,,,,,,,,,,,na,na,na
-466,E14000895,RICHMOND (YORKS),,,,,,,,,,,,,,,,,na,na,na
-467,E14000897,ROCHDALE,,,,,,,,,,,,,,,,,na,na,na
-468,E14000898,ROCHESTER AND STROOD,,,,,,,,,,,,,,,,,na,na,na
-469,E14000899,ROCHFORD AND SOUTHEND EAST,,,,,,,,,,,,,,,,,na,na,na
-470,E14000900,ROMFORD,,,,,,,,,,,,,,,,,na,na,na
-471,E14000901,ROMSEY AND SOUTHAMPTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-472,E14000902,ROSSENDALE AND DARWEN,,,,,,,,,,,,,,,,,na,na,na
-473,S14000055,"ROSS, SKYE AND LOCHABER",,,,,,,,,,,,,,,,,na,na,na
-474,E14000904,ROTHERHAM,,,,,,,,,,,,,,,,,na,na,na
-475,E14000903,ROTHER VALLEY,,,,,,,,,,,,,,,,,na,na,na
-476,E14000905,RUGBY,,,,,,,,,,,,,,,,,na,na,na
-477,E14000906,"RUISLIP, NORTHWOOD AND PINNER",,,,,,,,,,,,,,,,,na,na,na
-478,E14000907,RUNNYMEDE AND WEYBRIDGE,,,,,,,,,,,,,,,,,na,na,na
-479,E14000908,RUSHCLIFFE,,,,,,,,,,,,,,,,,na,na,na
-480,S14000056,RUTHERGLEN AND HAMILTON WEST,,,,,,,,,,,,,,,,,na,na,na
-481,E14000909,RUTLAND AND MELTON,,,,,,,,,,,,,,,,,na,na,na
-482,E14000910,SAFFRON WALDEN,,,,,,,,,,,,,,,,,na,na,na
-483,E14000911,SALFORD AND ECCLES,,,,,,,,,,,,,,,,,na,na,na
-484,E14000912,SALISBURY,,,,,,,,,,,,,,,,,na,na,na
-485,E14000913,SCARBOROUGH AND WHITBY,,,,,,,,,,,,,,,,,na,na,na
-486,E14000914,SCUNTHORPE,,,,,,,,,,,,,,,,,na,na,na
-487,E14000915,SEDGEFIELD,,,,,,,,,,,,,,,,,na,na,na
-488,E14000916,SEFTON CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-489,E14000917,SELBY AND AINSTY,,,,,,,,,,,,,,,,,na,na,na
-490,E14000918,SEVENOAKS,,,,,,,,,,,,,,,,,na,na,na
-491,E14000921,"SHEFFIELD, BRIGHTSIDE AND HILLSBOROUGH",,,,,,,,,,,,,,,,,na,na,na
-492,E14000919,SHEFFIELD CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-493,E14000922,"SHEFFIELD, HALLAM",,,,,,,,,,,,,,,,,na,na,na
-494,E14000923,"SHEFFIELD, HEELEY",,,,,,,,,,,,,,,,,na,na,na
-495,E14000920,SHEFFIELD SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na
-496,E14000924,SHERWOOD,,,,,,,,,,,,,,,,,na,na,na
-497,E14000925,SHIPLEY,,,,,,,,,,,,,,,,,na,na,na
-498,E14000926,SHREWSBURY AND ATCHAM,,,,,,,,,,,,,,,,,na,na,na
-499,E14000927,SITTINGBOURNE AND SHEPPEY,,,,,,,,,,,,,,,,,na,na,na
-500,E14000928,SKIPTON AND RIPON,,,,,,,,,,,,,,,,,na,na,na
-501,E14000929,SLEAFORD AND NORTH HYKEHAM,,,,,,,,,,,,,,,,,na,na,na
-502,E14000930,SLOUGH,,,,,,,,,,,,,,,,,na,na,na
-503,E14000931,SOLIHULL,,,,,,,,,,,,,,,,,na,na,na
-504,E14000932,SOMERTON AND FROME,,,,,,,,,,,,,,,,,na,na,na
-505,E14000955,"SOUTHAMPTON, ITCHEN",,,,,,,,,,,,,,,,,na,na,na
-506,E14000956,"SOUTHAMPTON, TEST",,,,,,,,,,,,,,,,,na,na,na
-507,N06000014,SOUTH ANTRIM,,,,,,,,,,,,,,,,,na,na,na
-508,E14000933,SOUTH BASILDON AND EAST THURROCK,,,,,,,,,,,,,,,,,na,na,na
-509,E14000934,SOUTH CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na
-510,E14000935,SOUTH DERBYSHIRE,,,,,,,,,,,,,,,,,na,na,na
-511,E14000936,SOUTH DORSET,,,,,,,,,,,,,,,,,na,na,na
-512,N06000015,SOUTH DOWN,,,,,,,,,,,,,,,,,na,na,na
-513,E14000937,SOUTH EAST CAMBRIDGESHIRE,,,,,,,,,,,,,,,,,na,na,na
-514,E14000938,SOUTH EAST CORNWALL,,,,,,,,,,,,,,,,,na,na,na
-515,E14000957,SOUTHEND WEST,,,,,,,,,,,,,,,,,na,na,na
-516,E14000939,SOUTH HOLLAND AND THE DEEPINGS,,,,,,,,,,,,,,,,,na,na,na
-517,E14000940,SOUTH LEICESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na
-518,E14000941,SOUTH NORFOLK,,,,,,,,,,,,,,,,,na,na,na
-519,E14000942,SOUTH NORTHAMPTONSHIRE,,,,,,,,,,,,,,,,,na,na,na
-520,E14000958,SOUTHPORT,,,,,,,,,,,,,,,,,na,na,na
-521,E14000943,SOUTH RIBBLE,,,,,,,,,,,,,,,,,na,na,na
-522,E14000944,SOUTH SHIELDS,,,,,,,,,,,,,,,,,na,na,na
-523,E14000945,SOUTH STAFFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-524,E14000946,SOUTH SUFFOLK,,,,,,,,,,,,,,,,,na,na,na
-525,E14000947,SOUTH SWINDON,,,,,,,,,,,,,,,,,na,na,na
-526,E14000948,SOUTH THANET,,,,,,,,,,,,,,,,,na,na,na
-527,E14000949,SOUTH WEST BEDFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-528,E14000950,SOUTH WEST DEVON,,,,,,,,,,,,,,,,,na,na,na
-529,E14000951,SOUTH WEST HERTFORDSHIRE,,,,,,,,,,,,,,,,,na,na,na
-530,E14000952,SOUTH WEST NORFOLK,,,,,,,,,,,,,,,,,na,na,na
-531,E14000953,SOUTH WEST SURREY,,,,,,,,,,,,,,,,,na,na,na
-532,E14000954,SOUTH WEST WILTSHIRE,,,,,,,,,,,,,,,,,na,na,na
-533,E14000959,SPELTHORNE,,,,,,,,,,,,,,,,,na,na,na
-534,E14000965,STAFFORD,,,,,,,,,,,,,,,,,na,na,na
-535,E14000966,STAFFORDSHIRE MOORLANDS,,,,,,,,,,,,,,,,,na,na,na
-536,E14000960,ST ALBANS,,,,,,,,,,,,,,,,,na,na,na
-537,E14000967,STALYBRIDGE AND HYDE,,,,,,,,,,,,,,,,,na,na,na
-538,E14000961,ST AUSTELL AND NEWQUAY,,,,,,,,,,,,,,,,,na,na,na
-539,E14000968,STEVENAGE,,,,,,,,,,,,,,,,,na,na,na
-540,E14000962,ST HELENS NORTH,,,,,,,,,,,,,,,,,na,na,na
-541,E14000963,ST HELENS SOUTH AND WHISTON,,,,,,,,,,,,,,,,,na,na,na
-542,S14000057,STIRLING,,,,,,,,,,,,,,,,,na,na,na
-543,E14000964,ST IVES,,,,,,,,,,,,,,,,,na,na,na
-544,E14000969,STOCKPORT,,,,,,,,,,,,,,,,,na,na,na
-545,E14000970,STOCKTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-546,E14000971,STOCKTON SOUTH,,,,,,,,,,,,,,,,,na,na,na
-547,E14000972,STOKE-ON-TRENT CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-548,E14000973,STOKE-ON-TRENT NORTH,,,,,,,,,,,,,,,,,na,na,na
-549,E14000974,STOKE-ON-TRENT SOUTH,,,,,,,,,,,,,,,,,na,na,na
-550,E14000975,STONE,,,,,,,,,,,,,,,,,na,na,na
-551,E14000976,STOURBRIDGE,,,,,,,,,,,,,,,,,na,na,na
-552,N06000016,STRANGFORD,,,,,,,,,,,,,,,,,na,na,na
-553,E14000977,STRATFORD-ON-AVON,,,,,,,,,,,,,,,,,na,na,na
-554,E14000978,STREATHAM,,,,,,,,,,,,,,,,,na,na,na
-555,E14000979,STRETFORD AND URMSTON,,,,,,,,,,,,,,,,,na,na,na
-556,E14000980,STROUD,,,,,,,,,,,,,,,,,na,na,na
-557,E14000981,SUFFOLK COASTAL,,,,,,,,,,,,,,,,,na,na,na
-558,E14000982,SUNDERLAND CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-559,E14000983,SURREY HEATH,,,,,,,,,,,,,,,,,na,na,na
-560,E14000984,SUTTON AND CHEAM,,,,,,,,,,,,,,,,,na,na,na
-561,E14000985,SUTTON COLDFIELD,,,,,,,,,,,,,,,,,na,na,na
-562,W07000048,SWANSEA EAST,,,,,,,,,,,,,,,,,na,na,na
-563,W07000047,SWANSEA WEST,,,,,,,,,,,,,,,,,na,na,na
-564,E14000986,TAMWORTH,,,,,,,,,,,,,,,,,na,na,na
-565,E14000987,TATTON,,,,,,,,,,,,,,,,,na,na,na
-566,E14000988,TAUNTON DEANE,,,,,,,,,,,,,,,,,na,na,na
-567,E14000989,TELFORD,,,,,,,,,,,,,,,,,na,na,na
-568,E14000990,TEWKESBURY,,,,,,,,,,,,,,,,,na,na,na
-569,E14000991,THE COTSWOLDS,,,,,,,,,,,,,,,,,na,na,na
-570,E14000992,THE WREKIN,,,,,,,,,,,,,,,,,na,na,na
-571,E14000993,THIRSK AND MALTON,,,,,,,,,,,,,,,,,na,na,na
-572,E14000994,THORNBURY AND YATE,,,,,,,,,,,,,,,,,na,na,na
-573,E14000995,THURROCK,,,,,,,,,,,,,,,,,na,na,na
-574,E14000996,TIVERTON AND HONITON,,,,,,,,,,,,,,,,,na,na,na
-575,E14000997,TONBRIDGE AND MALLING,,,,,,,,,,,,,,,,,na,na,na
-576,E14000998,TOOTING,,,,,,,,,,,,,,,,,na,na,na
-577,E14000999,TORBAY,,,,,,,,,,,,,,,,,na,na,na
-578,W07000053,TORFAEN,,,,,,,,,,,,,,,,,na,na,na
-579,E14001000,TORRIDGE AND WEST DEVON,,,,,,,,,,,,,,,,,na,na,na
-580,E14001001,TOTNES,,,,,,,,,,,,,,,,,na,na,na
-581,E14001002,TOTTENHAM,,,,,,,,,,,,,,,,,na,na,na
-582,E14001003,TRURO AND FALMOUTH,,,,,,,,,,,,,,,,,na,na,na
-583,E14001004,TUNBRIDGE WELLS,,,,,,,,,,,,,,,,,na,na,na
-584,E14001005,TWICKENHAM,,,,,,,,,,,,,,,,,na,na,na
-585,E14001006,TYNEMOUTH,,,,,,,,,,,,,,,,,na,na,na
-586,N06000017,UPPER BANN,,,,,,,,,,,,,,,,,na,na,na
-587,E14001007,UXBRIDGE AND SOUTH RUISLIP,,,,,,,,,,,,,,,,,na,na,na
-588,W07000060,VALE OF CLWYD,,,,,,,,,,,,,,,,,na,na,na
-589,W07000078,VALE OF GLAMORGAN,,,,,,,,,,,,,,,,,na,na,na
-590,E14001008,VAUXHALL,,,,,,,,,,,,,,,,,na,na,na
-591,E14001009,WAKEFIELD,,,,,,,,,,,,,,,,,na,na,na
-592,E14001010,WALLASEY,,,,,,,,,,,,,,,,,na,na,na
-593,E14001011,WALSALL NORTH,,,,,,,,,,,,,,,,,na,na,na
-594,E14001012,WALSALL SOUTH,,,,,,,,,,,,,,,,,na,na,na
-595,E14001013,WALTHAMSTOW,,,,,,,,,,,,,,,,,na,na,na
-596,E14001014,WANSBECK,,,,,,,,,,,,,,,,,na,na,na
-597,E14001015,WANTAGE,,,,,,,,,,,,,,,,,na,na,na
-598,E14001016,WARLEY,,,,,,,,,,,,,,,,,na,na,na
-599,E14001017,WARRINGTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-600,E14001018,WARRINGTON SOUTH,,,,,,,,,,,,,,,,,na,na,na
-601,E14001019,WARWICK AND LEAMINGTON,,,,,,,,,,,,,,,,,na,na,na
-602,E14001020,WASHINGTON AND SUNDERLAND WEST,,,,,,,,,,,,,,,,,na,na,na
-603,E14001021,WATFORD,,,,,,,,,,,,,,,,,na,na,na
-604,E14001022,WAVENEY,,,,,,,,,,,,,,,,,na,na,na
-605,E14001023,WEALDEN,,,,,,,,,,,,,,,,,na,na,na
-606,E14001024,WEAVER VALE,,,,,,,,,,,,,,,,,na,na,na
-607,E14001025,WELLINGBOROUGH,,,,,,,,,,,,,,,,,na,na,na
-608,E14001026,WELLS,,,,,,,,,,,,,,,,,na,na,na
-609,E14001027,WELWYN HATFIELD,,,,,,,,,,,,,,,,,na,na,na
-610,E14001028,WENTWORTH AND DEARNE,,,,,,,,,,,,,,,,,na,na,na
-611,S14000058,WEST ABERDEENSHIRE AND KINCARDINE,,,,,,,,,,,,,,,,,na,na,na
-612,E14001029,WEST BROMWICH EAST,,,,,,,,,,,,,,,,,na,na,na
-613,E14001030,WEST BROMWICH WEST,,,,,,,,,,,,,,,,,na,na,na
-614,E14001031,WEST DORSET,,,,,,,,,,,,,,,,,na,na,na
-615,S14000059,WEST DUNBARTONSHIRE,,,,,,,,,,,,,,,,,na,na,na
-616,E14001032,WEST HAM,,,,,,,,,,,,,,,,,na,na,na
-617,E14001033,WEST LANCASHIRE,,,,,,,,,,,,,,,,,na,na,na
-618,E14001036,WESTMINSTER NORTH,,,,,,,,,,,,,,,,,na,na,na
-619,E14001037,WESTMORLAND AND LONSDALE,,,,,,,,,,,,,,,,,na,na,na
-620,E14001038,WESTON-SUPER-MARE,,,,,,,,,,,,,,,,,na,na,na
-621,E14001034,WEST SUFFOLK,,,,,,,,,,,,,,,,,na,na,na
-622,N06000018,WEST TYRONE,,,,,,,,,,,,,,,,,na,na,na
-623,E14001035,WEST WORCESTERSHIRE,,,,,,,,,,,,,,,,,na,na,na
-624,E14001039,WIGAN,,,,,,,,,,,,,,,,,na,na,na
-625,E14001040,WIMBLEDON,,,,,,,,,,,,,,,,,na,na,na
-626,E14001041,WINCHESTER,,,,,,,,,,,,,,,,,na,na,na
-627,E14001042,WINDSOR,,,,,,,,,,,,,,,,,na,na,na
-628,E14001043,WIRRAL SOUTH,,,,,,,,,,,,,,,,,na,na,na
-629,E14001044,WIRRAL WEST,,,,,,,,,,,,,,,,,na,na,na
-630,E14001045,WITHAM,,,,,,,,,,,,,,,,,na,na,na
-631,E14001046,WITNEY,,,,,,,,,,,,,,,,,na,na,na
-632,E14001047,WOKING,,,,,,,,,,,,,,,,,na,na,na
-633,E14001048,WOKINGHAM,,,,,,,,,,,,,,,,,na,na,na
-634,E14001049,WOLVERHAMPTON NORTH EAST,,,,,,,,,,,,,,,,,na,na,na
-635,E14001050,WOLVERHAMPTON SOUTH EAST,,,,,,,,,,,,,,,,,na,na,na
-636,E14001051,WOLVERHAMPTON SOUTH WEST,,,,,,,,,,,,,,,,,na,na,na
-637,E14001052,WORCESTER,,,,,,,,,,,,,,,,,na,na,na
-638,E14001053,WORKINGTON,,,,,,,,,,,,,,,,,na,na,na
-639,E14001054,WORSLEY AND ECCLES SOUTH,,,,,,,,,,,,,,,,,na,na,na
-640,E14001055,WORTHING WEST,,,,,,,,,,,,,,,,,na,na,na
-641,W07000044,WREXHAM,,,,,,,,,,,,,,,,,na,na,na
-642,E14001056,WYCOMBE,,,,,,,,,,,,,,,,,na,na,na
-643,E14001057,WYRE AND PRESTON NORTH,,,,,,,,,,,,,,,,,na,na,na
-644,E14001058,WYRE FOREST,,,,,,,,,,,,,,,,,na,na,na
-645,E14001059,WYTHENSHAWE AND SALE EAST,,,,,,,,,,,,,,,,,na,na,na
-646,E14001060,YEOVIL,,,,,,,,,,,,,,,,,na,na,na
-647,W07000041,YNYS MON,,,,,,,,,,,,,,,,,na,na,na
-648,E14001061,YORK CENTRAL,,,,,,,,,,,,,,,,,na,na,na
-649,E14001062,YORK OUTER,,,,,,,,,,,,,,,,,na,na,na
+,id,Constituency,1964 Vote Share,1966 Vote Share,1970 Vote Share,1974 (F) Vote Share,1974 (O) Vote Share,1979 Vote Share,1983 Vote Share,1987 Vote Share,1992 Vote Share,1997 Vote Share,2001 Vote Share,2005 Vote Share,2010 Vote Share,2015 Vote Share,2017 Vote Share,2019 Vote Share
+0,W07000049,ABERAVON,0.7211197037359764,0.7544467286378262,0.6698611675615548,0.65,0.6281983450085713,0.6167585360627958,0.5875293826549548,0.6676676183912572,0.6707679253288078,0.7132330450741039,0.6314342497515734,0.6004849853840021,0.5191872860003877,0.4890397487548774,0.6811951424792594,0.03392619786062409
+1,W07000058,ABERCONWY,,,,,,,,,,,,,0.24481078555696456,0.2824067931537747,0.42618973561430795,0.0571473403420681
+2,S14000001,ABERDEEN NORTH,0.689114910192599,0.6754620508490478,0.6208712409805943,0.48,0.5087541791307408,0.5934472745006761,0.47022923125747623,0.5466503656410605,0.4704076283667407,0.47869321879474164,0.43340909839575714,0.42466015177157834,0.4441791994907297,0.259400036416606,0.3001061022390293,0.07606981530484057
+3,S14000002,ABERDEEN SOUTH,0.43898532444391053,0.46047844998022935,0.4333352377687634,0.33,0.3477075493433684,0.392098572266771,0.29865237288564134,0.37668023475956075,0.3478059821363382,0.35270754845445057,0.3983735429655733,0.3669301554503736,0.3653390342519868,0.26757430330992155,0.20549299889870318,0.10995223278846575
+4,S14000003,AIRDRIE AND SHOTTS,,,,,,,,,,,,,0.581578286702558,,0.3709278459028472,0.035678366690133766
+5,E14000530,ALDERSHOT,0.2766785663863173,0.31970727802870047,0.31571919751644023,0.24,0.25478054688432866,0.2070748299319728,0.10757070957680584,0.11803547249293726,0.1328982128982129,0.24112204760761574,0.2515898251192369,0.2055420535510272,0.12094570773841001,0.1833257560996731,0.31617977528089886,0.14437119252274055
+6,E14000531,ALDRIDGE-BROWNHILLS,,,,0.39,,,0.24918611245300457,0.28327548631850835,0.3325691140788292,,,0.3346394984326019,0.19793446187296165,0.22368787502848317,0.2984963340375295,0.060266381983630726
+7,E14000532,ALTRINCHAM AND SALE WEST,,,,,,,,,,,,,0.22418156418925758,,0.38846372419018754,0.11022040428756642
+8,W07000043,ALYN AND DEESIDE,,,,,,,,,,,,,0.3958620344162513,,0.5208891867739053,0.059244791666666664
+9,E14000533,AMBER VALLEY,,,,,,,0.3528749684655838,0.3435173529940658,0.44945975966878726,0.5466544956640803,0.5189719857120392,0.4556350361883058,0.374472344314374,0.3478137235601636,0.3842963480386807,0.0630500142647091
+10,S14000004,ANGUS,,,,,,,,,,0.15630513511003807,0.23371319224288123,0.17957792633372657,0.17215489989462593,0.0880971113858604,0.1302000398089172,0.05749362983553394
+11,W07000057,ARFON,,,,,,,,,,,,,0.3040110437917018,0.30264187502328876,0.405097844583097,
+12,S14000005,ARGYLL AND BUTE,,,,,,,,,,,,,0.22726568894197802,,0.1257359212798269,0.14218522372528616
+13,E14000534,ARUNDEL AND SOUTH DOWNS,,,,,,,,,,,,,0.086367046550677,,0.2271972915560276,0.21243160500260552
+14,E14000535,ASHFIELD,0.728434037215137,0.7362760622855635,0.6820758096121026,0.59,0.6340671949514145,0.5277786631817167,0.4249168983146395,0.4165358068874849,0.5488172780253685,0.6517202537398968,0.5813214739517154,0.4859099664692873,0.3369366752427587,0.4102174692568922,0.4257596063448883,0.022560228664761126
+15,E14000536,ASHFORD,0.28178912236167913,0.31004867546569315,0.2888984934551741,0.26,0.3047122583015662,0.2671109318958382,0.12865070093457945,0.14664001056185286,0.19994370260903221,0.31728578145910946,0.3208377662348499,0.2583534874721873,0.1667844522968198,0.1844105138395036,0.2979341672372618,0.10070097737225062
+16,E14000537,ASHTON-UNDER-LYNE,,,,0.48,,,0.49726335742210637,0.5176408027374456,0.5661117004104598,,,0.5737820218032299,0.4840757701915071,,0.6035501470847057,0.03615956867725965
+17,E14000538,AYLESBURY,0.3252804993678888,0.3749881428923754,0.35017302223592695,0.26,0.2896617436874702,0.24173128388115006,0.1222200883426157,0.13845563348337345,0.1339193056385421,0.22168745873440596,0.23199625155336442,0.18538670812281383,0.12593581881795268,0.15141016618849132,0.30037595903577563,0.1664190438457475
+18,S14000006,"AYR, CARRICK AND CUMNOCK",,,,,,,,,,,,,0.471357287603774,,0.2385011466401281,0.04631696428571429
+19,E14000539,BANBURY,0.3832079550367488,0.4029867910889137,0.3661201390808444,0.33,0.35242919730871536,0.2920312005902814,0.1900876889585156,0.20398555519842695,0.2645913732454493,0.3479964411593608,0.3504222071241386,0.277268764788557,0.1915506481036966,0.21297062474141498,0.3409408401286508,0.14035059836938382
+20,S14000007,BANFF AND BUCHAN,,,,,,,,,,,,,0.1399157697707066,,0.09451768604567394,0.05395172740179839
+21,E14000540,BARKING,0.6262563155321346,0.6615265111194223,0.69384332039729,0.6,0.6391954432182271,0.5278020632977793,0.4212448860315605,0.4431545120291827,0.5160705689122986,,0.6090105866433176,0.4750223321651893,0.543148887369605,0.5767988661973468,0.6778455923991694,0.033304119193689745
+22,E14000541,BARNSLEY CENTRAL,,,,,,,0.5980236504981934,0.6675775762993232,0.6925440393281442,0.7699054405920241,0.6964019896162364,0.6107985322383366,0.47260884840950246,0.5573304157549234,0.639138332437895,0.03186732785952361
+23,E14000542,BARNSLEY EAST,,,,,,,0.6627942440458037,0.7447963568065454,0.77188787709213,,,,0.4704579794716824,0.5472648440948152,0.5954483029232882,0.03493564486472288
+24,E14000543,BARROW AND FURNESS,,,,,,,,,,,,,0.48105339497778987,,0.4747215801639,0.04397776136906572
+25,E14000544,BASILDON AND BILLERICAY,,,,,,,,,,,,,0.23055642425846185,,0.3112560666102676,0.08477610587382162
+26,E14000545,BASINGSTOKE,0.34455128205128205,0.3941658461105641,0.37202290352975287,0.32,0.3393544742280303,0.26500901175335717,0.1925066001229612,0.17704361147652906,0.23767782518164743,,0.4085842275237004,0.31741578870810216,0.20387333675524144,0.27707438390232875,0.3581844174410293,0.12503426973479795
+27,E14000546,BASSETLAW,0.5902648624382736,0.6163371859520729,0.5486529498692736,0.6,0.5369010602030495,0.5022701669340798,0.4559737462824326,0.4810224925624846,0.5335720187276233,0.6103622841190809,0.5529245404293611,0.5663328540974667,0.5046291627165823,0.4862139625474244,0.5256842105263158,0.06553765661572353
+28,E14000547,BATH,0.35922499563623667,0.4122446257475046,0.3614191173248017,0.28,0.2860613732415933,0.2298269296637318,0.15163985794861082,0.10628811858256774,0.07802781000932073,,0.1570114048729912,0.14776594816301597,0.06904387716093956,0.13178705450844871,0.14680434826452615,0.5450726917027887
+29,E14000548,BATLEY AND SPEN,,,,,,,,,,,,,0.42194134105539144,,0.5549274823354406,0.046516900636726054
+30,E14000549,BATTERSEA,,,,,,,0.4382613447482866,0.42431667441172743,0.41219563512557145,0.5073527860413106,0.5026084121291164,0.40363955272966456,0.3510001639613051,0.36824675197429013,0.45937011878382794,0.15255848075095454
+31,E14000550,BEACONSFIELD,,,,0.22,0.25477720250348285,0.20167239581321694,0.10659347540230844,0.10300522648083624,0.13546020159231453,0.20045417421963707,0.21753986332574032,0.19350688141901984,0.11687940560106687,0.11425239358200252,0.21446419647319198,
+32,E14000551,BECKENHAM,0.23720855786160167,0.2675291258666285,0.24495281777510433,0.24,0.2683302823007997,0.25082599755088836,0.15526002285380855,0.17834049287813702,0.23847898887328509,0.3335970561177553,0.3436855274131952,0.28147210195245487,0.14454976303317535,0.19433231563633382,0.3010846407127639,0.16208090198793393
+33,E14000552,BEDFORD,0.3853753271975006,0.45223098179453836,0.4038871088428848,0.32,0.3643484369511767,0.30796428160305217,,,,0.5061703170970906,0.4794105325414623,0.4173084236546872,0.3590306416566893,0.40203098554875666,0.4684818481848185,0.09741865922496352
+34,N06000001,BELFAST EAST,0.3687242213056464,0.4533429224565279,0.4054222084064214,,,,,,,,,,,,,
+35,N06000002,BELFAST NORTH,0.3493029453294354,0.42562689563842965,0.31928484520751654,,,,,,,,,,,,,
+36,N06000003,BELFAST SOUTH,0.22363534618710892,0.346398453478273,0.295906881555385,,,,,,,,,,,,,
+37,N06000004,BELFAST WEST,0.24248678677520158,,,,,,,,,,,,,,,
+38,E14000553,BERMONDSEY AND OLD SOUTHWARK,,,,,,,,,,,,,0.2924906497054937,,0.532475521607628,0.26609229719355115
+39,S14000008,"BERWICKSHIRE, ROXBURGH AND SELKIRK",,,,,,,,,,,,,0.10207287713714448,,0.08629480397960548,0.08066458435253829
+40,E14000554,BERWICK-UPON-TWEED,,,,0.12,,,0.14336788559362704,0.17506303220588934,0.22857603092783504,0.2623017486783245,0.17723366751129227,0.1833748960931006,0.13166315460860065,0.14946936150211512,0.24552260020847153,0.18181386401956826
+41,E14000555,BETHNAL GREEN AND BOW,,,,,,,,,,,,,0.42942753508910264,,0.7182448809026327,0.0972887289059146
+42,E14000556,BEVERLEY AND HOLDERNESS,,,,,,,,,,,,,0.2109814094249892,,0.33173370717854705,0.08723992379813977
+43,E14000557,BEXHILL AND BATTLE,,,,,,,,,,,,,0.11951563559089161,,0.24699018025289213,0.12319564076963431
+44,E14000558,BEXLEYHEATH AND CRAYFORD,,,,,,,,,,,,,0.2651567782872493,,0.3549536391599726,0.06518521944226055
+45,E14000559,BIRKENHEAD,0.5695634628622973,0.6012428535918469,0.5066653786707882,0.45,0.51302132477826,0.4987413392150752,0.49568257893951345,0.5871464970835352,0.636258281765902,0.7076011494545177,0.7048710601719198,0.6499316202404088,0.6251450896016759,0.676170038830983,0.7685683530678149,0.03827163410427839
+46,E14000560,"BIRMINGHAM, EDGBASTON",,,,,,,,,,0.48600020633446817,0.4905295504516676,0.4375381998883899,0.40638906930311997,,0.5531505090342108,0.07912020412020412
+47,E14000561,"BIRMINGHAM, ERDINGTON",,,,,,,,,,0.5881159205088228,0.5677362436282839,0.5295155295155295,0.41830304394305967,,0.5796007201010291,0.03692980215163644
+48,E14000562,"BIRMINGHAM, HALL GREEN",,,,,,,,,,0.5349721418493986,0.5455507193809697,0.4720870975214269,0.3291604244053605,,0.7759712760081017,0.06941845740961237
+49,E14000563,"BIRMINGHAM, HODGE HILL",,,,,,,,,,0.6559287785164143,0.6386170413754014,0.48639898652215224,0.51980128084385,,0.8105789541751088,0.016887763038019688
+50,E14000564,"BIRMINGHAM, LADYWOOD",,,,,,,,,,0.7408168101745793,0.688851490807481,0.5192203573362209,0.5567493651103731,,0.8271237320550996,0.05289899805308894
+51,E14000565,"BIRMINGHAM, NORTHFIELD",,,,,,,,,,0.5744587741653152,0.5596261935396493,0.4964902112313241,0.4027598412015115,,0.5320645801389015,0.04550095132024688
+52,E14000566,"BIRMINGHAM, PERRY BARR",,,,,,,,,,0.6302656525813412,0.4654301520699147,0.4695073372568168,0.5028421928885718,,0.6812453333936692,0.045104040619735684
+53,E14000567,"BIRMINGHAM, SELLY OAK",,,,,,,,,,0.5563006923837784,0.524064837905237,0.46061332055582177,0.3854992161158001,,0.629498826171277,0.06406291062728688
+54,E14000568,"BIRMINGHAM, YARDLEY",,,,,,,,,,0.4704792653558102,0.46926127086734865,0.3729400971764466,0.32215422276621786,,0.5707159228798706,0.08796101035662403
+55,E14000569,BISHOP AUCKLAND,0.6181425246592043,0.648434508556449,0.6068920230685776,,0.5284533877709731,0.4874639330453951,0.44378121098626716,0.4797964681233164,0.49989196586121215,0.659247356192048,0.5881895277367152,0.5000262274443978,0.38951283547257876,0.4139988321612633,0.4807652318569349,0.04760629394040844
+56,E14000570,BLACKBURN,0.5746108717771091,0.5832835409293561,0.532409381663113,0.48,0.5145820159352472,0.5071369679480573,0.4473169786731944,0.4990630855715178,0.4844301356906399,0.5503947783977261,0.5413563697746003,0.4200932902762827,0.4780544627354447,0.5627855178526785,0.6976323266336947,0.025259298998569386
+57,E14000571,BLACKLEY AND BROUGHTON,,,,,,,,,,,,,0.5427143024207695,,0.7044599007802956,0.041172510228390906
+58,E14000572,BLACKPOOL NORTH AND CLEVELEYS,,,,,,,,,,,,,0.36495774925476093,,0.4446070183139464,0.0385011854447995
+59,E14000573,BLACKPOOL SOUTH,,,,0.27,,,0.247515670386791,0.32439928272564256,0.4144876083839694,0.5703544994156603,0.5428954423592494,0.5053205362265922,0.4105762673334849,0.4176840547539771,0.502989729064744,0.030776746458231558
+60,W07000072,BLAENAU GWENT,,,,,,,0.7009380601010219,0.7588965708604065,0.7897727272727273,0.7946757506939187,0.7204097714736013,0.3229411931576409,0.5239697484179657,0.580121831897232,0.5801321640316206,0.0425229160461961
+61,E14000574,BLAYDON,0.6617139269645286,0.6920577992619159,0.6487767969735183,0.59,0.5726862683615138,0.5340154448506349,0.44385361276196433,0.5033955350208114,0.5267075903731853,0.5995645073489385,0.5484549425659279,0.515197295982383,0.4964486896889542,0.4915880363183194,0.5610806089343648,0.08106214837678685
+62,E14000575,BLYTH VALLEY,,,,,,,0.39496498832944316,0.4245311620252068,0.4988109997764273,0.6420601666588202,0.5970188133140376,0.5495485421966287,0.44484779339314423,0.4631444840227763,0.5594257472346434,0.05264446021684329
+63,E14000576,BOGNOR REGIS AND LITTLEHAMPTON,,,,,,,,,,,,,0.14044224366088962,,0.24890948745910577,0.11020440036702263
+64,E14000577,BOLSOVER,0.7934459545281342,0.8203221809169765,0.7749791672266875,0.76,0.7055095706156234,0.665754618755902,0.5633365911698466,0.5620678756271976,0.6452734144998006,0.7397182266841017,0.6858718089414961,0.6516189048812631,0.5,0.5123414700668212,0.5192072056579032,0.038290739692629194
+65,E14000578,BOLTON NORTH EAST,,,,,,,0.3784289551318744,0.42646209154522696,0.44470003108486167,0.5613225760562521,0.5434146341463415,0.4571536940207526,0.4591353374771819,0.4295776279511596,0.5061638226766705,0.042405179538984296
+66,E14000579,BOLTON SOUTH EAST,,,,,,,0.4828863654666989,0.5427454317086018,0.5430289819972551,0.688735610971418,0.6186391052292557,0.5691993720565149,0.47424502575497424,0.5045038411506271,0.6066677692980176,0.03475027090927002
+67,E14000580,BOLTON WEST,,,,0.39,,,0.31500446504911556,0.361102663637502,0.4257643386918146,0.4951586655817738,0.4702528267093706,0.42520287102582444,0.38521523457205314,0.38983783338821204,0.46074744388294747,0.05485009533855329
+68,E14000581,BOOTLE,0.6200160173903094,0.6036820500062197,0.636271594001139,0.59,0.6402752676212985,0.6102125535920877,0.5298195871283475,0.6688275677432926,0.7459233449477352,0.8285063966721607,0.7755309125172138,0.7550152212942003,0.6644378225161712,0.7445738837703756,0.8403396436525612,0.037052100703623865
+69,E14000582,BOSTON AND SKEGNESS,,,,,,,,,,,,,0.2063536231884058,,0.2495160801324658,0.047078856485034536
+70,E14000583,BOSWORTH,0.4559016717954255,0.502261614811288,0.49126785743846113,0.37,0.4099476439790576,0.3745791797115498,0.19456886898096304,0.17198386505317198,0.2596109687263892,0.3865932928115353,0.39351749212965015,0.31354344301985304,0.15981869771898147,0.17457355081930498,0.24058182595071928,0.1611851431811738
+71,E14000584,BOURNEMOUTH EAST,,,,0.17,0.20966416888645473,0.1833118947649443,0.08547044836956522,0.11092889994722159,0.13789383217217985,0.211387916743415,0.19852509846643762,0.19125508657145138,0.13256405596947118,0.16614986503669663,0.3555061911226295,0.1099565693875066
+72,E14000585,BOURNEMOUTH WEST,0.26994398300173844,0.3173930785224336,0.2758236168714297,0.22,0.25141579022509875,0.21387764542615936,0.1248000959539421,0.12853244446072415,0.166328349778476,0.24573918971562134,0.28824893009985736,0.23063318004952246,0.14813125615113182,0.17681277380125918,0.3617633181297324,0.1072492768123192
+73,E14000586,BRACKNELL,,,,,,,,,,0.2977780034184563,0.330069674378923,0.2615513971177724,0.16792619303360443,0.1687073804769619,0.3017605381807772,0.14257589696412143
+74,E14000587,BRADFORD EAST,,,,,,,,,,,,,0.3280520058333539,0.4664058349031541,0.6538731313839814,0.0750497917798298
+75,E14000588,BRADFORD SOUTH,,,,0.45,,,0.3751542741527567,0.41416309012875535,0.4763841337696484,0.5672244662435084,0.5579019267438882,0.49047944269908483,0.4127385182260824,0.43425531914893617,0.544812297498112,0.03787020960720666
+76,E14000589,BRADFORD WEST,,,,0.43,,,0.3971202215840818,0.519071209924279,0.5321374576063417,0.41546699438202245,0.47956737034141256,0.4006159091533999,0.4534946766561514,0.49583023082650785,0.6467228958003866,0.03047829917986489
+77,E14000590,BRAINTREE,,,,0.34,0.37417358548585483,0.31382129871839165,0.1882963914766035,0.19328656162200353,0.25718150591239325,0.4269648769252915,0.41981516446387757,0.37138818207520496,0.1987683677824523,0.1848736153371915,0.27617245728700834,0.09463553733737302
+78,W07000068,BRECON AND RADNORSHIRE,,,,,,,,,,,,,0.10544471617968851,,0.17745681521265785,0.3588421791427672
+79,E14000591,BRENT CENTRAL,,,,,,,,,,,,,0.41217483396950777,0.6211940806259568,0.7306103717301514,0.09859154929577464
+80,E14000593,BRENTFORD AND ISLEWORTH,,,,,0.4270827347087332,0.4044187590860958,,,,,,,0.3359806565609597,,0.5738207661977316,0.12539862154099374
+81,E14000592,BRENT NORTH,,,,0.31,0.3383093212983857,0.3398612516259575,0.2310098605916355,0.2478680180381301,0.3201866192102352,0.5067061350657516,0.5936827838180264,0.48820133400594135,0.4687368541818043,0.542758686704317,0.6288710934731769,0.07835540392066154
+82,E14000594,BRENTWOOD AND ONGAR,,,,,0.2927792945772569,0.2528592481889698,,,,,,,0.09867172675521822,,0.2042903042903043,0.13573438591852538
+83,W07000073,BRIDGEND,,,,,,,0.3522341322413585,0.4753044875274093,0.5127208630648997,0.5805459883035529,0.5248608333783711,0.43345043450698645,0.36328787128067386,0.3706688971687831,0.5066003930181482,0.056065915332891375
+84,E14000595,BRIDGWATER AND WEST SOMERSET,,,,,,,,,,,,,0.1712513533848384,,0.28597662484768394,0.1353812530354541
+85,E14000596,BRIGG AND GOOLE,,,,,,,,,,,,,0.33124401695765143,,0.32971569345495705,0.050228100087553566
+86,E14000597,"BRIGHTON, KEMPTOWN",,,,,,,,,,0.46559871672591696,0.47815218223095174,0.39925476472217325,0.34864769933263084,,0.5833113174954783,0.06107184802093421
+87,E14000598,"BRIGHTON, PAVILION",,,,,,,,,,0.5461992604849748,0.48734130589593105,0.35434228357489034,0.28911525253694487,,0.2678246398668678,
+88,E14000599,BRISTOL EAST,,,,,,,0.36879302244827095,0.3540878499462387,0.44553530615895226,0.5688263728968279,0.5499082659790747,0.4590604026845638,0.36588399937801275,0.3927033518706857,0.60723636292053,0.06762664416919124
+89,E14000600,BRISTOL NORTH WEST,,,,0.39,,,0.32582167987886346,0.3458047338301146,0.4225914175989314,0.4991401936826862,0.5213949185723813,0.467278699570454,0.2594365861411316,0.34404015056461734,0.5065069506063294,0.08839581282991858
+90,E14000601,BRISTOL SOUTH,,,,0.55,,,0.44007097919019195,0.40866130902088693,0.5013448090371168,0.5994905633887563,0.5686844032218696,0.4908807408807409,0.38448022820761935,0.38363951064080876,0.6006766944945019,0.07658163635046018
+91,E14000602,BRISTOL WEST,,,,0.22,,,0.19512855209742896,0.20896155122202972,0.24751381215469614,0.3522932264810587,0.36836432228509836,0.29373127047180986,0.27511879596003397,0.3565978386122271,0.6593257736565746,
+92,E14000603,BROADLAND,,,,,,,,,,,,,0.13833624420988685,0.18779784889525136,0.29640349466688104,0.1613809080857188
+93,E14000604,BROMLEY AND CHISLEHURST,,,,,,,,,,,,,0.1656561527806163,,0.333997685482834,0.14530571039810386
+94,E14000605,BROMSGROVE,0.37307072103202027,0.46975648075412413,0.4153299903447846,,,,0.2070785407811776,0.23296910324039186,0.30696191742524975,0.3784182023460972,0.33933105682514664,0.2992470194519975,0.2178965717606043,0.22210737869652597,0.3131014063656551,0.12490787146226415
+95,E14000606,BROXBOURNE,,,,,,,0.16366772983490802,0.16911695499124674,0.2102670828997572,0.3469644073569482,0.3037125115603118,0.25521807620360343,0.17609181304481142,0.18403441682600383,0.28899652521849006,0.08499978589474586
+96,E14000607,BROXTOWE,,,,,,,0.21314733565830427,0.24300167150523444,0.3476856482316483,0.4703201059566197,0.4864092727124316,0.41914928492398473,0.3830295673943141,0.3719311377245509,0.45254738055775745,
+97,E14000608,BUCKINGHAM,0.4592476177213679,0.4746028108768714,0.4323862675460849,0.36,0.37595859200101617,0.34127325717237056,0.1502231036192365,0.1650471276731509,0.1622754998305659,0.24713551155917243,0.24233521823643753,0.1991222804148467,0.0,,,0.26196854612499604
+98,E14000609,BURNLEY,0.5680212411682642,0.6042562237233691,0.5695189682763815,0.5,0.5475244769398133,0.5084053733901253,0.3973533408164471,0.4837964744823339,0.5299955157824959,0.5792905293402586,0.49330332935690274,0.38475745837929354,0.31339467080893774,0.37616363910833794,0.4674112683047903,0.08980607428688693
+99,E14000610,BURTON,0.46756123805304134,0.49706996128540903,0.45677447465885007,0.47,0.40478217278625883,0.3625235404896422,0.2976284367491425,0.3359635706340378,0.40034477758623466,0.5101722588101484,0.49041048711711904,0.411448978739401,0.31880858238163096,0.27532976681504473,0.37845364749253674,0.055008412327136935
+100,E14000611,BURY NORTH,,,,,,,0.4016994905330393,0.3777345909034179,0.415703839432653,0.5181007392875956,0.5123024024292221,0.43047773352235646,0.3520161918106804,0.41105460977227504,0.5361459616307955,0.03381652825516108
+101,E14000612,BURY SOUTH,,,,,,,0.3647454604409857,0.4088603444618025,0.44586989522011183,0.5688594227639049,0.5919724828650194,0.5041885886499463,0.40416847949945095,0.4505347876734089,0.5327515199058639,0.046047658829613716
+102,E14000613,BURY ST EDMUNDS,,,,0.29,,,,,,0.37680324178298064,0.38496129892353304,0.27370341511621277,0.166490684287612,0.17717935322963888,0.29525418275418275,
+103,W07000076,CAERPHILLY,0.7214656200593571,0.7425058514988297,0.6182106253403971,0.57,0.5659109008291563,0.5876270894364983,0.4560639377537212,0.584397336428615,0.6365260326763277,0.6781020124146767,0.5819019905750263,0.5656529608198017,0.44911092732347774,0.44346250279274135,0.5446158316584739,
+104,S14000009,"CAITHNESS, SUTHERLAND AND EASTER ROSS",,,,,,,,,,,,,0.24614154616240266,,0.12404129316203359,0.37209524112280257
+105,E14000614,CALDER VALLEY,,,,,,,0.2698483576544555,0.333563025210084,0.3744352779414653,0.46133956717316615,0.4268634686346863,0.38572325727444,0.2697180378524527,0.3535047907211296,0.4509766768870362,0.04990223729517416
+106,E14000615,CAMBERWELL AND PECKHAM,,,,,,,,,,,,,0.5919329604149253,,0.7779732460112868,0.0900481484103944
+107,E14000616,CAMBORNE AND REDRUTH,,,,,,,,,,,,,0.16343868401854422,,0.4421330691761598,0.06956936089105963
+108,E14000617,CAMBRIDGE,0.40463431992297066,0.4547016686679641,0.4466623105621483,0.33,0.36002726188447776,0.37135297482837526,0.282427608092027,0.2831398787520331,0.39670975788410906,0.5344085393170884,0.45092912503501725,0.33998944203447407,0.2428485936564931,0.3601421562946653,0.5190402974934745,0.3003405981871987
+109,E14000618,CANNOCK CHASE,,,,,,,,,,0.5481610205094909,0.5612945645821157,0.5130112385586838,0.33091156522311727,0.3373320028026073,0.3744777740641711,
+110,E14000619,CANTERBURY,0.2946726075164665,0.2820861012221529,0.25309022970290423,0.23,0.26102533618238194,0.24283933372384686,0.15378331063995332,0.16877322098376976,0.1521409721631055,0.31323809347797965,0.3687405831782327,0.2866749322293904,0.16135259810197322,0.24539418311044608,0.4502112676056338,0.056693227754395885
+111,W07000050,CARDIFF CENTRAL,,,,,,,0.2418145753368196,0.32256102012508214,0.4197502097119955,0.4369867228362483,0.38605705757419206,0.3431307428318388,0.2876822217919283,0.400093153237075,0.6240988926598459,0.15059059824972504
+112,W07000051,CARDIFF NORTH,,,,0.32,,,0.20015515903801395,0.2669450400631983,0.3891903215669844,0.5044547104438212,0.458950046253469,0.3903659611992945,0.37090069284064664,0.382631815604778,0.5013455845603783,0.06797554399422777
+113,W07000080,CARDIFF SOUTH AND PENARTH,,,,,,,,,,,,,,,,0.05901658791197928
+114,W07000079,CARDIFF WEST,,,,0.44,,,0.3360812601207125,0.4553069497637125,0.5320462306277909,0.603247510986419,0.5455505677317137,0.4551083591331269,0.41247131207578497,0.40653544026306176,0.5667074138411718,0.05914199709812244
+115,E14000620,CARLISLE,0.4557320146450478,0.561276521652613,0.531928868562532,0.55,0.5115020626061636,0.4969382290623763,0.37510807954654624,0.42229192131177784,0.46777067153951574,0.5740133464810696,0.5115013320347188,0.48084421088320056,0.3728909952606635,0.37802615821729635,0.4383361204013378,0.06598558533342663
+116,W07000067,CARMARTHEN EAST AND DINEFWR,,,,,,,,,,,,,0.26479177080318855,,0.2978137414999147,
+117,W07000066,CARMARTHEN WEST AND SOUTH PEMBROKESHIRE,,,,,,,,,,,,,0.3265114671538253,,0.3945673281864254,0.04416583558911526
+118,E14000621,CARSHALTON AND WALLINGTON,,,,,,,,,,,,,0.08743847728559606,,0.18442259570862807,0.4112794818526213
+119,E14000622,CASTLE POINT,,,,,,,0.16689295725297829,0.19020510335917312,0.24004576229861777,0.42445153980842515,0.42128954383141376,0.3038513602026112,0.1467818593701417,0.13823982398239823,0.25059270856631627,0.06705513020303995
+120,S14000010,CENTRAL AYRSHIRE,0.5643901980151451,0.576766173929737,0.5239712131889722,,,,,,,,,0.46429987637330594,0.4770579528634863,,0.2608734224942888,0.04906090170627928
+121,E14000623,CENTRAL DEVON,,,,,,,,,,,,,0.06895847641675792,,0.2696563169905262,0.15101942416310787
+122,E14000624,CENTRAL SUFFOLK AND NORTH IPSWICH,,,,,,,,,,,,,0.16166229876450766,,0.2973427216757484,0.11528888888888889
+123,W07000064,CEREDIGION,,,,,,,,,,0.24304484148708505,0.15425070796971624,0.1206498456060311,0.057765696063568406,0.09661642078255292,0.20159931601579198,0.17391846403191621
+124,E14000625,CHARNWOOD,,,,,,,,,,0.35978138963559003,0.32205531958976485,0.2916469100679627,0.196780097867095,0.2191500353992461,0.30768812527185735,0.08770884132574731
+125,E14000626,CHATHAM AND AYLESFORD,,,,,,,,,,,,,0.3232588399114297,,0.33702383604366226,0.06612828795569912
+126,E14000627,CHEADLE,0.18451248103709833,0.16167751647277864,0.09400214542232171,0.12,0.15300962013764782,0.13459793065892176,0.06956164222644243,0.09096326795969227,0.11535913185179879,0.1573108667060595,0.13956794936476632,0.08788498429495963,0.09369287020109689,0.16334871456822678,0.19088543575459943,0.4178308856411999
+127,E14000628,CHELMSFORD,0.3584083747998416,0.38956863003759645,0.3561906473742548,0.24,0.23211890749009892,0.0885958994515003,0.0512419135851769,0.06843680431673768,0.14177466185114368,,,,0.10953785283827597,0.17618967984094244,0.29815335912768204,0.2505689576695494
+128,E14000629,CHELSEA AND FULHAM,,,,,,,,,,,,,0.18494078683259735,,0.3321069122673756,0.2585164776489182
+129,E14000630,CHELTENHAM,0.34724011259004817,0.46566629761371936,0.3126003475047837,0.26,0.25783009646848837,0.18287705326032852,0.07605023819835427,0.07515948007098662,0.06359679910150218,0.1013856032443393,0.12049719134695829,0.1143485935673185,0.05120675936801425,0.07261561365962595,0.09485722304076334,0.4633825833515845
+130,E14000631,CHESHAM AND AMERSHAM,,,,,,,,,,,,,0.05609793303333079,,0.2058568015637443,0.2626739696507138
+131,E14000632,CHESTERFIELD,0.5649288372271455,0.6159103335155823,0.5900881656115275,0.55,0.5987619692426733,0.5738019995934284,0.4804643489457589,0.4544392739946977,0.4726782301137886,0.5079880908365604,0.41995004612857495,0.40411595385417376,0.3903008355330614,0.4790528233151184,0.5480418135915037,0.08819103262072324
+132,E14000633,CHICHESTER,0.1942091070779705,0.2512760682514219,0.20647301269314766,0.14,0.1708633794581953,0.1538309636650869,0.0717492816091954,0.07876587420007294,0.11259667470332217,0.17219742196884133,0.21432316876411744,0.18381328600599225,0.10454857625865074,0.12133569015908574,0.2238225574952435,0.2271606550952762
+133,E14000634,CHINGFORD AND WOODFORD GREEN,,,,,,,,,,,,,0.22688256855194172,,0.43947105044611484,0.056642721492857734
+134,E14000635,CHIPPENHAM,0.22553162943583552,0.22243185218918743,0.22050152006692375,0.17,0.1766597100795307,0.08636256838854764,,,,,,,0.06910375107378067,0.08231811864926815,0.19663983199159957,0.34511987950752204
+135,E14000636,CHIPPING BARNET,,,,0.26,0.2838953474378415,0.2531510458065542,0.15985562365252778,0.19042143795757463,0.25914627357545256,0.4092000403510542,0.4004381006218202,0.3252400839999056,0.2523909263357572,0.34148227793182806,0.45695830250978836,0.103041567510292
+136,E14000637,CHORLEY,0.4841490654022493,0.5475407864673107,0.4427532495243514,0.4,0.4409934877106798,0.429663746651013,0.3047675164202901,0.34702697332472304,0.4069774593314678,0.5303954528125325,0.5231898565231898,0.5069902560067784,0.43225378711777235,0.4509978341584158,0.5526296868821224,
+137,E14000638,CHRISTCHURCH,,,,,0.1877555958862674,0.14882217499114417,0.07590493910690121,0.09561649911295092,0.1213619176466507,0.06911155002758056,0.1514313958883935,0.15613303597401337,0.0981261129998381,0.0954593920373388,0.19866097878895603,0.17857211603241516
+138,E14000639,CITIES OF LONDON AND WESTMINSTER,0.30578087821760763,0.35115306963915033,0.31276615585465173,,0.30954697805168124,0.25447409167836954,,,,,,,0.22171075789986733,,0.384358669219227,0.3065327809376682
+139,E14000640,CITY OF CHESTER,0.3520215747002929,0.40098599630251386,0.37951213626400143,,0.35208369061910477,0.3477872150201162,,,,,,,0.3507587091258816,,0.5675723578100352,0.06843841642228739
+140,E14000641,CITY OF DURHAM,,,,,,,,,,,,,0.44313759404998704,,0.5540104296001986,0.16240610737018768
+141,E14000642,CLACTON,,,,,,,,,,,,,0.2504232080328363,0.1439591014997625,0.253777324725337,0.058405737139704865
+142,E14000643,CLEETHORPES,,,,,,,,,,0.516276028767856,0.4958272431514923,0.4333432746793916,0.3256015656273629,0.2912683803144891,0.3536702616838057,0.05470553961026349
+143,W07000062,CLWYD SOUTH,,,,,,,,,,,0.5140016718414139,0.44966748656281313,0.3838124621550705,0.37220511065480266,0.5070715696216043,0.04120531041701096
+144,W07000059,CLWYD WEST,,,,,,,,,,,0.38803468208092484,0.35873532880327963,0.2470152974206922,0.2559429893762491,0.3961233826929699,0.05564261373529339
+145,S14000011,"COATBRIDGE, CHRYSTON AND BELLSHILL",,,,,,,,,,,,,0.6659781433889757,,0.4261323268206039,0.03243400178345534
+146,E14000644,COLCHESTER,0.3904075791966841,0.43692232700275596,0.34961727014707145,0.33,0.35618790826070906,0.32958752935413693,,,,0.30556089681959775,0.2497942198646424,0.19791086661172855,0.12310626584884804,0.16158705986458954,0.3527500233448501,0.13924643546362392
+147,E14000645,COLNE VALLEY,0.42039733297047216,0.4306276076734586,0.3990454670242646,0.39,0.40936273029296283,0.3390221138644978,0.2575951752732755,0.2909579389367305,0.2976666215117854,0.41277410434135187,0.40366484346734205,0.35846279640228945,0.2638346354166667,0.3497887323943662,0.47696127110228403,0.06265190829665637
+148,E14000646,CONGLETON,,,,,,,0.1991896404283911,0.1787959975941823,0.2003460323859437,0.2754315024897974,0.3047268371670031,0.2772589006469303,0.17225285545490351,0.20384102322661646,0.3416442887375291,0.1052889067496025
+149,E14000647,COPELAND,,,,,,,0.442389791730547,0.47215289488476675,0.48673511651734136,0.5816121941203469,0.517726618705036,0.5045768285096425,0.4603968495103653,0.42264893643864654,0.45116127379038834,0.044399501446276135
+150,E14000648,CORBY,,,,,,,0.3611542866492147,0.40873000797781406,0.4389300847457627,0.5539225679707915,0.4930540849603998,0.43817964674083854,0.3870307544804189,0.38471534873785024,0.44742237111855593,0.06486978090119884
+151,E14000649,COVENTRY NORTH EAST,,,,0.64,0.5950444783897925,0.573436372128572,0.47832553728093813,0.5425864857484929,0.5248998524140839,0.6624935010918166,0.610197236012344,0.5693776045167361,0.49291197012654725,0.5215363121877294,0.6342779736819472,0.0463729637296373
+152,E14000650,COVENTRY NORTH WEST,,,,0.57,0.518591526476386,0.5013009093485149,0.4429456049744341,0.49002317847425175,0.5173123856009763,0.5688487169102757,0.5144884961575521,0.48211243611584326,0.4281786941580756,0.41013570260354504,0.5395093181407852,0.05690767426273458
+153,E14000651,COVENTRY SOUTH,,,,,,,,,,0.508957784693959,0.5019203910614525,0.458375322600467,0.41801672328194406,0.4227099018284171,0.5504052415494906,0.0754373501465234
+154,E14000652,CRAWLEY,,,,,,,0.26196030511738133,0.28992108917262166,0.36211209191989285,0.5504095840688656,0.4931548447503606,0.39098944559597837,0.32283597170764566,0.3357981462409887,0.4568854056849601,0.054670434277240026
+155,E14000653,CREWE AND NANTWICH,,,,,,,,,,,,,0.34010649126928194,,0.47118687189924946,0.048452768729641695
+156,E14000654,CROYDON CENTRAL,,,,0.38,0.41746130030959755,0.3668835032327159,0.2332688588007737,0.24347559103469452,0.31273108823823326,0.4557787773974444,0.4719363279546446,0.4064587290887922,0.3359977449815773,0.4266636444343703,0.5232523515089944,0.0653529466185586
+157,E14000655,CROYDON NORTH,,,,,,,,,,0.62157791602458,0.6353564777231269,0.5372089310557164,0.5601633253347782,0.6261537311759651,0.7415426932559582,0.08049056807351328
+158,E14000656,CROYDON SOUTH,,,,0.14,,,0.07788352396751942,0.09751979991663193,0.12825411989491284,0.2531227513422757,0.29897913892587663,0.24115998936540073,0.20040126415965342,0.24792070973107846,0.35796725272213786,0.12640250682300616
+159,S14000012,"CUMBERNAULD, KILSYTH AND KIRKINTILLOCH EAST",,,,,,,,,,,,,0.5722721749696233,,0.3389683571738188,0.06492142012870464
+160,W07000070,CYNON VALLEY,,,,,,,0.5597594994989573,0.6889647924330006,0.6909492854699055,0.6973550356052899,0.6560204762964612,0.6407475513190979,0.5248694604364708,0.47689682331320554,0.6101503050122634,0.03138642677602858
+161,E14000657,DAGENHAM AND RAINHAM,,,,,,,,,,,,,0.40271748960028936,,0.50079619571145,0.027026409054532984
+162,E14000658,DARLINGTON,0.4515466057712269,0.5049845815908419,0.48474215176389496,0.41,0.45548106076781825,0.45515975472002584,0.3778418697165589,0.4160255207355977,0.4806080897656321,0.6156560729039088,0.5633975788866888,0.5240936325784503,0.393766318537859,0.4286964342140444,0.5060802820358347,0.04820911306266955
+163,E14000659,DARTFORD,0.4645924568014394,0.4984395823141416,0.45033615805210037,0.42,0.4764378733435562,0.4285528793092255,0.2675126625098283,0.27463352564884697,0.34625176803394625,0.4857510713119007,0.47979436745641485,0.42559695589901453,0.2755591054313099,0.2542065702621237,0.3323989377397462,0.06915572996686596
+164,E14000660,DAVENTRY,,,,0.31,0.3231380492365223,0.27250611597807817,0.19911773038164232,0.20507087021602943,0.2432868968302039,0.343919028340081,0.32217204149319034,0.27333344363738643,0.15776258353613784,0.18071899158383792,0.2466629538472594,0.12250230824172953
+165,W07000042,DELYN,,,,,,,0.2939374627387291,0.39067144272540205,0.449739831835941,0.5718914142653773,0.5146379489548447,0.45700505822844373,0.4078250054077439,0.4054515844835411,0.5219189202902227,0.06114151681000782
+166,E14000661,DENTON AND REDDISH,,,,,,,,,,,,,0.5099242726185731,,0.6353948332028586,0.04255208873224837
+167,E14000662,DERBY NORTH,0.5289113122619578,0.6183687714776632,0.5473346213502408,0.4,0.44514893335975164,0.4486841900250853,0.3683952649733459,0.3722864081242181,0.4086988935766448,0.5315711664855814,0.5088073727697825,0.439819252362043,0.33043478260869563,0.3656497932729914,0.4853303747534517,0.07337771444371186
+168,E14000664,DERBYSHIRE DALES,,,,,,,,,,,,,0.19369388627618642,0.22721226325457655,0.3110084525226443,0.13249760076775433
+169,E14000663,DERBY SOUTH,0.5773705343354267,0.575289886192828,0.5441469227533997,0.47,0.5098616084389819,0.5003806941633085,0.3933535397272137,0.4366709634496237,0.517346694346854,0.5626121692815377,0.5643644805571677,0.45380766836511194,0.43340293289307563,0.49012738853503185,0.5833664415309231,0.06172577834298903
+170,E14000665,DEVIZES,0.3801279638690252,0.39240690962888874,0.37081647831371195,0.29,0.30455959257613563,0.2566714805977647,0.16784786582432737,0.17299438261471967,0.17817675789243909,0.24237124392031448,0.24907510000187796,0.22297225091725145,0.10166163141993957,0.1297800269354773,0.2096732749589864,0.16008556737449464
+171,E14000666,DEWSBURY,0.48362834874684724,0.5357483539238268,0.4873702154036882,0.42,0.45439950051286626,0.4672616001801175,0.35311112403777173,0.42417290942327684,0.4382501498159404,0.49416134648868254,0.5054159504515566,0.40956082394092497,0.321656050955414,0.4177885511840388,0.5095764435405429,0.04266789622089415
+172,E14000668,DONCASTER CENTRAL,,,,,,,0.42035609252046735,0.5116088819633814,0.543412383428806,0.6206491712707183,0.5909385876939414,0.5128526098221303,0.3969098095580309,0.49084611578426524,0.579095388620305,0.04203843101416512
+173,E14000669,DONCASTER NORTH,,,,,,,0.5276968507838358,0.6175153207518882,0.6178951560350445,0.6980294825511432,0.6309345407008258,0.5551649882829818,0.4733746353928115,0.5242398926609453,0.607652675363963,0.0362671384343211
+174,E14000667,DON VALLEY,0.7189770514014735,0.7489737868542522,0.694730991188347,0.7,0.6325270674959687,0.5562062863402714,0.45090823676792985,0.5312954876273653,0.549918391890731,0.582592924214248,0.5462462462462463,0.5267469618055556,0.3793643482266237,0.46182271807183545,0.5295076976602592,0.041970200497391995
+175,E14000670,DOVER,0.44944553163731243,0.4930803046475026,0.4859197021705347,,0.3973828849524393,0.3703510033335512,0.30808646309756516,0.341314647739031,0.4264976558430283,0.5449261992619926,0.4880560498220641,0.4527608386935093,0.33541728689093975,0.3074824784963364,0.39976138244236614,0.05709946549377724
+176,E14000671,DUDLEY NORTH,,,,,,,,,,0.5118599397590361,0.5210818379836116,0.44208848531684697,0.38658618724418425,0.41811433986102337,0.46491904394757133,0.03298440737106095
+177,E14000672,DUDLEY SOUTH,,,,,,,,,,0.5662394054527995,0.49826656394453006,0.45320297382625524,0.3299882090921001,0.32590944778853703,0.3623574939859847,0.043963254593175856
+178,E14000673,DULWICH AND WEST NORWOOD,,,,,,,,,,,,,0.4658605384328203,,0.6963646402935362,
+179,S14000013,DUMFRIES AND GALLOWAY,,,,,,,,,,,,,0.4590497000364173,,0.20882187639295335,0.06091893678663789
+180,S14000014,"DUMFRIESSHIRE, CLYDESDALE AND TWEEDDALE",,,,,,,,,,,,,0.2890046195415323,,0.1654685074748795,0.07202001912395987
+181,S14000015,DUNDEE EAST,0.5479699754000126,0.5631534830370142,0.48335077639419893,0.34,0.3266296959627128,0.35985508116655657,0.32991741254810397,0.4234353328710125,0.4412899280237098,0.5112021318594552,0.45215806222387,0.3622913505311077,0.3334894498126602,0.19929438621977794,0.260342899739098,0.07891423901760275
+182,S14000016,DUNDEE WEST,0.533362209840326,0.5370970012670703,0.5154208357857564,0.43,0.41007936340862683,0.47252242354022256,0.4346466139640508,0.5335331905781585,0.4896681875731588,0.5379184167804778,0.5056767662950551,0.4458522850335716,0.48467381349997307,0.23688330276870778,0.33050650257258835,0.05935688689001659
+183,S14000017,DUNFERMLINE AND WEST FIFE,,,,,,,,,,,,,0.46252068563956933,,0.3386982944520682,0.079690363112823
+184,W07000061,DWYFOR MEIRIONNYDD,,,,,,,,,,,,,0.13910606794437141,0.13502576695604054,0.20670225385527877,
+185,E14000674,EALING CENTRAL AND ACTON,,,,,,,,,,,,,0.3014406779661017,,0.5969607169961332,0.17231375554217526
+186,E14000675,EALING NORTH,,,,0.43,,,0.3282578179833112,0.27796477786249607,0.37797476441463024,,0.5565762840047156,0.4505988345840411,0.5038592222828139,0.5513296227581942,0.6595132911874476,0.08804980757993995
+187,E14000676,"EALING, SOUTHALL",,,,,,,,,,,,0.48755446912530553,0.5151089905510338,,0.7026248754014841,0.09316152260937537
+188,E14000677,EASINGTON,0.8044824814412029,0.8136740436535098,0.7980417910447761,0.72,0.658188754655282,0.6090479823494237,0.5839455537026187,0.6805882352941176,0.7268234745169568,0.8020050125313283,0.7682520448348985,0.7136399309370586,0.5894197170189609,0.6103280961182994,0.6366736332636673,0.04412572651302663
+189,N06000005,EAST ANTRIM,,,,,,,,,,,,,,,,
+190,E14000684,EASTBOURNE,0.22332745662058087,0.22420409323479248,0.13651959599864688,0.1,0.19447287615148415,0.1724483045240963,0.07109893820583049,0.08792777361453093,0.045988575879527455,0.124859969240701,0.13328121509939692,0.10886096875516614,0.04790499577929552,0.07830721832649744,0.08134796238244514,0.4102731526825552
+191,E14000678,EAST DEVON,,,,,,,,,,0.17683889999048436,0.16669105504107698,0.1542835096554105,0.10775634747231222,,0.11356033254943526,0.027640347728372327
+192,S14000018,EAST DUNBARTONSHIRE,0.5504619342766928,0.5215102215054783,0.4463579975848062,,,,,,,,,0.33113603287389776,0.34134896137482273,,0.14538329375880774,0.36814316154701965
+193,E14000679,EAST HAM,,,,,,,,,,0.6462683947955576,0.7307723260992033,0.5389572645252597,0.7041669148154766,0.7757314974182444,0.8320943619444493,0.03950355129237754
+194,E14000680,EAST HAMPSHIRE,,,,,,,,,,0.17108794384805945,0.1961860446618545,0.16031539923596605,0.07878480815324357,,0.16984911926075658,0.24167325775551454
+195,S14000019,"EAST KILBRIDE, STRATHAVEN AND LESMAHAGOW",,,,,,,,,,,,,0.515074785066541,,0.31712321171121216,0.066741218027229
+196,E14000685,EASTLEIGH,0.4147507530852201,0.44105243515581266,0.3747157798999545,0.29,0.31886871391515353,0.2645431976887676,0.18477815914601506,0.16710367083501412,0.20730456732665456,0.2681911558006271,0.2191579257141656,0.20570211568985955,0.0960484622553588,0.1293757319160436,0.19996508379888267,0.28968476030591306
+197,N06000006,EAST LONDONDERRY,,,,,,,,,,,,,,,,
+198,S14000020,EAST LOTHIAN,,,,,,,0.43923625681913553,0.4804369918699187,0.464816163087004,0.5268235402468227,0.4721054487266415,0.4146932890597693,0.44586155692520496,0.31011285457688004,0.3607502058055049,0.06957428263804624
+199,S14000021,EAST RENFREWSHIRE,0.3113538600860312,0.33069551190815066,0.2867650997125565,,,0.24398790842751794,,,,,,0.43908870372323594,0.507747015494031,,0.2669619263835647,0.07540148490705782
+200,E14000681,EAST SURREY,0.15853487064116986,0.16498393758604865,0.1765093227975324,,,,,,,0.21174253512880561,0.1911624051520755,0.1479706819889144,0.09013543191800878,,0.19249024542675203,0.19406935835148267
+201,E14000682,EAST WORTHING AND SHOREHAM,,,,,,,,,,,,,0.16709713411988347,,0.3931321422520097,0.07768031922903178
+202,E14000683,EAST YORKSHIRE,,,,,,,,,,0.3587225092401625,0.3504409659694325,0.3182099094299414,0.20293050298513288,,0.3046185781006746,0.07995224468911671
+203,E14000686,EDDISBURY,,,,,,,0.21019252121873647,0.23540225101017984,0.3053592746749266,0.40125379170879677,0.3601955527519319,0.3281078950825415,0.2156603690491919,0.23637861125190066,0.3361328163058516,0.1808914311604463
+204,S14000022,EDINBURGH EAST,0.5614702154626109,0.604776744296691,0.5187048171630443,0.44,0.44922802850356297,0.5368625657443402,0.44891443167305234,0.5037108566698855,0.4574965938036846,,,0.40038782140069,0.43431581587859025,0.29905073371700397,0.34657537394021554,0.06878594583289763
+205,S14000023,EDINBURGH NORTH AND LEITH,,,,,,,,,,,,,0.37460934200523693,,0.31153628518885274,0.11180574278781343
+206,S14000024,EDINBURGH SOUTH,0.33717227998607036,0.3954497867885504,0.3653398623097062,0.28,0.28175641610448227,0.34300989749027927,0.28596276061991305,0.3765871210554613,0.41455483292217987,0.46819661893929254,0.4216488188128935,0.33228722656798915,0.3473664984817698,0.391449904638234,0.5491011705685619,0.07679160299203731
+207,S14000025,EDINBURGH SOUTH WEST,,,,,,,,,,,,0.3978509311114147,0.42833575293651843,0.2719468237665207,0.2675237902409395,0.0953559302526328
+208,S14000026,EDINBURGH WEST,0.3529965967428714,0.38957031401622483,0.35779345734445156,0.24,0.252242403160484,0.28188155763678613,0.2014362035775312,0.22181508998522179,0.17956865800155808,0.18786084692742122,0.23126804802674908,0.18630288302220258,0.2773268456520335,0.11712056582449233,0.14918079363576095,0.3991344690370968
+209,E14000687,EDMONTON,0.49203593418794794,0.5856069505086549,0.4905812957853677,0.45,0.4907092955559868,0.4714464549903266,0.398203324521708,0.36023445485075406,0.45032071437555027,0.6028145769213613,0.5889745211939955,0.5318272195487422,0.5365678480322956,0.6141564662054284,0.714799212418151,0.05317171116234104
+210,E14000688,ELLESMERE PORT AND NESTON,,,,,,,,,,,,,0.4464992200393371,,0.5916292035571958,0.04935789603249498
+211,E14000689,ELMET AND ROTHWELL,,,,,,,,,,,,,0.3451755722454247,,0.3786738772631084,0.08853585229712323
+212,E14000690,ELTHAM,,,,,,,0.2927846176485015,0.3196267974799211,0.4189450023210926,0.5459611310675141,0.5283794981060606,0.435660671293018,0.4150224001525117,0.426188103899715,0.5444263893402665,0.06731671587813866
+213,E14000691,ENFIELD NORTH,,,,0.39,0.4366099993726868,0.41343410195110664,0.27906409943943455,0.2847348294642512,0.34949552636588616,0.5065766011453985,0.4667693030295123,0.44307835775111043,0.38494589791465145,0.4372195851485792,0.5801914959332853,0.06548279689234185
+214,E14000692,"ENFIELD, SOUTHGATE",,,,,,,,,,0.4420518771624439,0.51844516560084,0.4047145226249704,0.3224657287157287,,0.5170708491971527,0.09188594635755987
+215,E14000693,EPPING FOREST,,,,0.31,,,0.17112244265984022,0.18354491527061234,0.22443656668442225,0.3558963910426925,0.29252133729428964,0.21009808292465448,0.14255967714236648,0.1613439247791197,0.2603241497469426,0.10716559242460412
+216,E14000694,EPSOM AND EWELL,,,,,,,,,,,,,0.11897006641797835,,0.250362771234772,0.23457973793544262
+217,E14000695,EREWASH,,,,,,,0.2494955318535601,0.3210945676761538,0.3819955178182507,0.5170207829228678,0.4921186928965347,0.44452356932328446,0.3422190504176987,0.3528827449194984,0.429983326972138,0.050948498381611834
+218,E14000696,ERITH AND THAMESMEAD,,,,,,,,,,,,,0.44891232696110744,,0.5754093198992444,0.04794123332688962
+219,E14000697,ESHER AND WALTON,,,,,,,,,,,,,0.10686980914141136,,0.19673473480164433,0.45001902225603957
+220,E14000698,EXETER,0.3830848057348988,0.48595696241325714,0.4237661178131683,0.31,0.3638150331887121,0.34111316989737744,0.22838396705463557,0.22499464023615945,0.35665255782248223,0.4752036725720936,0.49783335867416756,0.41074671315464517,0.38168698681263996,0.4639564589581251,0.6195261894881187,
+221,S14000028,FALKIRK,,,,,,,,,,,,0.5085027322404372,0.4570376351497725,0.2507457739476301,0.29788697058112956,0.07141323024054982
+222,E14000699,FAREHAM,,,,0.18,0.1846450005661873,0.16508581752484192,0.07182737286856798,0.0905211066458534,0.13200415618835365,0.26981236943480846,0.31641252447906354,0.2562788208168643,0.14203698592326802,0.1425959780621572,0.2518679622548848,0.13984279475982533
+223,E14000700,FAVERSHAM AND MID KENT,,,,,,,,,,,,,0.1658674430553177,,0.26084946431084044,0.12243521054093741
+224,E14000701,FELTHAM AND HESTON,,,,,0.49635349635349635,0.4830531316330312,,,,,,,0.43625350255480466,,0.6121787014162596,0.06540335905963063
+225,N06000007,FERMANAGH AND SOUTH TYRONE,0.042922944231369164,,,,,,,,,,,,,,,
+226,E14000702,FILTON AND BRADLEY STOKE,,,,,,,,,,,,,0.2644251671808037,,0.41712358486844703,0.09287096294091382
+227,E14000703,FINCHLEY AND GOLDERS GREEN,,,,,,,,,,,,,0.3367262548508175,,0.43794979478858453,0.319367072528988
+228,E14000704,FOLKESTONE AND HYTHE,0.3776681354053983,0.4039350049317344,0.32773309218980534,,,,,,,,,,0.10831439393939393,,0.28511252653927815,0.09753410727904414
+229,E14000705,FOREST OF DEAN,,,,,,,,,,0.4822851904989638,0.43378841885802677,0.3657640638119228,0.24176117137993972,0.24644588045234248,0.35918635424111883,
+230,N06000008,FOYLE,,,,,,,,,,,,,,,,
+231,E14000706,FYLDE,,,,,,,0.10872801082543979,0.14279554880302223,0.18798589404504287,0.3165152591852805,0.30786597223774503,0.25989892331355746,0.1973907072556649,0.18784581123585187,0.33419415929584434,0.08032748237210399
+232,E14000707,GAINSBOROUGH,0.30096051227321235,0.37505662086667674,0.32730978260869564,0.24,0.255595276784747,0.19940189079683582,,,,0.28803665578709514,0.27136747087596585,0.25708719161139204,0.15636230736431747,0.213150362355616,0.28715605250364606,0.10102652509501234
+233,E14000708,GARSTON AND HALEWOOD,,,,,,,,,,,,,0.5952831290134267,,0.7772317925339113,0.06233357086599407
+234,E14000709,GATESHEAD,,,,,,,,,,,,,0.5413911179653397,0.567841049830035,0.6514025128850676,0.0731943898282868
+235,E14000710,GEDLING,,,,,,,0.2055067043329487,0.23929871233534705,0.34440608707904746,0.4675638371290545,0.5108407887529669,0.46129932605686536,0.4113094002905167,0.4230801283386808,0.5191943036260207,0.04562288551238164
+236,E14000711,GILLINGHAM AND RAINHAM,,,,,,,,,,,,,0.27666395930406534,,0.3614021445526725,0.05446277035554202
+237,S14000029,GLASGOW CENTRAL,0.7014509515298076,0.7484131563762262,0.6603428191046763,0.59,0.6363573693644009,0.7246966997539662,0.5302799614703415,0.6447081978946113,0.5716876009626479,,,0.48214858936405464,0.520209287115762,0.3305356325347169,0.38430969319697644,0.04867223538212193
+238,S14000030,GLASGOW EAST,,,,,,,,,,,,0.6068392643588998,0.6155018032583012,0.32366739750571705,0.3856937455068296,0.04225242314788348
+239,S14000031,GLASGOW NORTH,,,,,,,,,,,,0.394004512732352,0.44510856718333164,0.2793727317046747,0.3446658500881307,0.06614904257964688
+240,S14000032,GLASGOW NORTH EAST,,,,,,,,,,,,,0.68346424563909,0.33689938452597934,0.42917387883556257,0.03221812822402358
+241,S14000033,GLASGOW NORTH WEST,,,,,,,,,,,,0.49170605678048207,0.5405261087066494,0.3088429789756921,0.35905159097930184,0.06835283754876054
+242,S14000034,GLASGOW SOUTH,,,,,,,,,,,,0.4723530483203664,0.5171846161520427,0.29734716470539996,0.36554433221099886,0.0587230992981051
+243,S14000035,GLASGOW SOUTH WEST,,,,,,,,,,,,0.6021564386480291,0.6249960668323842,0.3283888468023753,0.40494092373791624,0.03894482590170163
+244,S14000036,GLENROTHES,,,,,,,,,,,,0.5190547556602259,0.6233673242635984,0.30593722425311987,0.347137305378846,0.06351995378616473
+245,E14000712,GLOUCESTER,0.45541223959541594,0.4853251175612129,0.44633727175080556,0.35,0.38928331671989747,0.3629622458857696,0.26166527211550444,0.29634873571642734,0.36826476956387255,0.4997582622509238,0.4576032183812703,0.4466536687064456,0.35156804034355055,0.31547313361864004,0.40110225444323205,0.08068596086600699
+246,S14000037,GORDON,,,,,,,0.084847561639066,0.11506697459584296,0.11293075766026128,0.10297076577109718,0.1351389960286849,0.20212430802466358,0.201148129164531,0.05916335688863671,0.11809630250535531,0.10574790757564918
+247,E14000713,GOSPORT,,,,0.31,0.2885435627156402,0.26311817678724153,0.0929476833021284,0.09919902626722682,0.13603979280812312,0.30662806328197706,0.3705295433411244,0.31458846493470277,0.16924092971729265,0.1453057799223749,0.27153857036034035,0.11295482219883186
+248,W07000046,GOWER,0.7101759209755849,0.7716320107321604,0.6337792241977553,0.53,0.5729338087401719,0.5324077036278713,0.380256760692761,0.46608278243294454,0.5007365342328303,0.5379592025106147,0.4732150028110192,0.4245106469070861,0.384344028221065,0.3703400533233547,0.49866157626821134,0.050267523942268785
+249,E14000714,GRANTHAM AND STAMFORD,,,,,,,,,,,,,0.1799844694028296,,0.2649797678158076,0.10986911415459887
+250,E14000715,GRAVESHAM,,,,,,,0.3193061179818321,0.34825172401843574,0.4035120398279541,0.4968734155822207,0.49893443937762094,0.4224307753602337,0.28843836543136797,0.3014419912642853,0.36512439537114516,0.054331370899915896
+251,E14000716,GREAT GRIMSBY,,,,,,,0.3631069115112617,0.4547181146921452,0.5101357341265933,0.5978513087061444,0.5790350425538359,0.470573959470938,0.3270316198337076,0.39767572855829947,0.49393316629599393,0.032338985099888175
+252,E14000717,GREAT YARMOUTH,,,,,,,0.2524916196089901,0.31143825547206794,0.3795527156549521,0.5336224708987132,0.5039885051776247,0.4555560926095993,0.332001765102074,0.2908767905732083,0.36080279073981786,0.03821729326768211
+253,E14000718,GREENWICH AND WOOLWICH,,,,,,,,,,,,,0.4919393998251918,,0.6442774827703084,0.13653990963855422
+254,E14000719,GUILDFORD,0.2802239275380551,0.3293928444620815,0.26678607046180774,0.19,0.2257319397124213,0.21179945278950515,0.10742209007818522,0.10604432161318389,0.11181834671767557,0.1746023385652586,0.13707620918857907,0.09788692839573125,0.05060557525149819,0.12103137850553847,0.1899691941847268,0.3918091763141293
+255,E14000720,HACKNEY NORTH AND STOKE NEWINGTON,,,,,,,,,,,,,0.5499881621144616,,0.7507371487441827,0.07532006190208217
+256,E14000721,HACKNEY SOUTH AND SHOREDITCH,,,,,0.6398774365032487,0.5414091470951793,,,,,,,0.5573755191562836,,0.7944141344798931,0.08914564925880343
+257,E14000722,HALESOWEN AND ROWLEY REGIS,,,,,,,,,,,,,0.3659019077286887,,0.400166745532797,0.041043806824890776
+258,E14000723,HALIFAX,0.43755199273992285,0.5027821231262747,0.49333689246627377,0.41,0.44266238973536487,0.43790128000654316,0.37429768854889184,0.43383951743003435,0.4347788453215615,0.543258960360788,0.4902203515721713,0.41803878060465466,0.37373435885661804,0.4001097067629648,0.5283577761206396,0.04899048603039304
+259,E14000724,HALTEMPRICE AND HOWDEN,,,,,,,,,,,,,0.15655456839772658,,0.31006998444790046,0.10476305269290263
+260,E14000725,HALTON,,,,,,,0.4641812317155502,0.5545275318206973,0.5968203660157448,0.7087693242422197,0.691644908616188,0.6277974431735073,0.5767816536842615,0.6283899340337161,0.7293307484147179,0.03895850918771508
+261,E14000726,HAMMERSMITH,,,,,,,0.4147164306121208,0.45014804691948523,0.5102767962308599,,,,0.43854842788502063,0.5000208507089241,0.638731531807395,0.13368356232921524
+262,E14000727,HAMPSTEAD AND KILBURN,,,,,,,,,,,,,0.32812085873310365,,0.5900662591812625,0.22864860155092795
+263,E14000728,HARBOROUGH,0.3051012315381508,0.3616613146153628,0.32264860797592176,0.21,0.2373649979115699,0.2055824231556449,0.11469815314986495,0.12900722143483837,0.11910294773031133,0.25151395098760543,0.19968983565597606,0.19243771128083134,0.12705432705432707,0.15328467153284672,0.30740650717038787,0.15881295905371692
+264,E14000729,HARLOW,,,,0.5,0.5272708069286016,0.42719214047766924,0.34226664916261884,0.3657030796048809,0.41778609380240417,0.5408893164895842,0.477851177863642,0.4140890443711776,0.3365239983590866,0.29994802377347407,0.3835124648798109,0.05528901600775015
+265,E14000730,HARROGATE AND KNARESBOROUGH,,,,,,,,,,,,,0.06423382391688938,,0.2008283397955587,0.356306092698948
+266,E14000731,HARROW EAST,,,,0.33,,,0.22334788836920316,0.23545701721996576,0.3378775636507418,0.5251399589336796,0.5530711150862159,0.46130688861342306,0.3756197142023914,0.4063469387755102,0.4596715507916216,0.07659978581964398
+267,E14000732,HARROW WEST,,,,0.22,,,0.14765037238667725,0.17530335733589683,0.2253030081775701,0.4154001447453624,0.4960984393757503,0.42500889884629073,0.43609593199757135,0.4696049610540094,0.6084797934663886,0.08993781561704436
+268,E14000733,HARTLEPOOL,,,,0.54,,,0.4552174092579593,0.4846018828785703,0.5185844130729066,0.6073292540268155,0.5914693437754592,0.5150412010384919,0.4253700120286596,0.35644466953659154,0.5251344567945501,0.04132855715573751
+269,E14000734,HARWICH AND NORTH ESSEX,,,,,,,,,,,,,0.19946938775510203,,0.30435462740267105,0.11288801647325981
+270,E14000735,HASTINGS AND RYE,,,,,,,,,,,,,0.3708796723812583,,0.46236716210787715,0.0729631130928253
+271,E14000736,HAVANT,,,,,,,0.12026578073089701,0.14100830596870775,0.18702999505482326,0.32024750631182486,0.3353859089447783,0.28686126091267444,0.17714051431565042,0.15947622021950567,0.2530552316794058,0.12419765443112339
+272,E14000737,HAYES AND HARLINGTON,0.5879174131398867,0.6220559961547705,0.5764748287876967,,0.5218207535039219,0.4830401860950889,,,,,,,0.5482796632033211,,0.6651604535375089,0.04425603491385189
+273,E14000738,HAZEL GROVE,,,,0.11,0.1530330222541278,0.15143629951723903,0.11999511470270931,0.11842988145828674,0.11698368818995661,0.11921361978111066,0.1619107022194501,0.17470664928292046,0.1246754484171411,0.17547837756542262,0.20474938819903923,0.38783347263321966
+274,E14000739,HEMEL HEMPSTEAD,0.3786935339733057,0.415929203539823,0.36095321381722784,0.39,0.42687487218440506,0.42326656394453005,,,,0.45696289842445365,0.46616393871368483,0.3927358410461068,0.20810171615694043,0.2382487457941289,0.36896063654795147,0.12320805133506271
+275,E14000740,HEMSWORTH,0.8306898976482537,0.8539305227105929,0.8075766443982482,0.83,0.765116706487778,0.6960857213674236,0.5925717199366664,0.6699129514740537,0.708384593545945,0.7055874398047365,0.6539302239759276,0.5878995433789954,0.4677463503649635,0.5134179125595435,0.5602472575309072,0.039492563828091194
+276,E14000741,HENDON,,,,,,,,,,0.493304820529219,0.5246383197473746,0.4444656899065465,0.4211195928753181,0.415152125730405,0.459752944556162,0.08403086699954607
+277,E14000742,HENLEY,0.32838534975194195,0.44576977482127156,0.30832362004822045,0.21,0.24228519235369594,0.18460183917041675,0.09450661016575074,0.12585887006340857,0.14858979074314252,0.22699493626680636,0.21096371703340014,0.1474525646259965,0.10902466367713004,0.1252263016873054,0.20061647314313735,0.3086505896968975
+278,E14000743,HEREFORD AND SOUTH HEREFORDSHIRE,,,,,,,,,,,,,0.07246646410781092,,0.2375207986688852,0.12450147041050638
+279,E14000744,HERTFORD AND STORTFORD,,,,,,,,,,,,,0.13760225364320927,,0.2858547806374183,0.14304256664558856
+280,E14000745,HERTSMERE,,,,,,,0.1916680602783507,0.19598444424346567,0.23677653088274278,0.38194168586637006,0.36026984700638476,0.2718218547402048,0.18766659614977788,0.2242917889441217,0.2866246914052782,0.1256824320441354
+281,E14000746,HEXHAM,0.3187715774984769,0.3708436953117804,0.3527828409139078,0.3,0.34066538916296324,0.31883648686811633,0.1700404858299595,0.17961563185777935,0.24209907393796853,0.38271550874734517,0.38639096503430553,0.3031580468768819,0.18979831198399374,0.24923289883492905,0.3409484250605746,0.10123510292524376
+282,E14000747,HEYWOOD AND MIDDLETON,,,,,,,,,,,,,0.4010623306233062,,0.5329990975634212,0.04365313342318059
+283,E14000748,HIGH PEAK,0.34892051505470034,0.4125986553639287,0.4036127070711587,0.35,0.3707870058095259,0.3664680780886021,0.2601024904033432,0.2877111343978118,0.37920616904793697,0.5083197732402499,0.46618447853015754,0.39626717877933143,0.3160696902874625,0.3532654708696765,0.49677826676322584,0.050763295368541524
+284,E14000749,HITCHIN AND HARPENDEN,,,,,,,,,,,,,0.13550368325808398,,0.3259105523705833,0.3537225459054543
+285,E14000750,HOLBORN AND ST PANCRAS,,,,,,,,,,,,,0.4610880345477502,,0.7007644456497788,0.12879935195294615
+286,E14000751,HORNCHURCH AND UPMINSTER,,,,,,,,,,,,,0.207866641693201,,0.2859666339548577,0.07155296994849372
+287,E14000752,HORNSEY AND WOOD GREEN,,,,,,,,,,,,,0.3401039206424185,,0.6539739617613536,0.25994599459945994
+288,E14000753,HORSHAM,0.32916440625778925,0.37194122593241835,0.35396172419960653,,0.36864645553927644,0.33772866789441375,0.08340980761850733,0.08701429692127888,0.09861399456124448,0.18702002973847634,0.2022257238526689,0.17102486466648317,0.07501656488959725,0.11416776460254721,0.2165292722667656,0.233594762973973
+289,E14000754,HOUGHTON AND SUNDERLAND SOUTH,,,,,,,,,,,,,0.5033271087030852,,0.5946239151398264,0.05825023234784356
+290,E14000755,HOVE,0.3160562561023745,0.25654325403922973,0.3132436005287826,0.11,0.21922616829760946,0.21467164594175836,0.13847780126849896,0.1830631069933764,0.24470442612150373,0.4459175827601255,0.45853577212536917,0.37472095722832394,0.32971356309841626,0.42291339487493773,0.641398708243628,0.06616304020145058
+291,E14000756,HUDDERSFIELD,,,,,,,0.41389204252244816,0.4588108668354229,0.4874217695422751,0.5649548862055034,0.5324590905236978,0.4676874642243847,0.3880416543282993,0.44928109096299224,0.6038691426746361,0.056515925696003055
+292,E14000757,HUNTINGDON,,,,,,,0.11501975564902314,0.13929092249070923,0.16901868015335672,0.23455576426803362,0.2283811037095887,0.18735930405585868,0.11023476946891239,0.1832567454002539,0.30877427997320833,0.1594670904695082
+293,E14000758,HYNDBURN,,,,,,,0.4219416630387462,0.39797175234028576,0.46871440195280717,0.5558294663573086,0.54650524278953,0.4597328195898502,0.41083145856767905,0.4214797024739432,0.533604707756294,0.0289110031599302
+294,E14000759,ILFORD NORTH,,,,0.38,,,0.25249796203563524,0.273885205186046,0.3415364441044695,0.4735926305015353,0.45802057960928566,0.39832558139534885,0.34246458803011615,0.43862911795961745,0.5777941482027162,0.05347807000039909
+295,E14000760,ILFORD SOUTH,,,,0.4,,,0.34327014333341443,0.37517238099766986,0.45338438908216394,,0.5961738709286839,0.4885109971189656,0.4942470356117286,0.6401602712282324,0.7583467748929011,0.03356583203994241
+296,S14000038,INVERCLYDE,,,,,,,,,,,,0.5074519363953681,0.5596342503732139,0.3031362790593405,0.37515667766607835,0.06415557727489161
+297,S14000039,"INVERNESS, NAIRN, BADENOCH AND STRATHSPEY",,,,,,,,,,,,,0.22102111030879668,,0.16196662941989734,0.10665936872833424
+298,E14000761,IPSWICH,0.39775367931835787,0.49920951220315535,0.44049058284550774,0.41,0.45292277670961634,0.48184883119063276,0.43717494089834513,0.42727203531739993,0.4383074815829415,0.5269099555463662,0.5132611324055257,0.43784325899040066,0.34707398649368354,0.37090812009693186,0.47370788274634806,0.04919421529276508
+299,E14000762,ISLE OF WIGHT,0.31598809500651664,0.2897458073249605,0.225903718253558,0.11,0.12989259056981614,0.040488984416980116,0.024261085378316324,0.05890442356176943,0.06007559680032148,0.1318498065856559,0.15242115875366247,0.17180557425609264,0.11626152795172492,0.12779516358463727,0.22987687804616067,
+300,E14000763,ISLINGTON NORTH,,,,0.51,,,0.4044746239584461,0.49956619373277533,0.5743950121525944,0.692526491912995,0.618844320889595,0.5117800215914142,0.5448669030838982,0.6024089044156478,0.7297917273521701,0.15639810426540285
+301,E14000764,ISLINGTON SOUTH AND FINSBURY,,,,,0.6145005915159709,0.5203706001571742,,,,,,,0.4226150843760762,,0.6282753022955733,0.20012129831018907
+302,W07000077,ISLWYN,,,,,,,0.5933556858027693,0.7130239557891102,0.7425702135838359,0.741539391275684,0.6154744249155911,0.6378422161023813,0.49212893553223386,0.4897036806869862,0.5884243482115645,0.03822416302765648
+303,E14000765,JARROW,0.6423956997731531,0.6762709660642309,0.6352805345386656,0.67,0.6283550392753883,0.5579858050749177,0.5525385004064237,0.6344224062306096,0.6212000943942677,0.6485139502070911,0.6606050059456481,0.6049208311260227,0.5391398514851485,0.556581267503371,0.6512795481486646,0.05793401413982718
+304,E14000766,KEIGHLEY,0.42971538832609746,0.5500673888084661,0.49254201171969586,0.42,0.45579261191596404,0.4495002510154717,0.3702980943467612,0.3502421469726843,0.408484627315026,0.5058080808080808,0.48203447718828607,0.44740024183796856,0.3577748888702508,0.38094171772896607,0.4651738407394516,0.048916349809885934
+305,E14000767,KENILWORTH AND SOUTHAM,,,,,,,,,,,,,0.143482480229605,,0.25586017419769685,0.19008688708481472
+306,E14000768,KENSINGTON,,,,0.33,0.3961617745260285,0.35149187592319053,0.2953791659958139,0.3324997595460229,0.3883671222229419,,,,0.255448079658606,0.3111864017457218,0.42229231843214315,0.21278734975549563
+307,E14000769,KETTERING,0.5518555208412711,0.5264985026148368,0.48263094396139283,0.46,0.4930900522226468,0.45045931758530183,0.2109047708372413,0.19684024169649386,0.32051465077269,0.43278262548940427,0.44712754874237237,0.3971534342091076,0.29904073698444894,0.2515354314032784,0.36543599708525626,0.06821174611535423
+308,S14000040,KILMARNOCK AND LOUDOUN,,,,,,,,,,,,,0.5254226365647756,,0.2885678040809306,0.051311120908651926
+309,E14000770,KINGSTON AND SURBITON,,,,,,,,,,,,,0.09344959815096916,,0.14801055035543118,0.5111757551852217
+310,E14000771,KINGSTON UPON HULL EAST,,,,,,,,,,0.7130860050387788,0.6457651821862348,0.56580553948975,0.47937631640533584,,0.5828647851956985,0.05261697799149251
+311,E14000772,KINGSTON UPON HULL NORTH,,,,,,,,,,0.6584007836263339,0.5715083993992945,0.5193347755543537,0.39181760836262053,,0.6380313560691773,0.06093032774902786
+312,E14000773,KINGSTON UPON HULL WEST AND HESSLE,,,,,,,,,,,,,0.42463101095064276,,0.5306523940402141,0.056002041076667945
+313,E14000774,KINGSWOOD,,,,0.39,0.43996514790887453,0.4478646967041011,0.37139792634966035,0.3739097782860264,0.445157535954776,0.5373620318266068,0.5486939023464196,0.4704409440429046,0.35312904437857473,0.29602077922077924,0.3950267741736936,0.06937178083302915
+314,S14000041,KIRKCALDY AND COWDENBEATH,,,,,,,,,,,,,0.6453648312300773,,0.3683675015695019,0.061759387299223485
+315,E14000775,KNOWSLEY,,,,,,,,,,,,,0.7087196023108961,0.7811859328181675,0.853432582953337,0.020332010630164914
+316,N06000009,LAGAN VALLEY,,,,,,,,,,,,,,,,
+317,S14000042,LANARK AND HAMILTON EAST,,,,,,,,,,,,,0.4995918718047858,,0.31868436695066377,0.057224148326801325
+318,E14000776,LANCASTER AND FLEETWOOD,,,,,,,,,,,,,0.35294255403854713,,0.5510448150644719,0.04462725845330503
+319,E14000777,LEEDS CENTRAL,,,,,,,0.4793091961975043,0.5561802159872395,0.6223349720024186,0.6962090302358885,0.6693400717790962,0.6004933872404578,0.4929667861154196,0.5495915467945303,0.7017179535586181,0.047540784027270515
+320,E14000778,LEEDS EAST,,,,0.51,,,0.43757707997343703,0.48715323031092905,0.577046827619731,0.6747597228430934,0.6294957838581999,0.5917810951890149,0.5039536667283738,0.5374908367368311,0.613595231775295,0.04598996210181297
+321,E14000779,LEEDS NORTH EAST,,,,0.31,,,0.2376158135699872,0.2525009757400218,0.36804040404040406,0.49150717440506275,0.49128805973901896,0.44932114693611785,0.4267802671715578,0.4791161914228324,0.6308798279212815,0.11217821782178218
+322,E14000780,LEEDS NORTH WEST,,,,0.31,,,0.22184870483418578,0.21711341803532694,0.2726032003481219,0.39885774465327284,0.4191656262514428,0.3295609581534745,0.21001310857116573,0.3007818806651752,0.4410741676928727,0.19067426901771403
+323,E14000781,LEEDS WEST,,,,0.42,,,0.3402192333268979,0.43233020884722906,0.5512833944473546,0.6668075584286425,0.6213934068673272,0.55470209674071,0.4229201073492981,0.4803372979725685,0.6396788936512823,0.044363347483925425
+324,E14000782,LEICESTER EAST,,,,0.48,0.4477922077922078,0.46900078678206136,0.3704065835574024,0.46155025978258785,0.565468291309768,0.6549930183325076,0.5755392144807063,0.5813925337723334,0.5376393374309824,0.611342265124407,0.6698458721196399,0.05665607737601425
+325,E14000783,LEICESTER SOUTH,,,,0.39,0.4321056845476381,0.46409800733542556,0.40267358565062894,0.4416950475379594,0.5230400509296534,0.5801637776946419,0.5448159662070766,0.3934828228525618,0.45579747050335284,0.597993121762222,0.7355345725201418,0.05491853949388797
+326,E14000784,LEICESTER WEST,,,,0.56,0.5290687160940325,0.5360128484948318,0.4477031498431524,0.44472992231879405,0.4677579776212184,0.5518893288360952,0.5422800204702128,0.517216470021671,0.383734889304559,0.4649498870285615,0.6084186393687353,0.05199137311286844
+327,E14000785,LEIGH,0.675235531628533,0.6865851958552112,0.5824127748003938,0.51,0.5623479002433596,0.5412430481022539,0.5187953083000733,0.586442992294938,0.613062171828628,0.6892857142857143,0.6454473341265794,0.6330026310019733,0.4803527925651899,0.5387939631673426,0.5620813244015872,0.04793631196917772
+328,E14000786,LEWES,0.26303635126497454,0.28318876657979697,0.25884437034335434,0.19,0.22293460685142708,0.19165793046556792,0.08473933270770521,0.08824416644485848,0.09521604683081705,0.10640850942667128,0.07300860607928158,0.08955576559546313,0.05007187350263536,0.09893153937475267,0.11182462356067316,0.43410329802556014
+329,E14000789,"LEWISHAM, DEPTFORD",,,,,,,,,,,,0.5561148948771099,0.5369238233867055,,0.7704492669473073,0.10428406299667678
+330,E14000787,LEWISHAM EAST,,,,0.46,0.5092331179287701,0.4595884641610846,0.35868083305909454,0.3418615209988649,0.45388360769765823,0.5833244225834047,0.537162611354873,0.4582195521572911,0.4306431122510127,0.5569741164410689,0.6794771297218279,0.11244003123954033
+331,E14000788,LEWISHAM WEST AND PENGE,,,,,,,,,,,,,0.41087767611264103,,0.6656703511542221,0.1201535508637236
+332,E14000790,LEYTON AND WANSTEAD,,,,,,,,,,,,,0.436041734106925,,0.6981136161826176,0.10474330482411835
+333,E14000791,LICHFIELD,,,,,,,,,,0.4242380589796884,0.38517274472168905,0.32447878566203364,0.19839807613986774,0.19818524491421688,0.2884126746879904,0.1043098179393625
+334,E14000792,LINCOLN,0.4782292651014029,0.5827992400253325,0.5103259074859654,0.32,0.3708338589630377,0.40395606463297035,0.2751858120538671,0.3366516769077615,0.4282031575239376,0.5491750451147203,0.5388013468013468,0.45375369671975474,0.3522451389952101,0.3955647571074874,0.4789400221683977,0.04783819550060242
+335,S14000043,LINLITHGOW AND EAST FALKIRK,,,,,,,,,,,,,0.4982312925170068,,0.3114236816771847,0.07603634790134141
+336,E14000793,"LIVERPOOL, RIVERSIDE",,,,,,,,,,0.7042874000262226,0.713680743441948,0.575518579077298,0.5927166825597279,,0.845460224906289,0.05107124590350262
+337,E14000794,"LIVERPOOL, WALTON",,,,,,,,,,0.7838436093217599,0.7780940333122496,0.7276047261009667,0.7196446774428426,,0.8572884328269782,0.01853577207865444
+338,E14000795,"LIVERPOOL, WAVERTREE",,,,,,,,,,0.644453155625245,0.6271392121476134,0.5243240169457792,0.5309911905892283,,0.7955316223648029,0.09348272125780943
+339,E14000796,"LIVERPOOL, WEST DERBY",,,,,0.6047849788007268,0.5547337641595204,,,,0.7116730317622222,0.6617918270941858,0.6282825630252101,0.6414319248826291,,0.8274693886588579,0.029461910932278523
+340,S14000044,LIVINGSTON,,,,,,,0.37733601567049607,0.45560747663551404,0.44407642194388997,0.5488630527151328,0.5302916770737934,0.5110178857387735,0.48458471622101157,0.276174257563383,0.3267879249595277,0.06332429660023446
+341,W07000045,LLANELLI,0.6587325682595584,0.7140373197625106,0.627972559451189,0.58,0.594413633155188,0.5946083318671437,0.4821231951802223,0.5915515547625253,0.549272957167694,0.5787532454927082,0.48582794629537546,0.46944318696242643,0.424868529937802,0.41343910405972933,0.5346289227108225,
+342,E14000797,LOUGHBOROUGH,0.47680846469445043,0.5016294481747994,0.4537333625131807,0.39,0.4147518090643646,0.39591987891669084,0.23436476155806335,0.24470181089276843,0.32374088576829596,0.48597345555237276,0.497491752157997,0.41391417425227567,0.34496006661872136,0.3187043444828912,0.42020019206618897,0.07601911002910436
+343,E14000798,LOUTH AND HORNCASTLE,,,,,,,,,,,,,0.17348595872776965,,0.2670406094256315,0.07861346785905374
+344,E14000799,LUDLOW,0.29230602102061326,0.45129597492022616,0.3172400118965005,0.24,0.22969888629176405,0.14434317166157498,0.1260327952205415,0.15138270975834428,0.21001560454145965,0.2537539159554931,0.1341480382153789,0.10687580575848732,0.06714273988344414,0.12279716205813203,0.24308585151090653,0.16997511199601792
+345,E14000800,LUTON NORTH,,,,,,,0.26165352289977417,0.2678382273777068,0.32853625605591297,0.5463534184061523,0.5670653785206767,0.48724502837278255,0.49263099167790225,0.522491837166146,0.6384324996782634,0.048439737960506234
+346,E14000801,LUTON SOUTH,,,,,,,0.33267701909502934,0.366856502660816,0.43455905266438144,0.5484808235098788,0.551930065309649,0.42679479932165065,0.34880140231191964,0.4420125071063104,0.6243686731840548,
+347,E14000802,MACCLESFIELD,0.3532900905037981,0.3887794902866664,0.33330342079758785,0.27,0.2949191795815422,0.24451698459655208,0.1810502116479346,0.19635912850034812,0.21716009207079928,0.3364392863073602,0.33089832181638695,0.2899322680344578,0.20304041231347011,0.22686398645106656,0.36803726959692123,0.10551914901516699
+348,E14000803,MAIDENHEAD,,,,,,,,,,0.1808838845330032,0.15183064776767163,0.09038167938931298,0.07064408041697692,0.11872620926562065,0.19335840244509692,0.24382213410748424
+349,E14000804,MAIDSTONE AND THE WEALD,,,,,,,,,,,,,0.09746975147155003,,0.22106850745402865,0.16412538699690402
+350,E14000805,MAKERFIELD,,,,,,,0.49257624791605376,0.562616474096161,0.6040957515317669,0.735748878126805,0.6850757401882029,0.6322091062394604,0.47291585753124216,0.5181745110297401,0.6018153538022287,0.04762873087959511
+351,E14000806,MALDON,0.42150483290163626,0.4444041649044368,0.39745498614958447,0.27,0.2996004760285617,0.2511189726951117,,,,,,,0.12673556738699238,0.11843063794359454,0.21276044779092465,0.1188303443897794
+352,E14000807,MANCHESTER CENTRAL,,,,0.62,,,0.6527227604638954,0.6816272770198066,0.7265255292652553,0.7097534066851537,0.6869793273680963,0.5806793329688354,0.5274375735717685,0.6126491804725244,0.7741351568785197,0.06540572586968578
+353,E14000808,"MANCHESTER, GORTON",,,,,0.5362775230513428,,,,,0.6528049351436204,0.6279701788534283,0.5315386464306562,0.5012654924983692,,0.7634974865623572,0.054955662812885844
+354,E14000809,"MANCHESTER, WITHINGTON",,,,,0.37881708430556965,,,,,0.615599518477298,0.5489015691868759,0.4059212985210102,0.4045213297506162,,0.7168389239207492,0.15090102839890557
+355,E14000810,MANSFIELD,0.6357211622615089,0.6423879400565589,0.6612131835789565,0.65,0.5740560895847785,0.5228197098945399,0.40446273830155977,0.37460839000534885,0.5435757740851721,0.6442879433222283,0.5712037338543363,0.4807189884000418,0.3874987085442711,0.39418981628631367,0.4453017524971589,0.03299981734418444
+356,E14000811,MEON VALLEY,,,,,,,,,,,,,0.06374175416682931,0.10936442562406945,0.18327428402716267,0.21368254026154043
+357,E14000812,MERIDEN,0.5031032537145007,0.5363104579825938,0.4686861991250166,0.53,0.47389805466633833,0.43348253547379334,0.2535805819387909,0.26084630518068547,0.30903910136047696,0.4096458203881721,0.3918849166273929,0.3313119583682773,0.20518768452129904,0.1900271847613254,0.26856138938198854,0.10365392071785971
+358,W07000071,MERTHYR TYDFIL AND RHYMNEY,,,,,,,,,,,,,0.43668163112607555,,0.6679684006558354,0.03460894374496062
+359,E14000813,MID BEDFORDSHIRE,,,,,,,,,,0.3253484652296443,0.30110639392769845,0.22512891709639032,0.1476947738492085,,0.28434540213500586,0.12625739759259547
+360,E14000814,MID DERBYSHIRE,,,,,,,,,,,,,0.24470871530564825,,0.3553036469397074,0.09636113137207229
+361,E14000819,MIDDLESBROUGH,,,,0.66,,,0.5070611006236708,0.5969626709946673,0.6409021239325596,0.7142547237347333,0.6757125485660053,0.5775357809583074,0.45885517859811686,0.5682137834036568,0.6567331705811376,0.02393172419860985
+362,E14000820,MIDDLESBROUGH SOUTH AND EAST CLEVELAND,,,,,,,,,,,,,0.3924784697277881,,0.4750734985300294,0.04084321475625823
+363,E14000815,MID DORSET AND NORTH POOLE,,,,,,,,,,,,,0.058733008463708644,,0.13310813611306835,0.29940731657469855
+364,S14000045,MIDLOTHIAN,0.6125593147223762,0.5660392832246689,0.5294532203448098,0.45,0.4148916144166582,0.4781231389145833,0.4273912851918756,0.48253064892274117,0.4387426744805541,0.5350790093335981,0.5272594346191338,0.4549384680670486,0.47013404005912035,0.3019594049367901,0.3635279305546352,0.0703635345596317
+365,E14000816,MID NORFOLK,,,,,,,,,,0.3725046556555337,0.36075588033797673,0.29239595132824203,0.17447059982271249,,0.30074728749012,0.13773893852561137
+366,E14000817,MID SUSSEX,,,,,,,,,,0.18646540598170697,0.18971236523940466,0.12688406675556632,0.06604601199534509,,0.250016225337487,0.243108887543418
+367,N06000010,MID ULSTER,,,,,,,,,,,,,,,,
+368,E14000818,MID WORCESTERSHIRE,,,,,,,,,,0.28886833664574274,0.27418313027596497,0.2380368608057847,0.1494767430445112,,0.22946504746864166,0.11535377652655773
+369,E14000821,MILTON KEYNES NORTH,,,,,,,,,,,,,0.26829720902612825,0.3031789502877349,0.44415243101182655,0.07980109684537039
+370,E14000822,MILTON KEYNES SOUTH,,,,,,,,,,,,,0.32228507400646994,0.32110807647288336,0.44909057106559663,0.0732419891574359
+371,E14000823,MITCHAM AND MORDEN,,,,,0.48178041798497667,0.45196278836927956,,,,,,,0.5644678859282599,,0.6866245479862005,0.08126188758444285
+372,E14000824,MOLE VALLEY,,,,,,,0.08496035729651104,0.09292782081767277,0.09640859313788014,0.1477697894505172,0.16648963290278723,0.10745724982292826,0.07002429865252927,0.08278926369241929,0.13863131544617988,0.343459989493959
+373,W07000054,MONMOUTH,0.40355301914580266,0.5273156081292724,0.44314576449507653,0.36,0.38858353083556046,0.3578467510193028,0.21686447383293772,0.27679405520169853,0.40966861138939636,0.47738908720040796,0.42780351761054386,0.3695047422951394,0.2588404737849051,0.26798280729847035,0.36604737201914184,0.097755740088018
+374,W07000063,MONTGOMERYSHIRE,,,,0.18,,,,,,0.19135473766640565,0.11879377566159473,0.11476226866465096,0.0711856386596871,0.05628462244867731,0.15883752257029032,0.2303735313029754
+375,S14000046,MORAY,,,,,,,0.07263681592039802,0.11328773490935654,0.11885853913954098,0.1983101141678821,0.250790115281582,0.20413476658159976,0.17088576724222027,0.09939123376623377,0.10940027308055876,0.046472094214029695
+376,E14000825,MORECAMBE AND LUNESDALE,,,,,,,,,,,,,0.3952712036099088,,0.44624044505771293,0.05137938644890753
+377,E14000826,MORLEY AND OUTWOOD,,,,,,,,,,,,,0.3759006058621254,,0.4669098687854537,0.04400154053533603
+378,S14000047,MOTHERWELL AND WISHAW,,,,,0.44617049231007033,0.568717110305012,,,,,,,0.6111494517291619,,0.3776177073892096,0.03770823953174246
+379,S14000027,NA H-EILEANAN AN IAR,,,,,,,,,,,,0.34489736918184444,0.328735475980159,0.28610867110051447,0.3378323660413011,0.04400082890101541
+380,W07000069,NEATH,0.735387358827026,0.7969688450430649,0.7141994261841245,0.62,0.6144403800358432,0.645223567546954,0.5361619601721773,0.6337388111085609,0.6800387298373787,0.7352520427708945,0.6068817818389491,0.5258676047686852,0.4625828349765638,0.4381311431264306,0.5671411780070523,0.04040156709108717
+381,E14000829,NEWARK,0.5435757903044905,0.5671530580565042,0.5118011220739022,0.54,0.4788894690408887,0.4294884521209715,0.24632082413539366,0.27707419416364676,0.35844417716145466,0.452098285582344,0.37455423394688464,0.3388042717086835,0.22327633325525104,0.21720010707047532,0.2969368845608808,0.09692852708082247
+382,E14000830,NEWBURY,0.3443993963965602,0.38018203735084993,0.29928096812506016,0.17,0.16959867066430662,0.10473635493638317,0.05640968301000727,0.08125991234502634,0.05965609660613726,0.05501451944188682,0.0693408388607869,0.059243136465897246,0.04275546604311389,0.0844153577661431,0.1412677283110651,0.3064102136737891
+383,E14000834,NEWCASTLE-UNDER-LYME,,,,0.47,,,,,,0.5646970221254249,0.5339504576718208,0.4537297677691766,0.37954666481442895,0.384212852059446,0.48182108480452535,0.05277274860859653
+384,E14000831,NEWCASTLE UPON TYNE CENTRAL,,,,0.74,,,0.3580851781099,0.4420769996968516,0.4938280263711601,0.5917375455650061,0.5497275595067393,0.4513084632516704,0.45946658078871094,0.5501211343879151,0.6489189626354667,0.07229012115066447
+385,E14000832,NEWCASTLE UPON TYNE EAST,,,,0.59,,,0.4550656105922686,0.5644907495708564,0.6020181035761982,,,,0.45039640591966174,0.49405945642751514,0.6755289766313616,0.10457742419001499
+386,E14000833,NEWCASTLE UPON TYNE NORTH,,,,0.33,,,0.375568743818002,0.426961157654227,0.49413824304653997,0.621835547989122,0.6014628244610647,0.5000520237228177,0.408455832157648,0.46087188968835624,0.5535329688535454,0.0927041000872359
+387,E14000827,NEW FOREST EAST,,,,,,,,,,0.24792057408464488,0.21672435867039688,0.1214104122913673,0.09822927492205612,0.12170606912451716,0.19793248452283613,0.1455125428267633
+388,E14000828,NEW FOREST WEST,,,,,,,,,,0.14255276381909548,0.14700478599133532,0.164760023444114,0.0980829059110401,0.10826829782746256,0.19624398009148247,0.15326203633761382
+389,W07000055,NEWPORT EAST,,,,,,,0.3960767739048282,0.4907086312869203,0.5500143170754987,0.5765473186966558,0.5472795857042388,0.4521288295365279,0.36994890849976775,0.40702973681212257,0.5650190114068441,0.05845873987101042
+390,W07000056,NEWPORT WEST,,,,,,,0.3662733881539745,0.46061394610329465,0.5311344833656046,0.6052186458385155,0.5273079884778826,0.44836561065711406,0.4126132930513595,0.41224874216174684,0.5231134030111884,0.05905647779338291
+391,N06000011,NEWRY AND ARMAGH,,,,,,,,,,,,,,,,
+392,E14000835,NEWTON ABBOT,,,,,,,,,,,,,0.07014891369633204,0.09814933786500321,0.2222243739953909,0.22241038130755766
+393,E14000836,"NORMANTON, PONTEFRACT AND CASTLEFORD",,,,,,,,,,,,,0.4821254784921819,,0.5949868878453376,0.0652106342858327
+394,E14000861,NORTHAMPTON NORTH,,,,0.41,0.43795973154362416,0.36133080932500067,0.2695471997074776,0.30100787340645735,0.3860195247743599,0.527041665054741,0.49421603123343133,0.4020405251141553,0.29298999279878823,0.34137677298216235,0.4521769280301154,0.05136700472950757
+395,E14000862,NORTHAMPTON SOUTH,,,,0.4,0.42559799325111236,0.40235318563154204,0.23040655279192887,0.24577441401129155,0.29847233257874456,0.4240259171701252,0.42881498755609554,0.3560690883060149,0.2543229514084868,0.31812570723176625,0.44041526538967685,0.06078119260438349
+396,N06000012,NORTH ANTRIM,,,,,,,,,,,,,,,,
+397,S14000048,NORTH AYRSHIRE AND ARRAN,,,,,,,,,,,,,0.47402203139908056,,0.27491408934707906,0.043755451260539105
+398,E14000837,NORTH CORNWALL,0.09768975053775455,0.0695499093512704,0.04263290643289174,,0.06387469717684872,0.03193351753812406,,,,0.09441832635267972,0.097382509308486,0.11853810153263548,0.042075826146358124,,0.12074042085427136,0.30804210689268163
+399,E14000838,NORTH DEVON,0.12265181592901489,0.15891583452211128,0.12291180587960802,,,,,,,0.09754807166052468,0.10141308320136436,0.08965915655690353,0.05204497184388457,,0.12679292702629927,0.2998506683938756
+400,E14000839,NORTH DORSET,0.15281409614115693,0.16637334271969964,0.17535371605139047,,,0.1172383779667076,,,,0.10230665373571415,0.11154095481064805,0.08702073274637886,0.05374854546462016,,0.18649056062019956,0.2032544958739551
+401,N06000013,NORTH DOWN,,,,,,,,,,,,,,,,
+402,E14000840,NORTH DURHAM,,,,,,,,,,0.702637381275441,0.6720597386434349,0.6409041000508824,0.5052359215954305,,0.5987662877737732,0.0682308330370897
+403,E14000841,NORTH EAST BEDFORDSHIRE,,,,,,,,,,0.3260300071445582,0.30961852981479027,0.251974548025452,0.16123631912442396,,0.28459981314232324,0.12302746931618937
+404,E14000842,NORTH EAST CAMBRIDGESHIRE,,,,,,,,,,0.3383671628326567,0.3487752596199871,0.3003321736737622,0.17812692071296865,,0.24528939268823663,0.08114946001057322
+405,E14000843,NORTH EAST DERBYSHIRE,0.6419189319340429,0.6694153441897451,0.6086464427476048,,0.49906072650333194,0.4813681622835718,,,,0.6045710767810077,0.5563811603836293,0.4930699452042179,0.38159629204405326,,0.4351528384279476,0.06138123006278318
+406,S14000049,NORTH EAST FIFE,,,,,,,,,,0.10279882406367265,0.11385910296321919,0.1276065981948335,0.17145067891373802,,0.09626512361914781,0.4307729194821047
+407,E14000844,NORTH EAST HAMPSHIRE,,,,,,,,,,0.16049382716049382,0.1989669374473798,0.16135512931672552,0.09771623944539942,,0.17321741544762004,0.25424329340307067
+408,E14000845,NORTH EAST HERTFORDSHIRE,,,,,,,,,,0.3581882873353207,0.3640049277634674,0.2799848017900114,0.16442240951908776,,0.2834112990284275,0.1547707267699315
+409,E14000846,NORTH EAST SOMERSET,,,,,,,,,,,,,0.316700193348046,,0.3470754769350332,0.22060808410883
+410,E14000847,NORTH HEREFORDSHIRE,,,,,,,,,,,,,0.07090901446350488,,0.18923012535623893,0.1430838868967139
+411,E14000848,NORTH NORFOLK,0.5006853389194921,0.5090197038306205,0.44735895706900425,,0.3203135149179405,0.2863502827783458,,,,0.25055684967609204,0.13322660974742084,0.09237683371491563,0.05831537826463422,,0.09925653406913466,0.30295338724593196
+412,E14000849,NORTH SHROPSHIRE,,,,,,,,,,0.35977716526262665,0.35232158211521925,0.25889056116964093,0.18134145636121768,,0.31092285832479,0.09985313113796826
+413,E14000850,NORTH SOMERSET,0.3985124159898604,0.4271841533134713,0.4191158936449267,,0.316492628992629,0.2784497841328181,,,,,,,0.11128561812878618,,0.26618705035971224,0.17808395777938926
+414,E14000851,NORTH SWINDON,,,,,,,,,,0.4978040190594572,0.5285154035154035,0.4369388437117077,0.305159558604235,,0.3841853180601337,0.07997822734282863
+415,E14000852,NORTH THANET,,,,,,,,,,0.3844346849147176,0.34393809114359414,0.32161803713527853,0.21452137600073828,,0.3398861872736679,0.0713811283158288
+416,E14000853,NORTH TYNESIDE,,,,,,,,,,0.7271558697723898,0.6946275587819264,0.619453693927827,0.5065186941062385,,0.644723656825715,0.06426857562117036
+417,E14000854,NORTH WARWICKSHIRE,,,,,,,,,,0.5838787588266745,0.5409489067531357,0.4806450925669486,0.4006981910504602,,0.38895247784984527,0.045062508167443484
+418,E14000855,NORTH WEST CAMBRIDGESHIRE,,,,,,,,,,0.3222991519521488,0.3138138138138138,0.2581072272468019,0.16946622514283755,,0.3050585238549171,0.10662761687818635
+419,E14000856,NORTH WEST DURHAM,0.6974735825779113,0.7357995921934168,0.6959954069183293,,,,,,,0.6877307368466504,0.6252485596288176,0.5394213976562302,0.42311993609494464,,0.5283286710366999,0.05939617732832596
+420,E14000857,NORTH WEST HAMPSHIRE,,,,,,,,,,,0.25426168493347867,0.2066517116941383,0.1309765067927644,,0.23466957054379636,0.17453070368987406
+421,E14000858,NORTH WEST LEICESTERSHIRE,,,,,,,,,,0.563805862566074,0.520584771934502,0.45500636402206196,0.3009701262704034,,0.33370687884051475,0.06714851080433289
+422,E14000859,NORTH WEST NORFOLK,,,,,,,,,,0.43839088841432716,0.4171825869577954,0.3216450472862248,0.13290794979079498,,0.3200098338489275,0.07778636110038195
+423,E14000860,NORTH WILTSHIRE,,,,,,,,,,0.14239911743919467,0.14270605122006497,0.12118941866894989,0.06651060596726832,,0.17500837895207239,0.26931224661236713
+424,E14000863,NORWICH NORTH,,,,0.49,,,0.3236235126827126,0.30179110485007044,0.42763107095977143,0.49668525346459125,0.47406498004998465,0.4485573958709842,0.3142602118713739,0.3346714993576803,0.4661292079747249,0.05753483850059415
+425,E14000864,NORWICH SOUTH,,,,0.41,,,0.3530925729226244,0.3789794187928775,0.4869794206573686,0.5170567508513612,0.45470980465815175,0.37696136525242946,0.2870602090387163,0.39273260012793265,0.6096497205942484,0.09242737986956438
+426,E14000865,NOTTINGHAM EAST,,,,0.47,0.5120500588563286,0.5046762589928058,0.37082798459563543,0.41957118828113354,0.5255906752073927,0.6228613123993558,0.5896202616797283,0.4581768635140075,0.4536723846339696,0.5455423329262404,0.7145726854324002,0.048845115488451156
+427,E14000866,NOTTINGHAM NORTH,,,,0.45,,,0.38684132934585735,0.4492997309700902,0.5574915566472214,0.6570614236371102,0.6454963051727581,0.5872362834479807,0.48551844830100627,0.5455960161842515,0.6019729116104282,0.04479048697621744
+428,E14000867,NOTTINGHAM SOUTH,,,,,,,0.3409756902884973,0.4051751517982251,0.476958098904353,0.5528647980214345,0.5449801939625735,0.4737657864523536,0.37287013655642454,0.47617623375129414,0.6235949219805107,0.08175094527776623
+429,E14000868,NUNEATON,0.527841357937167,0.5397880331124526,0.5743108688816686,0.54,0.561058627396499,0.49878492352165693,0.305746585944082,0.3457921784451653,0.45754287832328067,0.562106404051352,0.5212643147395641,0.4404814487632509,0.36883483402768447,0.34853220835428095,0.4127900666420648,0.041203806151803496
+430,S14000050,OCHIL AND SOUTH PERTHSHIRE,,,,,,,,,,,,,0.3790643761516971,,0.20024737852606705,0.05542006123190286
+431,W07000074,OGMORE,0.7287730820077615,0.7129800845926587,0.6730409227238874,0.53,0.5948432464107823,0.5342073726949149,0.5920469790163768,0.6937044529479149,0.7173479087452471,0.7398077125144479,0.6204658518103647,0.604234097364423,0.538066378066378,0.5294468085106383,0.624260832168584,0.041254591692568524
+432,E14000869,OLD BEXLEY AND SIDCUP,,,,,,,,,,,,,0.19273718455992261,,0.29305607593355815,0.08282587495936722
+433,E14000870,OLDHAM EAST AND SADDLEWORTH,,,,,,,,,,,,,0.31864330637915544,,0.5448689329676637,0.052486786240360454
+434,E14000871,OLDHAM WEST AND ROYTON,,,,,,,,,,,,,0.4545094383593568,,0.6518301738446755,0.033397848494396185
+435,S14000051,ORKNEY AND SHETLAND,,,,,0.12377646255406329,,,,,,,,0.10653365036700094,,0.11444773811058126,0.44822970639032816
+436,E14000872,ORPINGTON,0.09845976373074705,0.10045793968398037,0.07950180421371203,0.12,0.15647700341047033,0.11864712351488273,0.07703680473107681,0.10724204229865414,0.11493390049626757,0.1787340846381437,0.1083634506599623,0.08977966163627726,0.08995931385577886,0.1559185837820199,0.2437724183032441,0.15500502863241725
+437,E14000873,OXFORD EAST,,,,,,,0.37290333553009203,0.43008539344162067,0.5037298365672752,0.5682269148025147,0.49390182694238105,0.36862885857860733,0.42473524229927784,0.5002268736806802,0.6515882440255306,0.1394679794971535
+438,E14000874,OXFORD WEST AND ABINGDON,,,,,,,,,,,,,0.10621458923512749,,0.12617460846384537,0.5327757377940976
+439,S14000052,PAISLEY AND RENFREWSHIRE NORTH,,,,,,,,,,,,,0.5402567094515752,,0.3183953662984018,0.07368865987681655
+440,S14000053,PAISLEY AND RENFREWSHIRE SOUTH,,,,,,,,,,,,,0.5960798039901996,,0.3457757959340238,0.06772815894531613
+441,E14000875,PENDLE,,,,,,,0.32304130430553124,0.35299091101247093,0.44233810240963856,0.5327734665674497,0.4462146380751032,0.37075756102304774,0.30917970917970916,0.3492845572354212,0.46165336424845055,0.034817813765182185
+442,E14000876,PENISTONE AND STOCKSBRIDGE,,,,,,,,,,,,,0.37761200447157967,,0.4580914696607548,0.10205977382875606
+443,E14000877,PENRITH AND THE BORDER,,,,,,,,,,,,,0.12939428216559096,,0.2618463524854745,0.11216125794580127
+444,S14000054,PERTH AND NORTH PERTHSHIRE,,,,,,,,,,,,,0.1641460180657993,,0.1038136826783115,0.06990161994230343
+445,E14000878,PETERBOROUGH,0.4148371858907345,0.4605987148408942,0.4591601209540339,0.4,0.44445349737238765,0.39824737370004754,0.29064566820356075,0.3363786034800013,0.40174665856622116,0.5031284200962273,0.4514970360695268,0.3549169983496748,0.2954125581498876,0.35600637280934677,0.48074908877623695,0.048827430388485596
+446,E14000879,"PLYMOUTH, MOOR VIEW",,,,,,,,,,,,,0.37164667918894184,,0.4083933328929696,0.05201292976785189
+447,E14000880,"PLYMOUTH, SUTTON AND DEVONPORT",,,,,,,,,,,,,0.31669476466031804,,0.5327878456491173,0.047859936813600124
+448,W07000075,PONTYPRIDD,0.7134953614224971,0.7491801287501518,0.5852643720776947,0.52,0.5657084387126667,0.5596867214960926,0.45586541718414814,0.5630087364159386,0.607936183268562,0.6387525896848762,0.5994152810044637,0.5278044103547459,0.3877723541763246,0.41059078190169473,0.5540432145184739,
+449,E14000881,POOLE,0.30583737129012717,0.3670874240299205,0.30073775531115515,0.23,0.25894492125921564,0.22441222225483579,0.1074742119518239,0.09932504081735706,0.1098991954717461,0.21576586199530015,0.26875334539800677,0.23143188606126427,0.12735053545830172,0.12875319139957378,0.29446339017051154,0.15498206180254107
+450,E14000882,POPLAR AND LIMEHOUSE,,,,,,,,,,,,,0.39997858672376874,,0.6725949603835821,0.14413473464325346
+451,E14000883,PORTSMOUTH NORTH,,,,0.44,0.45865822880174784,0.44383940932164284,0.21134764250527796,0.1995714926339916,0.29935755283068094,0.4713717693836978,0.5065914392665328,0.4086221067423178,0.27752844643909513,0.23807005948446794,0.3366871425545435,0.07447179263776955
+452,E14000884,PORTSMOUTH SOUTH,,,,0.3,,,0.22559566499322656,0.12962383886691806,0.1464464781644331,0.25313860141212885,0.23870359037127703,0.2158319710704909,0.13668088406359055,0.19530821182254254,0.4104025490284073,0.11424354243542435
+453,W07000065,PRESELI PEMBROKESHIRE,,,,,,,,,,0.4829139447680589,0.41346493732495854,0.3498328452587659,0.3115751729710621,0.2814380116382286,0.4262862288788303,0.04580494589688583
+454,E14000885,PRESTON,,,,,,,0.46721364152438893,0.5246465418418036,0.5427665167611723,0.6078129550276656,0.5699064953802614,0.5049734456148587,0.48201815105368406,0.5603692969613673,0.6801134927100598,0.05140574134359278
+455,E14000886,PUDSEY,0.34688557085299376,0.3955312063594371,0.37089620253164557,0.28,0.29944000626566414,0.2518253531462117,0.1782718355908454,0.2048838913816836,0.28345749458445607,0.48112116212474637,0.4807304925290537,0.4577771079149083,0.3507324328178799,0.375753529561922,0.46737337608183993,0.056958406345107446
+456,E14000887,PUTNEY,,,,0.41,,,0.3585050229865486,0.36074193077260114,0.3661049271396887,0.45650642118422546,0.4645004962924038,0.3754306337835621,0.2738751992153978,0.2998621913904655,0.4078346910052459,0.16937800939227615
+457,E14000888,RAYLEIGH AND WICKFORD,,,,,,,,,,,,,0.1447567009915366,,0.24337074995932975,0.07597311524380249
+458,E14000889,READING EAST,,,,,,,0.19397739946549947,0.21464436726064634,0.26959172362830225,0.4273397052966945,0.4478624641833811,0.343459646565859,0.2546563969190757,0.3306729512417317,0.49047756978891344,0.09004256232340213
+459,E14000890,READING WEST,,,,,,,0.19257278917248005,0.21275466058365453,0.2783911820772701,0.45136291305875303,0.5311294240937455,0.4498491793933924,0.30547022932884493,0.33947607635732585,0.4333925742765522,0.08850611208128274
+460,E14000891,REDCAR,,,,0.6,0.5386383156526382,0.5368321214037306,0.4058753262841216,0.47341892928999607,0.559571840263483,0.6734814754299252,0.602806429656003,0.5138313476235815,0.3274551390510688,0.4385737676873824,0.5550516917293233,0.049409921159590614
+461,E14000892,REDDITCH,,,,,,,,,,0.4978993474568696,0.4563350615683733,0.4470477277803976,0.30253532645735837,0.311057190802304,0.3603521890140035,0.06592234551932286
+462,E14000893,REIGATE,0.29726942830514186,0.3263933815601168,0.29203171419380475,0.23,0.258973235476686,0.22051064131166118,0.12059171597633137,0.14301324693748443,0.16212193695848615,0.27778469713953585,0.27486446775092466,0.20880178382818917,0.11348993557165153,0.12810376054061423,0.2467718261709678,0.19414553390021821
+463,W07000052,RHONDDA,,,,0.71,0.7713521711366539,0.7514532009964807,0.6174361554912567,0.7332505681339955,0.7454826490181565,0.7445046193055113,0.6831951061702253,0.6805573391550019,0.553005921730175,0.5065635106855222,0.6405149380616955,0.020646380136293097
+464,E14000894,RIBBLE VALLEY,,,,,,,0.13488462957737307,0.17730439172135284,0.06547992893929334,0.15751210220024117,0.19916210774643592,0.2195072941365591,0.22049457800218028,0.2258292977049557,0.3391304347826087,0.08639027566746256
+465,E14000896,RICHMOND PARK,,,,,,,,,,0.12614989534413312,0.1127342271774735,0.09280959240082531,0.05026321117635149,0.12344968782254108,0.09115742933838623,0.5311294511810902
+466,E14000895,RICHMOND (YORKS),,,,,,,0.0966967896743232,0.117880701999965,0.11575092702291016,,,0.19723451327433628,0.15258743353553508,0.13192836904387117,0.23415712205988107,0.12112021905273555
+467,E14000897,ROCHDALE,0.46687844910094284,0.5239491481893673,0.4156929655946956,0.32,0.36814726739988957,0.34281187797050816,0.3009997468995191,0.37966141363707284,0.393774684972729,0.49411422153820556,0.4923881051456409,0.4002595748849055,0.36375716121724355,0.4613911512216597,0.5801894332986971,0.06980420258393576
+468,E14000898,ROCHESTER AND STROOD,,,,,,,,,,,,,0.2845677596881449,,0.3604679276162845,0.07158263682933405
+469,E14000899,ROCHFORD AND SOUTHEND EAST,,,,,,,,,,,,,0.20318993058057697,,0.3696452759905181,0.06116698456736605
+470,E14000900,ROMFORD,0.4750844520679817,0.574115959618249,0.52601908065915,0.32,0.36704602933737984,0.3290102712169262,0.19267753380984212,0.22842927165693735,0.2947083541058329,0.4318003751276146,0.3628469790762163,0.27331286661915466,0.1952840945762785,0.20879254951401033,0.3182164023706551,0.05733522474645889
+471,E14000901,ROMSEY AND SOUTHAMPTON NORTH,,,,,,,,,,,,,0.0636711007580866,,0.1917890201085222,0.33060906791204514
+472,E14000902,ROSSENDALE AND DARWEN,,,,,,,,,,,,,0.32248344932948564,,0.4442738655395167,0.04119044692966286
+473,S14000055,"ROSS, SKYE AND LOCHABER",,,,,,,,,,,,,0.15112807853493312,,0.12209393041036043,0.24630665429280896
+474,E14000904,ROTHERHAM,0.6648269545936566,0.6967732092455565,0.6640888047138047,0.6,0.6458166932907349,0.605453178743081,0.5429373702844585,0.5967885816235504,0.6394917582417582,0.7132005312084994,0.6390611160318866,0.528387484155047,0.4463552498266944,0.525077333897364,0.5644068243546133,0.05862388151804999
+475,E14000903,ROTHER VALLEY,0.7442241944952861,0.7681907008679425,0.7178814382896016,0.73,0.6728321609856758,0.6222144045895517,0.4650085397096499,0.5638215189621156,0.6048423313482378,0.675607166843599,0.6209004700703747,0.5537662995315863,0.40949142392745624,0.436015227886599,0.4813490139023602,0.052425150930223006
+476,E14000905,RUGBY,0.41175227224688227,0.5001376715157634,0.5285029864291594,0.49,0.4820437342304458,0.4203019321330982,,,,,,,0.3139167439116879,0.2794555768681386,0.382967118591242,0.08279214389735112
+477,E14000906,"RUISLIP, NORTHWOOD AND PINNER",,,,,,,,,,,,,0.19531919131560602,,0.3104979206474092,0.1509526689853319
+478,E14000907,RUNNYMEDE AND WEYBRIDGE,,,,,,,,,,,,,0.13387331256490134,,0.2593733651107365,0.17331907147816622
+479,E14000908,RUSHCLIFFE,0.47363065965745293,0.45795428142481814,0.413686107033231,0.23,0.24504595495404505,0.2130694222092854,0.13476540836321957,0.16544982907010702,0.23184789817768373,0.3622971406491499,0.3400066120559821,0.26504590577329473,0.20727550431203084,0.26330577913131753,0.3809401313645796,0.1586645731757706
+480,S14000056,RUTHERGLEN AND HAMILTON WEST,,,,,,,,,,,,,0.6080330346310211,,0.37547177229124074,0.05188310964048035
+481,E14000909,RUTLAND AND MELTON,,,,,,,,,,,,,0.14293734154291923,,0.22694505723566502,0.136683244726462
+482,E14000910,SAFFRON WALDEN,,,,0.25,,,0.11389700921969867,0.11544116375209727,0.14335692391635774,0.2151621384750219,0.22591926458832934,0.16512636740852507,0.09726130699479482,0.11797508816427218,0.20789348393557813,0.19211869511460547
+483,E14000911,SALFORD AND ECCLES,,,,,,,,,,,,,0.40100642862302266,,0.6545286545286545,0.06120635171433086
+484,E14000912,SALISBURY,0.3443620963472737,0.449601831332343,0.39718904681894557,0.21,0.2161309574558786,0.126417471650567,0.05814578123552839,0.09469170948479377,0.09039799518580803,0.17586153608406738,0.17487595764500125,0.17409152829424543,0.07611229141313092,0.1532590474312198,0.2554632252255632,0.19624046156709474
+485,E14000913,SCARBOROUGH AND WHITBY,0.24032536858159634,0.24171205908154314,0.1868008309035123,,0.24884018356446072,0.25477821448624366,,,,,,,0.2633415851629398,,0.4155880195841345,0.06109725685785536
+486,E14000914,SCUNTHORPE,,,,,,,,,,0.6039110982825805,0.5976505576208179,0.5313188831741367,0.39531241561808067,0.4166914810102596,0.5202726232525745,0.023178807947019868
+487,E14000915,SEDGEFIELD,0.6065897300954816,0.6465317589885721,0.6053396384414561,,,,0.47555664192702546,0.5602062611922587,0.6050096748814561,0.7115629510145174,0.648566744497988,0.588891835209604,0.4510218288498831,0.4720270689120777,0.5338174124209565,0.04703363325795121
+488,E14000916,SEFTON CENTRAL,,,,,,,,,,,,,0.4190206962012257,0.537708329083454,0.6303884483189002,0.06654874213836479
+489,E14000917,SELBY AND AINSTY,,,,,,,,,,,,,0.25705613980822767,,0.3414829873742778,0.08582367329575667
+490,E14000918,SEVENOAKS,0.2713912475506205,0.3232219970036133,0.25490716180371353,0.24,0.26542046195317043,0.22807319361901782,0.1224307417336908,0.13194692797367857,0.1638351614130999,0.24556820674390317,0.25573755103956447,0.21019446625710195,0.13238746761658032,0.12864097039342431,0.20943808817212697,0.19848496742287464
+491,E14000921,"SHEFFIELD, BRIGHTSIDE AND HILLSBOROUGH",,,,,,,,,,,,,0.5499306162306625,,0.6733460711726773,0.038308080808080805
+492,E14000919,SHEFFIELD CENTRAL,,,,,,,0.601618311707246,0.6773306804199283,0.6868211440984794,0.6364534995469397,0.6144866806345406,0.49858262464565617,0.41328253110832447,0.550290901682023,0.7093802869854001,0.0635790466089211
+493,E14000922,"SHEFFIELD, HALLAM",,,,,,,,,,0.13516128322962245,0.12440516655336506,0.12640067281767137,0.1609074019751638,,0.38374254647492106,0.33395446954381647
+494,E14000923,"SHEFFIELD, HEELEY",,,,,,,,,,0.6072666759118014,0.5697882187527461,0.5398468893907841,0.4259499400552959,,0.599737710848822,0.06829839559667408
+495,E14000920,SHEFFIELD SOUTH EAST,,,,,,,,,,,,,0.4870797913446677,0.5143097037303587,0.5853748050279842,0.05059764750702415
+496,E14000924,SHERWOOD,,,,,,,0.3972563752276867,0.3816860465116279,0.4750498365361614,0.5849857605292484,0.5424836601307189,0.48441114671986757,0.3880581770641827,0.3587123752416269,0.41777228093846036,0.05469654138761881
+497,E14000925,SHIPLEY,0.39071532699944705,0.4269679887255889,0.38879399523660596,0.34,0.3677958853993443,0.33149184095076717,0.21562295775189327,0.23276622326743587,0.2845590317100793,0.4342941443486155,0.43987396784006955,0.3815298116057567,0.2844194468610274,0.3095445372165724,0.4258076598932484,0.05903266424709281
+498,E14000926,SHREWSBURY AND ATCHAM,,,,,,,,,,,,,0.20576868696389858,,0.38565022421524664,0.09999153474985185
+499,E14000927,SITTINGBOURNE AND SHEPPEY,,,,,,,,,,,,,0.24558442093128577,,0.3055128529451828,0.06251702533369655
+500,E14000928,SKIPTON AND RIPON,,,,,,,,,,,,,0.10046780206125283,,0.2827754652722832,0.14816769974797356
+501,E14000929,SLEAFORD AND NORTH HYKEHAM,,,,,,,,,,,,,0.16883924071896522,,0.25849202851193825,0.08046097905460228
+502,E14000930,SLOUGH,,,,,,,0.3688757442503016,0.3961099547836073,0.4372394707255902,0.5662658174809352,0.5825426944971537,0.4722199757379701,0.4583804616480248,0.4851579492490937,0.6293397182060964,0.0657745209451781
+503,E14000931,SOLIHULL,0.21993348156042705,0.3430690774223458,0.22442620717836953,0.18,0.2099842179583022,0.16636172142868125,0.11554921540656206,0.14977936040072923,0.1671183808029417,0.2433368417478695,0.25632367259845457,0.1540343700418634,0.08871918590941247,0.10392668723415907,0.2187566081624022,0.18027247759468054
+504,E14000932,SOMERTON AND FROME,,,,,,,,,,,,,0.04413317494885501,,0.17213422650723095,0.26221955128205127
+505,E14000955,"SOUTHAMPTON, ITCHEN",,,,,,,,,,0.5479029681637505,0.5451139632127233,0.4828455754771544,0.3676033504458254,,0.46474146591710663,0.05278252251112377
+506,E14000956,"SOUTHAMPTON, TEST",,,,,,,,,,0.5414847161572053,0.5249308478653036,0.42708757150037097,0.38475117115893814,,0.5865083256934525,0.0766546650664533
+507,N06000014,SOUTH ANTRIM,,,,,,,,,,,,,,,,
+508,E14000933,SOUTH BASILDON AND EAST THURROCK,,,,,,,,,,,,,0.3096456912931709,,0.32514855687606115,0.043203744177318586
+509,E14000934,SOUTH CAMBRIDGESHIRE,,,,,,,,,,0.2511968407130749,0.2427959702943671,0.19353061844704453,0.1020048767271742,,0.2723030004312735,0.4200122517892095
+510,E14000935,SOUTH DERBYSHIRE,,,,,,,,,,0.5454499974986242,0.5070362883819425,0.44469724113221065,0.3135127630456772,,0.35980695787653666,0.07350930106217568
+511,E14000936,SOUTH DORSET,0.41730646522446124,0.4225774825426679,0.3910450015101178,,0.3325671653038924,0.2946142999621694,,,,0.3594404456915132,0.4196052486492447,0.4164128108019101,0.3026038560922282,,0.33599198551227216,0.10638881272278586
+512,N06000015,SOUTH DOWN,,,,,,,,,,,,,,,,
+513,E14000937,SOUTH EAST CAMBRIDGESHIRE,,,,,,,,,,0.26489693171616174,0.26431021855606524,0.21291473421334284,0.07603902642269365,,0.27686422653249104,0.32145686107012506
+514,E14000938,SOUTH EAST CORNWALL,,,,,,,,,,0.12811672934949156,0.12422468262709409,0.11353474885417641,0.07068141967470827,,0.22640162332782204,0.16121517099990681
+515,E14000957,SOUTHEND WEST,0.20628983097811027,0.27422961980723176,0.2544877049180328,0.16,0.19154843940008107,0.16337283321907747,0.07598941317563376,0.07570138821473643,0.12290782413710259,0.22788837769273768,0.2507558528428094,0.22776801405975394,0.13415585011236986,0.18319890359253185,0.34002246191011,0.11414573350237446
+516,E14000939,SOUTH HOLLAND AND THE DEEPINGS,,,,,,,,,,,,,0.1399537738104726,,0.20435257875385074,0.06557677057280546
+517,E14000940,SOUTH LEICESTERSHIRE,,,,,,,,,,,,,0.2087326163035711,,0.2851346822134806,0.09486853782039012
+518,E14000941,SOUTH NORFOLK,0.40563106271447485,0.4446115685032721,0.39388031286556413,,0.32824626056796014,0.302468900008913,,,,0.26068892217015316,0.2452931395161723,0.22487876013158342,0.13187132907824634,,0.3093060169200308,0.13993982459509635
+519,E14000942,SOUTH NORTHAMPTONSHIRE,0.45729027744375694,0.4715869496357301,0.371847889207595,,,,,,,,,,0.17331774920687928,,0.27322379150127696,0.1179380642075686
+520,E14000958,SOUTHPORT,0.2510304134669617,0.2925123422929238,0.19576962617844565,0.13,0.17081930875954354,0.11202645585472762,0.08333989604662151,0.06390004953492212,0.10167748917748917,0.12112648221343873,0.16562583529754818,0.12807941554816632,0.0940649496080627,0.1920137865354527,0.3258612061055968,0.13488999584889996
+521,E14000943,SOUTH RIBBLE,,,,,,,0.2659156731401361,0.3306871202712229,0.3830918618988903,0.46814289076786586,0.4637033824804857,0.4299635873797647,0.3467293715262933,0.35073515371395836,0.39316847211584055,0.06916555109326193
+522,E14000944,SOUTH SHIELDS,0.5511647331786543,0.6473387703634403,0.6020019540986221,0.6,0.5639475476839237,0.5708853451193534,0.4648014440433213,0.5789877835951135,0.5977077776976861,0.7140951305864847,0.6315685759327377,0.6048136131894326,0.5201544443835917,0.5125878946642769,0.6150789757676837,0.039966210865318624
+523,E14000945,SOUTH STAFFORDSHIRE,,,,,,,,,,0.34720428845326134,0.34172593646277855,0.17538521552564854,0.20309278350515464,,0.25285174822438317,0.0655934406559344
+524,E14000946,SOUTH SUFFOLK,,,,,,,,,,0.292967772967773,0.3017464067295167,0.24466709097255016,0.14330169597012604,,0.27804923020189914,0.1252967899942044
+525,E14000947,SOUTH SWINDON,,,,,,,,,,0.4679840506626011,0.5130923842891388,0.4033400809716599,0.34260064941955476,,0.4358214195159057,0.08471603673195917
+526,E14000948,SOUTH THANET,,,,,,,,,,0.46183426691562196,0.4565327652667884,0.403957131079967,0.31406613981233533,,0.3793741080939843,0.056509936382286505
+527,E14000949,SOUTH WEST BEDFORDSHIRE,,,,,,,,,,0.40485018159806296,0.4036347881607151,0.30202558169991706,0.19592704927718912,,0.3377909589287319,0.10195659106683926
+528,E14000950,SOUTH WEST DEVON,,,,,,,,,,0.2891570830412459,0.3160924441412246,0.2361665132453718,0.12420778178900922,,0.29926026827099533,0.11630783068188207
+529,E14000951,SOUTH WEST HERTFORDSHIRE,0.3595543770009378,0.4051801801801802,0.37306258281206667,,0.3264224793614439,0.2772244520423501,,,,0.27866308133764056,0.26977511688421585,0.20895224405047116,0.11499559471365639,,0.25683807890788585,0.10215554575019202
+530,E14000952,SOUTH WEST NORFOLK,0.4918542654028436,0.4889238244962127,0.4272014848422355,,0.3596860921377707,0.3111765096364481,,,,0.378086944690115,0.34499235113033294,0.28652021695357993,0.18553407934893185,,0.27819749694749696,0.08094664438658532
+531,E14000953,SOUTH WEST SURREY,,,,,,,,,,0.09445959828545113,0.08713098886917245,0.07918487282718617,0.05971113711381617,,0.12586047127349748,0.3873715611534637
+532,E14000954,SOUTH WEST WILTSHIRE,,,,,,,,,,,,,0.11450895589375332,,0.2651093130719074,0.14600601147645506
+533,E14000959,SPELTHORNE,0.3552740117176759,0.40718782470509135,0.36262600155078833,0.3,0.33228227647309166,0.2776921665749404,0.15454208668863453,0.17069019738424257,0.22940817571690056,0.38201359862858025,0.37299612384552805,0.2728058091480072,0.16465837984102824,0.18570060514680414,0.30463932954205325,0.15146435063623512
+534,E14000965,STAFFORD,,,,,,,0.23682456205325728,0.21158256880733944,0.3226723525230988,0.4752762110793479,0.47975927512058786,0.43660271326337974,0.3301618264694759,0.2958763097996596,0.3985632848008628,0.062073549825021015
+535,E14000966,STAFFORDSHIRE MOORLANDS,,,,,,,0.24146742432364818,0.2876366131650739,0.34773328236006246,0.5220572412309017,0.49003703877350085,0.40959934919666463,0.29907565902088323,0.2722896658604739,0.33888702272981747,0.056555799890049475
+536,E14000960,ST ALBANS,,,,0.24,,,0.10899235141393586,0.11461972810518123,0.19404117884537747,0.4199980316897943,0.4544914421516876,0.3429677532884607,0.17579256174884073,0.23257950140539746,0.2304817712902207,0.5011718953454053
+537,E14000967,STALYBRIDGE AND HYDE,0.5399156236160642,0.5690887079545185,0.47384129962051763,,0.5176308426596445,0.5185539769463485,,,,,,,0.3960224075931407,,0.5718020585533599,0.04312216767371601
+538,E14000961,ST AUSTELL AND NEWQUAY,,,,,,,,,,,,,0.07167957999915323,,0.28986202316830223,0.10508103843947217
+539,E14000968,STEVENAGE,,,,,,,,,,0.5534581403495116,0.5188090358749676,0.4293174989268851,0.33399028017289645,0.3417644720600849,0.4340827538670505,0.08665562150032506
+540,E14000962,ST HELENS NORTH,,,,,,,0.4785959874560774,0.5366544485171609,0.57920801059372,0.6490422701143589,0.6110741735592139,0.5685875073209239,0.5171245174611725,0.5702611553095814,0.6374099000438055,0.05609638148903513
+541,E14000963,ST HELENS SOUTH AND WHISTON,,,,,,,,,,,,,0.5287211649052755,,0.6784215104186363,0.05736092063681355
+542,S14000057,STIRLING,,,,,,,0.27943765109019647,0.36231631653423313,0.3852137643378519,0.4744634293961544,0.422349011967715,0.3600054931221533,0.41754018915053054,0.25516447683897575,0.22088499878434234,0.054484986697073357
+543,E14000964,ST IVES,,,,0.23,,,0.11232865121001862,0.17813244219098104,0.1600504095778198,0.15183391773807536,0.13329679697966143,0.1305710375468592,0.08168376124213322,0.09335154826958106,0.14246671612071996,0.4101102833913602
+544,E14000969,STOCKPORT,,,,,,,0.28973600364132907,0.3529900863447394,0.44138508212156086,0.6286399965716,0.5859028346946273,0.505129853792178,0.4267276630545901,0.49865065953744103,0.63263046408627,0.12089176555195973
+545,E14000970,STOCKTON NORTH,,,,,,,0.3709494720660221,0.49140517387776667,0.5231420754787692,0.6683905203039978,0.6342620035566093,0.5493576369825409,0.42845207352271003,0.49116777438022796,0.5687674053965505,0.03962970162309262
+546,E14000971,STOCKTON SOUTH,,,,,,,0.26311535497453054,0.3126470785988032,0.39838096601300954,0.5524215212218896,0.5296206654753557,0.47815150368408166,0.382726115663034,0.3701951850493272,0.4849509512485137,0.042662676544651654
+547,E14000972,STOKE-ON-TRENT CENTRAL,,,,0.64,,,0.4805895691609977,0.5254319464033851,0.5800909437089802,0.6624922350602559,0.6061354891093303,0.5288995592503672,0.38820449645826915,0.39312829751640715,0.5154020214210289,0.03479887745556595
+548,E14000973,STOKE-ON-TRENT NORTH,,,,0.64,,,0.46272344408048666,0.4708525984834474,0.5672469974862676,0.651476749599131,0.5797775195085506,0.5263654096228869,0.4432033038113245,0.39915662027215815,0.5090700234528311,0.03159415956545572
+549,E14000974,STOKE-ON-TRENT SOUTH,,,,0.57,,,0.4802204730815384,0.47494444870124897,0.4976231796574361,0.619538887447011,0.5375263683801488,0.4687202538339503,0.38758406102579546,0.3917201524023832,0.47464619812904774,0.04067770932229068
+550,E14000975,STONE,,,,,,,,,,0.39644647096506763,0.3584198764296043,0.2900756867080534,0.2068644265176057,0.20163296549084647,0.2821993923888711,0.08851794635154385
+551,E14000976,STOURBRIDGE,,,,,,,,,,0.47186173316432267,0.4714707945095682,0.4097295482880982,0.31733497057204557,0.31504051793434573,0.3829850429617057,0.05522116920921885
+552,N06000016,STRANGFORD,,,,,,,,,,,,,,,,
+553,E14000977,STRATFORD-ON-AVON,,,,0.19,,,0.1025296980105911,0.1019537788077765,0.1314031835701886,0.20538172917438283,0.16687912007866845,0.1741929945054945,0.09514858929207391,0.1297537845663538,0.21854218037809162,0.2428971079784915
+554,E14000978,STREATHAM,,,,0.34,,,0.31481104206987875,0.39224957232465313,0.4824114198317614,0.6278489473097917,0.572862572942877,0.4665763880339776,0.4278028054743045,0.5301904552099814,0.6848642351465185,0.23509634951250155
+555,E14000979,STRETFORD AND URMSTON,,,,,,,,,,,,,0.4858828768648408,,0.6678288936263473,0.05930053728004474
+556,E14000980,STROUD,0.3820745175775719,0.40148632580261595,0.3611582400180975,0.29,0.3112187247780468,0.27530096146077404,0.16840199936896993,0.1853179931640625,0.26946511261164396,0.426589727289028,0.4655188038060716,0.3960791208791209,0.3860417780691011,0.37729985695259705,0.4700075216246709,
+557,E14000981,SUFFOLK COASTAL,,,,,,,0.12640292330064506,0.12775771141747638,0.20859198863460884,0.3278228100113766,0.3475906124149424,0.2612401773312784,0.1605304865829887,0.18010936431989064,0.3048007714295554,0.1495335116965082
+558,E14000982,SUNDERLAND CENTRAL,,,,,,,,,,,,,0.4591055742646539,0.5018677266414444,0.5554299394826095,0.06957861808814059
+559,E14000983,SURREY HEATH,,,,,,,,,,0.21034646590161538,0.213737749988914,0.16693133854319028,0.10215835280696267,0.1120684903823189,0.21055999446577428,0.27293961196167354
+560,E14000984,SUTTON AND CHEAM,0.27128159299741067,0.3028604118993135,0.27305351470623895,,0.15285502609143814,0.14338893695796526,,,,,,,0.06959676754349799,,0.2051760631133346,0.3344227226810862
+561,E14000985,SUTTON COLDFIELD,0.1968195317356171,0.24647327294101376,0.28302976385572254,0.12,0.15436003284728234,0.1314795743220048,0.08368321396229522,0.11330771658220563,0.14952448045086297,0.23831606267055971,0.27167909417288044,0.2596182909452049,0.20356203917847754,0.22348291186534,0.319440765825419,0.12150979455327282
+562,W07000048,SWANSEA EAST,,,,0.66,,,0.5443071965628357,0.6369051758106761,0.6970333772998591,0.7537622175104721,0.6521681298217611,0.566160731659856,0.5147202840004896,0.5296864774823011,0.6344605933047015,0.04196074927782245
+563,W07000047,SWANSEA WEST,,,,0.43,,,0.4212467896334345,0.4854085175581242,0.5299429874572406,0.5621092688230498,0.4873520249221184,0.4180922444538476,0.3465569072570449,0.42573102742063945,0.5975537793036855,0.08353335193971533
+564,E14000986,TAMWORTH,,,,,,,,,,0.5176716010751394,0.48998757763975154,0.4298353909465021,0.32653589135589567,0.2608216390384534,0.34814264487369984,0.052675004342539515
+565,E14000987,TATTON,,,,,,,0.18193740335492964,0.21310138624626257,0.2749247341767746,,0.27251804835505594,0.23460665475443088,0.17251442594680638,0.18347388405669124,0.2845712191546543,0.15749382237016765
+566,E14000988,TAUNTON DEANE,,,,,,,,,,,,,0.05102321582115219,0.09236961666695459,0.15366437758710927,0.3524704627116251
+567,E14000989,TELFORD,,,,,,,,,,0.5781418409139901,0.5458785425101215,0.482546921592703,0.3866860324376664,0.3780046746217247,0.4712214116278029,0.06244016345592528
+568,E14000990,TEWKESBURY,,,,,,,,,,0.26203762296496574,0.2692111959287532,0.20194486612544826,0.11587998739830618,0.14823648453310206,0.21789316904745787,0.21782793588485444
+569,E14000991,THE COTSWOLDS,,,,,,,,,,,,,0.1073460752845054,,0.1792569763157013,0.2496076892899176
+570,E14000992,THE WREKIN,0.42697283022246096,0.5090893463406249,0.49502363294009144,0.46,0.4871420784301151,0.4421559057314182,,,,,,,0.27131917855899756,,0.361185711689518,0.08318674575577828
+571,E14000993,THIRSK AND MALTON,0.33613544039260806,0.38410742340926946,0.3313564641457977,,0.23297090549658345,0.216890699747167,,,,,,,0.1355198993235803,,0.260526739258703,0.11970735845055488
+572,E14000994,THORNBURY AND YATE,,,,,,,,,,,,,0.07019035375108862,,0.12057605050305781,0.3413471661275195
+573,E14000995,THURROCK,0.5721821367344248,0.606712172923777,0.5574534161490683,0.52,0.5556624855236759,0.48554921685610186,0.391894900912937,0.410415028758224,0.45855760871575757,0.6332288401253918,0.5653069964134683,0.47230614300100704,0.3661421618908361,0.3259623920587523,0.38817685047193246,0.031811574356921654
+574,E14000996,TIVERTON AND HONITON,,,,,,,,,,,,,0.08939046161693445,,0.2710369281328375,0.14773623202992636
+575,E14000997,TONBRIDGE AND MALLING,,,,,,,,,,,,,0.12620337529718986,,0.22334686418191083,0.1551321860252969
+576,E14000998,TOOTING,,,,0.48,0.5431309904153354,0.5190444370197127,0.42744901734607266,0.4422573530927304,0.4815416536172878,0.5968116256371326,0.5408741454071453,0.43095650500384913,0.43506070476754516,0.47194978422910944,0.5964140207319798,0.14203136490345972
+577,E14000999,TORBAY,,,,0.21,0.2313558371649658,0.19557351983892698,0.07199231209618058,0.08438708717643559,0.09588945616755824,0.14858782491279396,0.09426307048708192,0.14739022894953807,0.06565738671001829,0.08664905676074794,0.18192832297651151,0.24023321302502676
+578,W07000053,TORFAEN,,,,,,,0.4729859554416945,0.5871683273313744,0.6411762220626136,0.6905538212510117,0.6209352477157937,0.5689985825064621,0.44758235919234857,0.4464770540633155,0.5759712716958547,0.04925220572412309
+579,E14001000,TORRIDGE AND WEST DEVON,,,,,,,,,,,,,0.05278969180375337,,0.21731674512441157,0.18268876611418047
+580,E14001001,TOTNES,0.278283833435395,0.31536322752803747,0.28590571324156416,0.2,0.19964804081434961,0.11423804061201079,,,,0.16358868492997825,0.1219388376720952,0.12229362333168561,0.07395021215224798,0.12714185616918275,0.26845036801273126,0.28797286420604806
+581,E14001002,TOTTENHAM,0.5471724642164169,0.6529242569511026,0.6127655070213817,0.55,0.5883366418217911,0.5690991620111732,0.5203518054395248,0.436056573372322,0.5646431519532383,0.6927912157861235,0.67456726052973,0.5793014148559879,0.5930149679258732,0.6732929179002772,0.8157644054399157,0.06761140515622333
+582,E14001003,TRURO AND FALMOUTH,,,,,,,,,,,,,0.096313156167979,,0.37656010027009373,0.12079743199864842
+583,E14001004,TUNBRIDGE WELLS,,,,0.21,0.2493317374825454,0.21243426696005668,0.11282913165266106,0.11570029123643102,0.13834486207183933,0.2043057451296687,0.23213352901669113,0.2056400357798597,0.1082670906200318,0.14208213424593608,0.26547252301278385,0.2831473010064044
+584,E14001005,TWICKENHAM,0.2718025590235023,0.3399092807257542,0.3228632926341454,0.27,0.28764496732999495,0.16690740128430467,0.07485258133097998,0.08378245028085624,0.09253894198209045,0.15590602641717116,0.1382314069446113,0.11352951419118927,0.07674017514777047,0.114976453132056,0.09223110574747323,0.5606870998248144
+585,E14001006,TYNEMOUTH,0.4371328246336687,0.4384915916426023,0.3993090903022313,0.34,0.37660668380462725,0.3854514762118028,0.3132980828027769,0.3878531219335847,0.4502596950035677,0.5535941196019784,0.532173200009111,0.4699829674047458,0.4530265056580846,0.4821198242826432,0.5697527172957192,0.06765535210764893
+586,N06000017,UPPER BANN,,,,,,,,,,,,,,,,
+587,E14001007,UXBRIDGE AND SOUTH RUISLIP,,,,,,,,,,,,,0.23387168337918182,,0.40009423052212273,0.06279701994313819
+588,W07000060,VALE OF CLWYD,,,,,,,,,,0.5268578145763059,0.5001854943424225,0.460341039210225,0.4226093319074689,0.3835115283174045,0.5020938889463344,0.039529196786069386
+589,W07000078,VALE OF GLAMORGAN,,,,,,,0.2577189260997193,0.34715946394778513,0.44303079119833044,0.5388952776644286,0.4542315864022663,0.41165159327191275,0.3294634968253642,0.3261068761819352,0.43395137570274395,
+590,E14001008,VAUXHALL,,,,0.56,,,0.46498699444076097,0.5017025573585703,0.5474754216187078,0.6378948446219219,0.591099664590321,0.5285786951516612,0.4977425852608182,0.5377025927702801,0.5736710148613786,0.21307226669980295
+591,E14001009,WAKEFIELD,0.5545487113565001,0.6539157580418947,0.580832855535028,0.51,0.5481703402525144,0.5090458674273703,0.40406468070752427,0.4661366705338633,0.5064803335963034,0.5739610981262132,0.4991515974208562,0.43341555058666237,0.39271892718927187,0.40260163358387824,0.4966511105349581,0.03935416527861061
+592,E14001010,WALLASEY,0.3463872751907051,0.4256390690576116,0.39223387305939456,0.36,0.402727374761495,0.3958298270219729,0.32475813102158213,0.41948347184437074,0.4896373535111193,0.6460730525371987,0.608311465752691,0.5477079981456737,0.5180294809622125,0.6036065120140202,0.7145782061092383,0.03964122859846855
+593,E14001011,WALSALL NORTH,,,,0.64,,,0.42515496818804854,0.4256610660371744,0.4672465656314065,0.5661863193385986,0.5811772716018817,0.47834151011128395,0.36988421256252246,0.39020687037388496,0.4280917152001679,0.03381113907429697
+594,E14001012,WALSALL SOUTH,,,,0.45,,,0.4348217500900252,0.4491395907349701,0.4820815021973632,0.5786564920800092,0.5895297859537523,0.4993062438057483,0.39653148084731665,0.4718198766671447,0.5737429660555454,0.03771896779054436
+595,E14001013,WALTHAMSTOW,,,,0.51,0.5513257466350875,0.5023765476021061,0.39838132202063964,0.34729791099000906,0.45423037146770273,0.631306952939708,0.6216271166748961,0.5029322959005923,0.518417329365273,0.6885587137525122,0.8057869264482894,0.059460018620047586
+596,E14001014,WANSBECK,,,,,,,0.47043034028920255,0.5746914717259164,0.5971104354220076,0.6545869122465244,0.5777011678559021,0.5515284791225498,0.458495545162386,0.500077865448505,0.5732793140811231,0.06267742970697869
+597,E14001015,WANTAGE,,,,,,,0.14474032182598612,0.15549892859211212,0.19389723711924106,0.2894253242698353,0.28241975208125547,0.2400107835396969,0.1394188956532543,0.16020233196159123,0.26852929153171284,0.319056763878344
+598,E14001016,WARLEY,,,,,,,,,,0.6379811277093564,0.6050294445328664,0.5442079346775953,0.5288737914815783,0.5818816252081737,0.6716410485997115,0.04264346518434974
+599,E14001017,WARRINGTON NORTH,,,,,,,0.41180184268155545,0.4821281009898553,0.5432454220891397,0.6210025170240581,0.6174762271909535,0.5352070859518037,0.45542964420619303,0.4782139633193157,0.5638436012119463,0.06580667280947994
+600,E14001018,WARRINGTON SOUTH,,,,,,,0.300027652318186,0.3585866274251112,0.4364038527907633,0.5214226062960676,0.4927577642481922,0.4054106032437977,0.32962787476764954,0.39051101039543074,0.4838132107428018,0.0926024653063862
+601,E14001019,WARWICK AND LEAMINGTON,0.3412009404955688,0.36076073575850565,0.3659874205213457,,0.331100608615824,0.29298659647211883,,,,,,,0.3541156795562082,,0.4666913329016742,0.09215017064846416
+602,E14001020,WASHINGTON AND SUNDERLAND WEST,,,,,,,,,,,,,0.5253924037070766,,0.6072608074136147,0.055207528056940264
+603,E14001021,WATFORD,0.45178152574556013,0.5437619786437894,0.45705137129333145,0.4,0.4427743529357438,0.4028420135397815,0.26004344096227205,0.2823529411764706,0.3272800577889025,0.45294735317546525,0.4526869662727508,0.3355670729238369,0.26717142443124187,0.260129298829899,0.4203890121139737,0.16056143976577972
+604,E14001022,WAVENEY,,,,,,,0.2739186748014588,0.30039254782229424,0.38435961842812133,0.5597411601571528,0.5070070176182501,0.45324552393611667,0.38720400461469273,0.3773469231358725,0.36883471921631167,0.05091044221479004
+605,E14001023,WEALDEN,,,,,,,0.06153598648621473,0.08332572451197019,0.09243182345339475,0.1723379414203286,0.20291530821138828,0.16818500350385424,0.09579945059942876,0.1081256467369381,0.22160293728499603,0.18697358267522615
+606,E14001024,WEAVER VALE,,,,,,,,,,0.5640462930374113,0.5248402128797331,0.4758751902587519,0.3628551943623551,0.414385388439627,0.5150060261197716,0.065072072249719
+607,E14001025,WELLINGBOROUGH,0.4225692347511,0.5236661932721454,0.47762812464330556,0.37,0.4023682582697576,0.34946221693809276,0.25969655487109283,0.2718834577588869,0.33860037684704636,0.44154275258043313,0.46792534211661374,0.41480992359211394,0.2541762644935251,0.19510212175292485,0.3403268219383922,0.07855450465201394
+608,E14001026,WELLS,0.3149869451697128,0.3558576485620326,0.3227304158846192,,0.25314866045428075,0.16932691495650706,0.07771440423104843,0.086706931692814,0.10606139302965771,0.18098616530684639,0.15424640449000274,0.1564806947984518,0.0751467850494057,0.06642766765078026,0.1171704222342751,0.3788050885960927
+609,E14001027,WELWYN HATFIELD,,,,,,,0.25843047460449625,0.2637379252414952,0.34459426168930346,0.47077480743090167,0.4316573643772915,0.362867877269881,0.2138160581556808,0.26148789961159247,0.3678220983568484,0.12683226711236625
+610,E14001028,WENTWORTH AND DEARNE,,,,,,,,,,,,,0.5062461406925379,,0.6495779006530593,0.04102798565825252
+611,S14000058,WEST ABERDEENSHIRE AND KINCARDINE,,,,,,,,,,,,,0.13627613674078992,,0.11052784503631961,0.11721810853875715
+612,E14001029,WEST BROMWICH EAST,,,,0.53,0.5050013927929297,0.47033422786045376,0.3812425041976493,0.42624797577976486,0.4647141190198366,0.571504326656543,0.5587190791084986,0.5558965983329579,0.465270092226614,0.5018937373306306,0.5796715944549593,0.036497567755385686
+613,E14001030,WEST BROMWICH WEST,,,,0.63,0.6220610971903823,0.6028379576840238,0.5073160254517143,0.5047626285656381,0.5480946867995172,,0.6077889447236181,0.5427442220122004,0.44961433192336403,0.4733055444526923,0.5205574333684269,0.02655329522040686
+614,E14001031,WEST DORSET,0.28956256468921937,0.3165419201981584,0.2704452609131317,,,,,,,0.17722960860472065,0.13582538177563494,0.07748238609675905,0.0665364424368209,,0.18282492701097353,0.3197866228970045
+615,S14000059,WEST DUNBARTONSHIRE,0.5075485781705232,0.5225834500748756,0.5089811087023847,,,,,,,,,0.5193681021423934,0.6129039890219089,,0.3766077626295851,0.04186973859105007
+616,E14001032,WEST HAM,,,,,,,,,,0.7287662279789667,0.6985618146414785,0.511528773493509,0.6266533194181167,0.6844089178489573,0.7674606312182909,0.06911960132890366
+617,E14001033,WEST LANCASHIRE,,,,,,,,,,0.6033729832447149,0.5446463894254264,0.4807322442358939,0.4514471974088668,,0.5889058449318796,0.048610979245390505
+618,E14001036,WESTMINSTER NORTH,,,,,,,0.39365595770638473,0.39467938677678105,0.4059268232496579,,,,0.4388352947118541,0.46828972009920533,0.5990068137198291,0.1303395399780942
+619,E14001037,WESTMORLAND AND LONSDALE,,,,,,,,,,,,,0.022491114261852508,,0.09253777545611082,0.48935726210350583
+620,E14001038,WESTON-SUPER-MARE,,,,0.2,,,0.11077683669949795,0.11401458084402653,0.10994481288865562,0.1790471551417277,0.1978363324764353,0.18676036256237907,0.1094923742317323,0.1825620337950982,0.3268279712842329,0.1246988168446794
+621,E14001034,WEST SUFFOLK,,,,,,,,,,0.3710932724827839,0.3747437860760985,0.28894921388983147,0.14741416956060638,,0.2818768600471534,0.09108229484612244
+622,N06000018,WEST TYRONE,,,,,,,,,,,,,,,,
+623,E14001035,WEST WORCESTERSHIRE,,,,,,,,,,0.1568174448767834,0.14004508224161402,0.10504067803810778,0.06767973674967186,,0.23684723132227162,0.18094907005040847
+624,E14001039,WIGAN,0.6938656846593663,0.7281705834683955,0.6746207028999424,0.71,0.657689110556941,0.5976727705004229,0.5455392541976504,0.615349764407394,0.6301216562578968,0.6856158287500855,0.617397517192105,0.5514032323939553,0.48491164476665155,0.5216037798335283,0.6220815279121619,0.05390524399449403
+625,E14001040,WIMBLEDON,0.2899869536855838,0.31530994268296725,0.29921645445641526,0.26,0.30641017736399695,0.28484061157189966,0.18966594154515498,0.216335082878659,0.2328858114772247,0.42764355452589775,0.4574667347782724,0.359068288636992,0.22259732039244645,0.2603362108132667,0.35562628575864613,0.37235747826578913
+626,E14001041,WINCHESTER,0.3084652035450663,0.3042376392036455,0.25655385822310356,0.23,0.2593817743877961,0.2254871772313377,0.08139115376289775,0.06549167533818939,0.07436816552475158,0.10519869790827174,0.05912978802528821,0.0775568458269811,0.05452595835939594,0.08339359317376528,0.10509832738470151,0.4660383766344031
+627,E14001042,WINDSOR,0.2713267783925799,0.3347911909277393,0.29576257273672496,,,,,,,0.18288336188732007,0.2407266682498219,0.1908543702652599,0.09901589094135678,0.13385167464114833,0.228742048552512,0.21250232558139534
+628,E14001043,WIRRAL SOUTH,,,,,,,0.22581064960416442,0.280197339156456,0.34576116319720324,0.5093876702359913,0.4744085589431915,0.425448317549869,0.4078584673983862,0.4819896264072472,0.5724305786038278,0.06698509656233495
+629,E14001044,WIRRAL WEST,,,,,,,0.21776118083789994,0.26251765180552755,0.3098845882075842,0.44860311367029215,0.47201976528721434,0.42546018965391796,0.3629482881235396,0.4514788093076592,0.5430138108347933,0.06305046833496435
+630,E14001045,WITHAM,,,,,,,,,,,,,0.18481904558556636,0.1583064789687924,0.26449503462561685,0.0928988326848249
+631,E14001046,WITNEY,,,,,,,0.13787314512861085,0.16727678955057146,0.21285727614841538,0.3059165617630893,0.28819380932056987,0.2198852772466539,0.13001782963180944,0.17177935091139154,0.2067720386692271,0.3046896664219884
+632,E14001047,WOKING,0.29580852228433047,0.3079957031312629,0.2841776491201341,0.21,0.23696271022188126,0.23968993363428714,0.11684729414695781,0.10548141932777177,0.1261947897794715,0.21006010134737008,0.20307620601258447,0.16303616027798892,0.08043799492289622,0.16143868832268493,0.23855120732722732,0.30830413259914347
+633,E14001048,WOKINGHAM,0.2751528712203644,0.3446102211191336,0.28821783817517227,0.27,0.2930160669997484,0.2624390830876602,0.08001614264225704,0.0866910302077069,0.12492585792967095,0.16811686756605732,0.17407863528553183,0.15174075360305608,0.10115903755868545,0.14521687887283702,0.2514324007371419,0.37664725712534475
+634,E14001049,WOLVERHAMPTON NORTH EAST,0.560201704461679,0.619035025858016,0.5044004561270138,0.6,,,0.4006744534024164,0.41696900260963654,0.4929047560626508,0.5925657561046301,0.6027814821870833,0.5446049277824979,0.4140539920903307,0.4608122812692998,0.5281582118987619,0.0280038505294478
+635,E14001050,WOLVERHAMPTON SOUTH EAST,,,,0.55,,,0.4474089276552078,0.4893511639425458,0.5673126267686518,0.6374389893769739,0.6743964538227644,0.5943152454780362,0.47555248220820007,0.5332815556322633,0.5822223446452182,0.030469754507669766
+636,E14001051,WOLVERHAMPTON SOUTH WEST,0.31387883431530555,0.409414807274328,0.2884171779141104,0.32,,,0.2747978247346136,0.3074679338587544,0.39869777330625106,0.5040166799533943,0.48255373254761963,0.4436046930108688,0.38976593625498007,0.4320923176403293,0.49352949511169886,0.049615908206923375
+637,E14001052,WORCESTER,0.3562124981706425,0.4647982299020124,0.41722230938186383,0.33,0.36540305799330497,0.31618571768464704,0.22731052386070943,0.2842976143253811,0.3615205456662785,0.50074584939654,0.4858176883058132,0.41866430973527635,0.3343815085555601,0.339641614544577,0.43216070629873793,0.07202640575268184
+638,E14001053,WORKINGTON,0.6211697130479227,0.6331356447688564,0.6165601007233318,0.6,0.5599056017885977,0.5318484460734347,0.5203421329571662,0.5236091733519358,0.5690341816632947,0.6423826305342893,0.5549471569987088,0.49208546191207186,0.45505489187192744,0.4233159139952682,0.5114934254726942,0.036659535084978004
+639,E14001054,WORSLEY AND ECCLES SOUTH,,,,,,,,,,,,,0.42905445912568047,,0.5706586039174445,0.05614333325877379
+640,E14001055,WORTHING WEST,,,,,,,,,,0.1622604097818903,0.21453863778379503,0.19202954985425336,0.11807096472121002,0.15670862636172014,0.3319266829348843,0.11023276240667546
+641,W07000044,WREXHAM,0.5817411387452043,0.5857496636312228,0.5683650523775572,0.47,0.5111122907598117,0.49206991422560287,0.3427672287312084,0.43864271140780065,0.4827639842124706,0.5614738344956345,0.5302848775292864,0.4605232845153859,0.36878335759340125,0.3722913291971026,0.4888008662943121,0.043152809256829294
+642,E14001056,WYCOMBE,0.3487795792099253,0.38211255303219366,0.32513337697976014,0.29,0.30823870912661144,0.2701931881295126,0.1720044614404079,0.18660734743756205,0.21589443747681547,0.35398230088495575,0.3534486592253302,0.29891732505008217,0.17291437353325995,0.2252765411458232,0.3773951732002318,0.11949375410913872
+643,E14001057,WYRE AND PRESTON NORTH,,,,,,,,,,,,,0.21306618850861464,,0.35022603806557,0.08432847101504043
+644,E14001058,WYRE FOREST,,,,,,,0.19204148876021135,0.1888150104745423,0.30771008368684283,0.4875669784760694,0.22129142717378011,0.22806308127780026,0.1433819917876579,0.1926173139158576,0.32320209665747424,0.08071438460473487
+645,E14001059,WYTHENSHAWE AND SALE EAST,,,,,,,,,,,,,0.44138794140021104,,0.6221916852069973,0.06950557429790656
+646,E14001060,YEOVIL,0.33331392188834535,0.3921060652240171,0.37002942865345967,0.28,0.29040636782572266,0.21570427491661312,0.05551973908756495,0.07309070808295144,0.09625177393772436,,0.14703315881326354,0.10530322761605193,0.052326801959412174,0.07118894138724466,0.1248737458756986,0.310614242321971
+647,W07000041,YNYS MON,,,,,,,0.16940231490720414,0.16874141982921098,0.23515478042776528,,,,0.33358494948321915,0.31125808853003495,0.4186314127438649,
+648,E14001061,YORK CENTRAL,,,,,,,,,,,,,0.39956543252371834,0.4239360698030497,0.6516350210970464,0.08380971619028381
+649,E14001062,YORK OUTER,,,,,,,,,,,,,0.17088180112570356,0.24763000204070273,0.36684834659654864,

@@ -179,11 +179,11 @@ class Model:
                              xy=(pp_df["date_ordinals"][len(pp_df) - 1] + 90, pp_df[i][len(pp_df) - 1]))
 
         plt.legend(fontsize="7")
-        ax.set_xticklabels(pp_df["date_published"])
-        plt.xticks(rotation=30, fontsize=7)
-        ax.set(xlabel='Date', ylabel='% Vote')
+        plt.xticks()
+        ax.set(ylabel='% Vote')
 
         plt.savefig("static/media/forecasts/opinionpollgraph.png")
+        plt.clf()
 
 
         print("done")
@@ -293,22 +293,19 @@ class Model:
 
         # Get excel file instance of the historical dataset
         file = pd.ExcelFile('datasets/election_history_cut_nospaces.xlsx')
-        df_list = []
+        election_df_list = []
 
         #Iterate through all the sheets in the historical dataset and clean them using clean_history_sheet()
         for i in file.sheet_names:
             x = self.clean_historical_sheet(pd.read_excel('datasets/election_history_cut_nospaces.xlsx', i))
-            df_list.append(x)
+            election_df_list.append(x)
             string = "datasets/historical_csv/" + i + ".csv"
             x.to_csv(string)
 
-
-
-
         # Create a new CSV for each party, showing their electoral history in each constituency
-        csv_names = [col for col in df_list[len(df_list)-1] if 'Vote' in col]
+        party_vote_columns = [col for col in election_df_list[len(election_df_list)-1] if 'Vote' in col]
 
-        df = pd.DataFrame({
+        party_df_temp = pd.DataFrame({
             'id':[], 'Constituency':[], '1964 Vote Share':[], '1966 Vote Share':[], '1970 Vote Share': [],
             '1974 (F) Vote Share': [], '1974 (O) Vote Share': [], '1979 Vote Share': [], '1983 Vote Share': [],
             '1987 Vote Share': [], '1992 Vote Share': [], '1997 Vote Share': [], '2001 Vote Share': [],
@@ -316,34 +313,71 @@ class Model:
             '2019 Vote Share': [],
         })
 
-        df['id'] = df_list[len(df_list)-1]['id']
-        df['Constituency'] = df_list[len(df_list)-1]['Constituency']
-        # for every party
-        # for every election
-        # for every constituency
+        party_df_temp['id'] = election_df_list[len(election_df_list)-1]['id']
+        party_df_temp['Constituency'] = election_df_list[len(election_df_list)-1]['Constituency']
 
-        party_df = df
-        '''for i in party_df['Constituency']:
-            for i in range(0, len(df_list) - 1):
-                if i in df_list[i]['Constituency']:
-                    print(True)'''
+        # Test for 1964 Election
+        # Test for Conservatives
 
-        count = 0
-        for i in csv_names: # for every party df
-            party_df = df
-            for j in range(0, len(df_list)-1): # for every election df
-                election_list = []
-                count = 0
-                for k in party_df['Constituency']: #for every Constituency in party df
-                    count = count + 1
-                    if k in df_list[j]['Constituency']: # if constituency in party df in election df
-                        election_list.append(df_list[j][i].loc[count])
-                    else:
-                        election_list.append("na")
-                party_df[i] = election_list
-            string = 'datasets/historical_csv/' + i + ".csv"
-            party_df.to_csv(string)
-            count = count + 1
+        # For all rows in 1964 Election
+        '''for i in range(0, len(party_df)):
+            # For all row in party df
+            istrue = False
+            for j in range(0, len(election_df)-1):
+                if party_df['Constituency'].iloc[i] == election_df['Constituency'].iloc[j]:
+                    result_list.append(election_df['Con Vote'].iloc[j])
+                    j = len(party_df)
+                    istrue = True
+            if not istrue:
+                result_list.append("")'''
+
+        '''for n in range(0, len(election_df_list)):
+            result_list = []
+            for i in range(0, len(party_df)):
+                # For all row in party df
+                istrue = False
+                for j in range(0, len(election_df_list[n]) - 1):
+                    if party_df['Constituency'].iloc[i] == election_df_list[n]['Constituency'].iloc[j]:
+                        result_list.append(election_df_list[n]['Con Vote'].iloc[j])
+                        j = len(party_df)
+                        istrue = True
+                if not istrue:
+                    result_list.append("")
+
+            print((len(election_df_list)-n), "to go")
+            party_df.iloc[:, n+2] = result_list'''
+
+        for m in range(0, len(party_vote_columns)): # for all parties
+            party_df = party_df_temp
+            for n in range(0, len(election_df_list)): # for all elections
+                result_list = []
+                if party_vote_columns[m] in election_df_list[n].columns: # If party is running in election
+                    for i in range(0, len(party_df)): # for all rows in party df
+                        # For all row in party df
+                        istrue = False
+                        for j in range(0, len(election_df_list[n]) - 1): # For all rows in all election_dfs
+                            # if constituency is in both party df and election df
+                            if party_df['Constituency'].iloc[i] == election_df_list[n]['Constituency'].iloc[j]:
+                                result_list.append(election_df_list[n][party_vote_columns[m]].iloc[j]) #append party result in constituency
+                                j = len(party_df)
+                                istrue = True
+                        if not istrue:
+                            result_list.append("")
+                else:
+                    for i in range(0, 650):
+                        result_list.append("")
+
+                print((len(election_df_list) - n), "to go")
+                party_df.iloc[:, n + 2] = result_list
+            party_df.to_csv('datasets/historical_csv/'+party_vote_columns[m]+".csv")
+
+
+
+
+
+
+
+
 
     def clean_historical_sheet(self, sheet):
 
@@ -373,8 +407,4 @@ class Model:
 
 if __name__ == "__main__":
     m = Model()
-    m.clean_pollbase()
-    m.pre_process_pollbase()
-    model = m.forecast_popular_vote()
-    m.gen_popvote_graph(model)
-    m.test_pop_vote()
+    m.clean_historical()
