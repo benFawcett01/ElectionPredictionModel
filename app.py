@@ -1,11 +1,7 @@
 from flask import Flask, render_template
 from model import Model
 
-
 app = Flask(__name__)
-
-
-
 @app.route("/")
 def index():
     return render_template('index.html')
@@ -19,8 +15,11 @@ def results():
 
     m = Model()
     m.run_pop_forecast()
+    winner = m.forecast_seats()
 
-    return render_template('results.html')
+    return render_template('results.html', w = winner)
+
+
 
 @app.route('/details.html')
 def details():

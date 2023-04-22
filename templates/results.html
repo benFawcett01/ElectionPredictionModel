@@ -30,7 +30,7 @@
                 <img class="left-img float-left" src="{{ url_for('static', filename= 'media/bar_graphic.png') }}" alt="">
                 <ul>
                     <li><h1 class="headline-result">Who Will Win the Next General Election?</h1></li>
-                    <li><p class="subheadline">*winner* Will Form the Next Government</p></li>
+                    <li><p class="subheadline">{{w}} Will Form the Next Government</p></li>
                 </ul>
                 <img class="right-img float-right" src="{{ url_for('static', filename= 'media/bar_graphic1.png') }}" alt="">
             </div>
@@ -39,7 +39,7 @@
                     <img src={{ url_for('static', filename= 'media/forecasts/opinionpollgraph.png') }} alt="Chart">
                 </div>
                 <div class="seats col">
-                    <img src="{{ url_for('static', filename= 'media/pop-prediction.jpg') }}" alt="popular vote prediction">
+                    <img src="{{ url_for('static', filename= 'media/forecasts/seatforecast.png') }}" alt="popular vote prediction">
                 </div>
             </div>
             <div class="row buttons1">

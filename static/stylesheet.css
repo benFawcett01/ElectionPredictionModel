@@ -104,8 +104,13 @@ button{
     background-color: #c4c4c4;
     height: 55vh;
     margin-left:5px;
+    display: flex;
+    justify-content: center;
 }
 
+.seats img{
+    height: 55vh;
+}
 
 .coldets, .colprev{
     margin: 0;
