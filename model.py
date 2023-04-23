@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, date
 from statistics import mean
 
 import matplotlib.pyplot as plt
@@ -236,6 +236,7 @@ class Model:
         pp_df = pd.read_csv("datasets/PreprocessedOpinionPolls.csv", index_col=False)
 
         clean_df = clean_df.iloc[:, 1:]
+        clean_pp_df = pp_df.iloc[:]
         colours = ["blue", "red", "orange", "green", "cyan"]
 
         plt.clf()
@@ -251,9 +252,24 @@ class Model:
                 plt.title("Popular Vote Forecast")
 
                 ax = sns.scatterplot(data=clean_df, y=i, s=5, x="date_ordinals", color=c, label = i)
+                ax = sns.scatterplot(data=clean_pp_df, y=i, s=5, x="date_ordinals", color=c, label=i)
 
-                plt.annotate(str(pp_df[i][len(pp_df) - 1]),
-                             xy=(pp_df["date_ordinals"][len(pp_df) - 1] + 90, pp_df[i][len(pp_df) - 1]))
+                labels = np.arange(min(clean_pp_df['date_ordinals'].astype(int)),
+                                                max(clean_pp_df['date_ordinals'].astype(int)), 250)
+
+                new_labels = []
+                for j in range(0, len(labels)):
+                    new_labels.append(date.fromordinal(labels[j]))
+
+                ax.set_xticks(ticks = np.arange(min(clean_pp_df['date_ordinals'].astype(int)),
+                                                max(clean_pp_df['date_ordinals'].astype(int)), 250), labels = new_labels)
+
+                plt.xticks(rotation=30, size=8)
+                print(i)
+                plt.annotate(str(round(pp_df[i][len(pp_df) - 1], 2)),
+                             xy=(clean_pp_df["date_ordinals"][len(pp_df) - 1] + 90, clean_pp_df[i][len(pp_df) - 1]), color = c)
+
+
 
         plt.legend(fontsize="7")
         plt.xticks()
