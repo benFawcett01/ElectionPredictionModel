@@ -1,0 +1,4 @@
+Con Vote,Labour Vote,LibDem Vote,PC/SNP Vote,Other Vote,Con Seat,Labour Seat,LibDem Seat,PC/SNP Seat ,Other Seat,Notes
+30.0,45.0,9.0,3.0,5.0,344,203,11,35,20,Other Includes Northern Irish Constituencies
+43.0,34.0,12.0,4.0,8.0,339,231,15,45,2,Other Excludes Northern Irish Constituencies
+43.3,33.9,11.7,4.0,5.9,351,224,13,43,1,Other Excludes Northern Irish Constituencies

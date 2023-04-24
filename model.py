@@ -1,3 +1,4 @@
+import time
 from datetime import datetime, date
 from statistics import mean
 
@@ -17,6 +18,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, accuracy_score
 from sklearn.model_selection import cross_val_score, RepeatedKFold, train_test_split
 import tensorflow as tf
+from tensorboard.summary.v1 import scalar
 from tensorflow import losses
 from tensorflow.python.framework.random_seed import set_random_seed
 
@@ -688,6 +690,7 @@ class Model:
         plt.savefig('static/media/tests/history.png')
 
     def forecast_seats(self):
+        start = time.time()
         seed(1)
         set_random_seed(1)
 
@@ -874,7 +877,7 @@ class Model:
             plt.title("Predicting number of seats won by each party from past elections")
             plt.hlines(y = 325, xmin = 700517, xmax = 737405)
             plt.legend(loc='lower left', fontsize=5)
-'''
+        '''
         # Forecast next election's seat count:
         preds = pd.DataFrame({'CON Preds':[], 'LAB Preds':[], 'LD Preds':[], 'PC/SNP Preds':[], 'Other Preds':[]})
 
@@ -887,6 +890,7 @@ class Model:
             # Training the model
             x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.5)
             hist = model.fit(x_train, y_train, epochs=1000, validation_data=(x_train, y_train))
+            self.model_loss(hist, i)
 
             x_pred = df[['date_ordinal', (i + ' Vote Share'), (i + ' Vote Share Change'), (i + ' Seats prev'),
                          (i + ' Margin')]].iloc[:]
@@ -923,6 +927,8 @@ class Model:
                 winner_seats = int(seat_pred[i])
                 winner = party_list[i]
 
+        end = time.time()
+        print("Total Neural Network Runtime: ", (end-start))
         return winner
 
     def represent_seat_forecast(self):
@@ -942,6 +948,7 @@ class Model:
         ax.set_yticklabels(labels=x, rotation=50)
         ax.set_xlabel("Seats Won")
         ax.set_ylabel("Party")
+        plt.title(label='Seat Forecast by Party')
 
 
 
@@ -961,14 +968,10 @@ class Model:
             Dense(125, activation='relu'),
             Dense(125, activation='relu'),
             Dense(125, activation='relu'),
-            Dense(125, activation='relu'),
-            Dense(125, activation='relu'),
-            Dense(125, activation='relu'),
-            Dense(125, activation='relu'),
-            Dense(1, activation='linear')
+            Dense(1, activation='softplus')
         ])
 
-        adam = adam = optimizers.Adam(learning_rate=0.001)
+        adam = optimizers.Adam(learning_rate=0.001)
         model.compile(optimizer=adam, loss='log_cosh', metrics = ['mse', 'mae'])
         return model
     def pred_nationalist(self):
@@ -987,6 +990,22 @@ class Model:
 
         corr = df[['CON Seats', 'CON Seats Change']].corr()
         print(corr)
+
+    # Taken from Towardsdatascience
+    def model_loss(self, history, i):
+        plt.clf()
+        plt.figure(figsize=(8, 4))
+        plt.plot(history.history['loss'], label='Train Loss')
+        plt.plot(history.history['val_loss'], label='Test Loss')
+        plt.title('model loss')
+        plt.ylabel('loss')
+        plt.xlabel('epochs')
+        plt.legend(loc='upper right')
+        if 'SNP' in i:
+            i = 'PC-SNP'
+        string = 'static/media/loss/' + i
+        plt.savefig(string)
+        plt.clf()
 
 
 if __name__ == "__main__":
