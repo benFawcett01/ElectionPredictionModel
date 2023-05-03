@@ -40,100 +40,10 @@
             </div>
             <div class="row d-flex justify-content-center">
                 <table class="table w-auto comparison-table">
-                    <thead>
-                        <tr>
-                            <th>Model</th>
-                            <th>Date Ran</th>
-                            <th>Con Seats</th>
-                            <th>Con %</th>
-                            <th>Lab Seats</th>
-                            <th>Lab %</th>
-                            <th>LibDem Seats</th>
-                            <th>LibDem %</th>
-                            <th>SNP Seats</th>
-                            <th>SNP %</th>
-                            <th>Green Seats</th>
-                            <th>Green %</th>
-                            <th>Ref Seats</th>
-                            <th>Ref %</th>
-                            <th>Other Seats</th>
-                            <th>Other %</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th>This Model</th>
-                            <td>*dd/mm//yyyy*</td>
-                            <th>*Con Seats*</th>
-                            <th>*Con %*</th>
-                            <th>*Lab Seats*</th>
-                            <th>*Lab %*</th>
-                            <th>*LibDem Seats*</th>
-                            <th>*LibDem %*</th>
-                            <th>*SNP Seats*</th>
-                            <th>*SNP %*</th>
-                            <th>*Green Seats*</th>
-                            <th>*Green %*</th>
-                            <th>*Ref Seats*</th>
-                            <th>*Ref %*</th>
-                            <th>*Other Seats*</th>
-                            <th>*Other %*</th>
-                        </tr>
-                        <tr>
-                            <th>YouGov</th>
-                            <td>*dd/mm//yyyy*</td>
-                            <th>*Con Seats*</th>
-                            <th>*Con %*</th>
-                            <th>*Lab Seats*</th>
-                            <th>*Lab %*</th>
-                            <th>*LibDem Seats*</th>
-                            <th>*LibDem %*</th>
-                            <th>*SNP Seats*</th>
-                            <th>*SNP %*</th>
-                            <th>*Green Seats*</th>
-                            <th>*Green %*</th>
-                            <th>*Ref Seats*</th>
-                            <th>*Ref %*</th>
-                            <th>*Other Seats*</th>
-                            <th>*Other %*</th>
-                        </tr>
-                        <tr>
-                            <th>Electoral Calculus</th>
-                            <td>*dd/mm//yyyy*</td>
-                            <th>*Con Seats*</th>
-                            <th>*Con %*</th>
-                            <th>*Lab Seats*</th>
-                            <th>*Lab %*</th>
-                            <th>*LibDem Seats*</th>
-                            <th>*LibDem %*</th>
-                            <th>*SNP Seats*</th>
-                            <th>*SNP %*</th>
-                            <th>*Green Seats*</th>
-                            <th>*Green %*</th>
-                            <th>*Ref Seats*</th>
-                            <th>*Ref %*</th>
-                            <th>*Other Seats*</th>
-                            <th>*Other %*</th>
-                        </tr>
-                        <tr>
-                            <th>NowCast</th>
-                            <td>*dd/mm//yyyy*</td>
-                            <th>*Con Seats*</th>
-                            <th>*Con %*</th>
-                            <th>*Lab Seats*</th>
-                            <th>*Lab %*</th>
-                            <th>*LibDem Seats*</th>
-                            <th>*LibDem %*</th>
-                            <th>*SNP Seats*</th>
-                            <th>*SNP %*</th>
-                            <th>*Green Seats*</th>
-                            <th>*Green %*</th>
-                            <th>*Ref Seats*</th>
-                            <th>*Ref %*</th>
-                            <th>*Other Seats*</th>
-                            <th>*Other %*</th>
-                        </tr>
-                    </tbody>
+                    {% for table in tables %}
+                    <h2>{{ titles[loop.index] }}</h2>
+                    {{ table|safe }}
+                    {% endfor %}
                 </table>
             </div>
         </div>

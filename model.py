@@ -1,3 +1,4 @@
+import statistics
 import time
 from datetime import datetime, date
 from statistics import mean
@@ -21,11 +22,15 @@ import tensorflow as tf
 from tensorboard.summary.v1 import scalar
 from tensorflow import losses
 from tensorflow.python.framework.random_seed import set_random_seed
+from datetime import datetime
+
 
 
 class Model:
 
     running = False
+    seed(64)
+    set_random_seed(1)
 
     def clean_pollbase(self):
         new_df = pd.read_csv("datasets/opinionpolls.csv") # Read excel file
@@ -184,7 +189,7 @@ class Model:
         s.to_csv('datasets/PreprocessedOpinionPolls.csv', index=False)
 
     def forecast_popular_vote(self):
-        model = RANSACRegressor(random_state = 120)
+        model = RANSACRegressor(random_state=120)
         pp_df = pd.read_csv("datasets/PreprocessedOpinionPolls.csv")
         pp_df = pp_df.sort_values(by='date_ordinals')
 
@@ -198,6 +203,8 @@ class Model:
             "date_published":["2024-12-08"],
             "date_ordinals":[pd.to_datetime("2024-12-08").toordinal()]
         }
+
+        model_evals = []
 
         for i in pp_df.columns:
             if not "date" in i:
@@ -221,15 +228,22 @@ class Model:
 
                 pred = model.predict([[pred_date_ords]])
                 model_results[i].append(float(pred))
+                model_evals.append(str(self.evaluate_model(x, y, model)))
+                print(i + ' evaluation: ' + str(self.evaluate_model(x, y, model)))
 
         print(model_results)
+
+        evals_df = pd.DataFrame({'Con MAE':[], 'Lab MAE':[], 'LD MAE':[], 'Geen MAE':[], 'Reform MAE':[]})
+        evals_df.loc[len(evals_df)] = model_evals
+        evals_df.to_csv('datasets/evals.csv', index=False)
+
+        print("evals", model_evals)
         model_results = pd.DataFrame(model_results)
         clean_df = pd.read_csv("datasets/CleanOpinionPolls.csv")
         pp_df = pd.concat([pp_df, model_results.iloc[:, 1:]], ignore_index=True)
         clean_df = pd.concat([clean_df, model_results], ignore_index=True)
         pp_df.to_csv("datasets/PreprocessedOpinionPolls.csv", index=False)
         clean_df.to_csv("datasets/CleanOpinionPolls.csv", index=False)
-        print(self.evaluate_model(x, y, model))
         return model
 
     def gen_popvote_graph(self, model):
@@ -279,60 +293,64 @@ class Model:
 
         plt.savefig("static/media/forecasts/opinionpollgraph.png")
         plt.clf()
+
     def test_pop_vote(self):
         linear = LinearRegression()
         huber = HuberRegressor()
         ransac = RANSACRegressor(random_state=64)
 
         #Test each model based on Con Vote
-        clean_df = pd.read_csv("datasets/CleanOpinionPolls.csv")
-        pp_df = m.identify_outliers(pd.read_csv("datasets/PreprocessedOpinionPolls.csv"))
+
+        pp_df = pd.read_csv("datasets/PreprocessedOpinionPolls.csv").sort_values(by='date_ordinals')
         print(len(pp_df))
 
         x = pp_df['date_ordinals'].values.reshape(-1, 1)
         y = pp_df['Lab'].values.reshape(-1, 1)
 
+        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
+
         #Linear Regression
 
-        linear.fit(x, y)
-        pred = linear.predict(x)
+        linear.fit(x_train, y_train)
+        pred = linear.predict(x_test)
 
         plt.clf()
-        plt.scatter(x, y, label="Labour voting Intention", s=5)
-        plt.plot(x, pred, color='black', label="Linear")
-        plt.annotate(text = str(np.round(pred[len(pred)-1], 2)), xy = (x[len(x)-1], pred[len(pred)-1]))
+        plt.scatter(x_test, y_test, label="Labour voting Intention", s=5)
+        plt.plot(x_test, pred, color='black', label="Linear")
+        print('y: ', pred.max())
+        plt.annotate(text = str(np.round(pred.max(), 2)), xy = (739250, pred.max()))
 
-        results = self.evaluate_model(x, y, linear)
+        results = self.evaluate_model(x_test, y_test, linear)
 
         evals =[]
         evals.append(str('Linear MAE: ' + str(results)))
 
-        # Huber Regression
+        '''# Huber Regression
 
-        huber.fit(x, y)
-        pred = huber.predict(x)
-        scores = r2_score(y, pred)
+        huber.fit(x_train, y_train)
+        pred = huber.predict(x_test)
+        scores = r2_score(y_test, pred)
 
-        plt.plot(x, pred, color='red', label="Huber")
-        plt.annotate(text = str(np.round(pred[len(pred)-1], 2)), xy = (x[len(x)-1], pred[len(pred)-1]))
+        plt.plot(x_test, pred, color='red', label="Huber")
+        plt.annotate(text = str(np.round(pred.max(), 2)), xy = (739250, pred.max()))
 
-        results = self.evaluate_model(x, y, huber)
+        results = self.evaluate_model(x_train, y_train, huber)
 
-        evals.append(str('Huber MAE: ' + str(results)))
+        evals.append(str('Huber MAE: ' + str(results)))'''
 
         # RANSAC regression
 
-        ransac.fit(x, y)
-        pred = ransac.predict(x)
+        ransac.fit(x_train, y_train)
+        pred = ransac.predict(x_test)
 
-        scores = r2_score(y, pred)
+        scores = r2_score(y_test, pred)
         print("RANSAC", scores.mean())
 
-        plt.plot(x, pred, color="orange", label="RANSAC")
+        plt.plot(x_test, pred, color="orange", label="RANSAC")
 
-        plt.annotate(text = str(np.round(pred[len(pred)-1], 2)), xy = (x[len(x)-1], pred[len(pred)-1]))
+        plt.annotate(text = str(np.round(pred.max(), 2)), xy = (739250, pred.max()))
 
-        results = self.evaluate_model(x, y, ransac)
+        results = self.evaluate_model(x_train, y_train, ransac)
         evals.append(str('RANSAC MAE: ' + str(results)))
 
         plt.legend()
@@ -406,6 +424,7 @@ class Model:
                 s = non_outliers
 
         return s # dataset without outliers
+
     def clean_socioeconomic_data(self):
         sec_df = pd.read_csv("datasets/sec_csv.csv") # Turn sec.csv into a dataset
         new_df = pd.DataFrame()
@@ -690,9 +709,6 @@ class Model:
         plt.savefig('static/media/tests/history.png')
 
     def forecast_seats(self):
-        start = time.time()
-        seed(1)
-        set_random_seed(1)
 
         df = pd.read_csv('datasets/past_elections_clean.csv', index_col=0)
 
@@ -706,6 +722,13 @@ class Model:
         n = 1
         word = 50
 
+        result_list = []
+        result_list.append(time.ctime())
+        for i in pop_forecast[1:6]:
+            result_list.append(round(i,2))
+
+        print("pop:", pop_forecast)
+
         for i in range(n+1, len(pop_forecast) + 4*n, n + 1):
             pop_forecast.insert(i, word)
 
@@ -717,10 +740,10 @@ class Model:
         pop_forecast[9] = other
         pop_forecast[7] = national[0][0]
 
-        print(pop_forecast)
+
         for i in range(1, 10):
             pop_forecast[i] = round(pop_forecast[i] / 100, 3)
-        print(pop_forecast)
+
 
         pop_forecast[0] = '2024-07-08'
         pop_forecast.append(pd.to_datetime('2024-07-08').toordinal())
@@ -806,7 +829,7 @@ class Model:
         # Training the model
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.5)
         model = self.nn()
-        hist = model.fit(x_train, y_train, epochs=1000, validation_data=(x_train, y_train))
+        #hist = model.fit(x_train, y_train, epochs=1000, validation_data=(x_train, y_train))
 
         print("x_test \n", x_test)
         '''
@@ -881,6 +904,9 @@ class Model:
         # Forecast next election's seat count:
         preds = pd.DataFrame({'CON Preds':[], 'LAB Preds':[], 'LD Preds':[], 'PC/SNP Preds':[], 'Other Preds':[]})
 
+        epochs = {'CON':[1000], 'LAB':[500], 'LD':[300], 'PC/SNP':[500], 'Other':[450]}
+        start = time.time()
+
         for i in party_list:
             x = df[['date_ordinal', (i + ' Vote Share'), (i + ' Vote Share Change'), (i + ' Seats prev'),
                     (i + ' Margin')]].iloc[2:len(df['date_ordinal'])-1, :]
@@ -889,7 +915,8 @@ class Model:
 
             # Training the model
             x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.5)
-            hist = model.fit(x_train, y_train, epochs=1000, validation_data=(x_train, y_train))
+
+            hist = model.fit(x_train, y_train, epochs=epochs[i][0], validation_data=(x_train, y_train))
             self.model_loss(hist, i)
 
             x_pred = df[['date_ordinal', (i + ' Vote Share'), (i + ' Vote Share Change'), (i + ' Seats prev'),
@@ -900,17 +927,25 @@ class Model:
 
 
         seat_pred_unrounded = preds.iloc[len(preds)-1, :]
-        print("s_p_u", seat_pred_unrounded)
         seat_pred = []
         for i in range(0, len(seat_pred_unrounded)):
             seat_pred.append(int(round(float(seat_pred_unrounded[i][0]), 0)))
 
+        print(seat_pred_unrounded)
         while sum(seat_pred) < 650:
             for i in range(0, 5):
                 if sum(seat_pred) < 650:
                     seat_pred[i] = seat_pred[i]+1
 
+        while sum(seat_pred) > 650:
+            for i in range(0, 5):
+                if sum(seat_pred) > 650:
+                    seat_pred[i] = seat_pred[i]-1
+
         preds.loc[len(preds) - 1] = seat_pred
+
+        for i in seat_pred:
+            result_list.append(i)
 
         print(preds.iloc[len(preds) - 1, :])
         preds.to_csv('datasets/seat_predictions.csv', index=False)
@@ -928,7 +963,15 @@ class Model:
                 winner = party_list[i]
 
         end = time.time()
-        print("Total Neural Network Runtime: ", (end-start))
+        print("Total Neural Network Runtime: ", (end-start), 's')
+
+        print(result_list)
+
+        past_model_results_df = pd.read_csv('datasets/past_model_results.csv')
+        past_model_results_df.loc[len(past_model_results_df)] = result_list
+
+        past_model_results_df.to_csv('datasets/past_model_results.csv', index=False)
+
         return winner
 
     def represent_seat_forecast(self):
@@ -956,8 +999,6 @@ class Model:
             ax.text(v + 3, i + .25, str(v), color='blue', fontweight='bold')
         plt.savefig("static/media/forecasts/seatforecast.png")
 
-
-
     def nn(self):
         seed(64)
         set_random_seed(64)
@@ -974,6 +1015,7 @@ class Model:
         adam = optimizers.Adam(learning_rate=0.001)
         model.compile(optimizer=adam, loss='log_cosh', metrics = ['mse', 'mae'])
         return model
+
     def pred_nationalist(self):
         df = pd.read_csv('datasets/past_elections_clean.csv', index_col=0)
         df.fillna(0, inplace=True)
@@ -997,7 +1039,7 @@ class Model:
         plt.figure(figsize=(8, 4))
         plt.plot(history.history['loss'], label='Train Loss')
         plt.plot(history.history['val_loss'], label='Test Loss')
-        plt.title('model loss')
+        plt.title(str(i + ' model loss'))
         plt.ylabel('loss')
         plt.xlabel('epochs')
         plt.legend(loc='upper right')
@@ -1007,9 +1049,272 @@ class Model:
         plt.savefig(string)
         plt.clf()
 
+    def clean_2019(self):
+        df = pd.read_csv("datasets/2019-dataset.csv")
+        df['BXP'] = df['BXP'].fillna(0)
+        df = df.dropna()
+        df['Year'] = df['Year'].astype(int)
+        df['Published'] = df['Published'].astype(int)
+
+        month_dict = {'Jan':'01', 'Feb':'02', 'Mar':'03', 'Apr':'04', 'May':'05', 'Jun':'06', 'Jul':'07', 'Aug':'08',
+                      'Sep':'09', 'Oct':'10', 'Nov':'11', 'Dec':'12'}
+
+        df['Month'] = df['Month'].str.strip()
+        df['Month'] = df['Month'].map(month_dict)
+
+        date_list = []
+
+        for index, row in df.iterrows():
+            date = str(row['Year']) + '-' + str(row['Month']) + '-' +str(row['Published'])
+            date_list.append(date)
+
+        date_ordinals = []
+
+        df['date'] = date_list
+
+        df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
+
+        for i in df['date']:
+            date_ordinals.append(pd.to_datetime(i, '%Y%m%d').toordinal())
+
+        df['date_ordinals'] = date_ordinals
+
+        df = df.drop(['Year', 'Month', 'Fieldwork', 'Published'], axis=1)
+        df.to_csv('datasets/2019-clean.csv', index=0)
+
+    def forecast_2019_pop(self):
+        df = pd.read_csv('datasets/2019-clean.csv')
+        parties = ['Con','Lab','LD','UKIP','Green','BXP']
+
+        model = RANSACRegressor(random_state=64)
+        model_results = {'Con':[], 'Lab':[], 'LD':[], 'UKIP':[], 'Green':[], "BXP":[]}
+
+        for i in parties:
+            x_train, x_test, y_train, y_test = train_test_split(df['date_ordinals'].tail(20).values.reshape(-1, 1),
+                                                                df[i].tail(20).values.reshape(-1, 1))
+
+            model.fit(x_train, y_train)
+            pred_date = "2019-12-12"
+            pred_date = pd.to_datetime(pred_date)
+            pred_date_ords = pred_date.toordinal()
+
+            pred = model.predict([[pred_date_ords]])
+            model_results[i].append(round(pred[0][0], 2))
+
+        model_results = pd.DataFrame(model_results)
+
+        model_results.to_csv('datasets/2019-pop-pred.csv', index = 0)
+
+    def forecast_2019_seats(self):
+        # getting national party pop vote
+        df = pd.read_csv('datasets/past_elections_clean_2019.csv')
+        pop_df = pd.read_csv('datasets/2019-pop-pred.csv')
+
+        party_list = ['CON', 'LAB', 'LD', 'PC/SNP', 'Other']
+
+        df.fillna(0, inplace=True)
+        x = df['date_ordinal'].values.reshape(-1, 1)
+        y = df['PC/SNP Vote Share'].values.reshape(-1, 1)
+
+        model = LinearRegression()
+        model.fit(x, y)
+        p = model.predict([[pd.to_datetime('2019-12-12', format='%Y-%m-%d').toordinal()]])[0][0] * 100
+
+        print(p)
+
+        pop_df['PC/SNP'] = p
+
+        other = pop_df['UKIP'].iloc[:] + pop_df['Green'].iloc[:] + pop_df['BXP'].iloc[:]
+
+        pop_df = pop_df.drop(['UKIP', 'Green', 'BXP'], axis=1)
+        pop_df['Other'] = other
+
+        pop_df.to_csv("datasets/2019-pop-for-seats.csv")
+
+
+        pop = pop_df.iloc[:, :].values.tolist()[0]
+
+        for i in range(0, len(pop)):
+            pop[i] = round(pop[i]/100, 2)
+
+
+        pop_forecast = []
+        pop_forecast.append('2019-12-12')
+        pop_forecast = pop_forecast + pop
+        pop_forecast.append(pd.to_datetime(pop_forecast[0], format='%Y-%m-%d').toordinal())
+        word = 50
+        n = 1
+
+        for i in range(n+1, len(pop_forecast) + 5*n, n + 1):
+            pop_forecast.insert(i, word)
+
+        print(df)
+        df.loc[len(df.index)] = pop_forecast
+        print(df)
+
+        #sorting out df
+
+
+        vote_share = [x for x in df.columns if 'Vote Share' in x]
+        seats = [x for x in df.columns if 'Seats' in x]
+
+        # get past election columns (change in vote, seats)
+        for j, k in zip(vote_share, seats):
+            past_vote = [0]
+            prev_seat = [0]
+            for i in range(1, len(df[j])):
+                past_vote_share = df[j].iloc[i] - df[j].iloc[i - 1]
+                previous_seat = df[k].iloc[i - 1]
+                past_vote.append(round(past_vote_share, 2))
+                prev_seat.append(previous_seat)
+
+            string = j + " Change"
+            df[string] = past_vote
+            string = k + " prev"
+            df[string] = prev_seat
+
+        margins = []
+        margins_df = pd.DataFrame({
+            'CON Margin': [],
+            'LAB Margin': [],
+            'LD Margin': [],
+            'PC/SNP Margin': [],
+            'Other Margin': []
+        })
+        winners = []
+
+        for i in range(0, len(df['CON Vote Share'])):
+            highest_val = 0
+            highest_column = ''
+            for k in vote_share:
+                if df[k].iloc[i] > highest_val:
+                    highest_val = df[k].iloc[i]
+                    highest_column = k
+            winners.append(highest_column)
+            for k in vote_share:
+                margins.append(round(highest_val - df[k].iloc[i], 2))
+
+        con = []
+        lab = []
+        ld = []
+        nat = []
+        oth = []
+
+        for i in range(0, len(margins)):
+            calc = i % 5
+            if calc == 0:
+                con.append(margins[i])
+            elif calc == 1:
+                lab.append(margins[i])
+            elif calc == 2:
+                ld.append(margins[i])
+            elif calc == 3:
+                nat.append(margins[i])
+            else:
+                oth.append(margins[i])
+
+        margins_df['CON Margin'] = con
+        margins_df['LAB Margin'] = lab
+        margins_df['LD Margin'] = ld
+        margins_df['PC/SNP Margin'] = nat
+        margins_df['Other Margin'] = oth
+
+        df = pd.concat([df, margins_df], axis=1)
+
+        df.to_csv('datasets/past_elections_clean_with_2019.csv', index=False)
+
+        x = df[['date_ordinal', 'CON Vote Share', 'CON Vote Share Change', 'CON Seats prev', 'CON Margin']]
+        y = df[['CON Seats']]
+
+        # Training the model
+        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.5)
+        model = self.nn()
+
+        preds = pd.DataFrame({'CON Preds': [], 'LAB Preds': [], 'LD Preds': [], 'PC/SNP Preds': [], 'Other Preds': []})
+
+        epochs = {'CON': [1000], 'LAB': [500], 'LD': [300], 'PC/SNP': [500], 'Other': [450]}
+        start = time.time()
+
+        df.to_csv('datasets/test-2019.csv')
+
+
+
+        for i in party_list:
+            x = df[['date_ordinal', (i + ' Vote Share'), (i + ' Vote Share Change'), (i + ' Seats prev'),
+                    (i + ' Margin')]].iloc[2:len(df['date_ordinal']) - 1, :]
+            y = df[[(i + ' Seats')]].iloc[2:len(df['date_ordinal']) - 1]
+
+            # Training the model
+            x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.5)
+
+            hist = model.fit(x_train, y_train, epochs=epochs[i][0], validation_data=(x_train, y_train))
+            self.model_loss(hist, i)
+
+            x_pred = df[['date_ordinal', (i + ' Vote Share'), (i + ' Vote Share Change'), (i + ' Seats prev'),
+                         (i + ' Margin')]].iloc[:]
+            y_pred = model.predict([x_pred]).tolist()
+            string = i + ' Preds'
+            preds[string] = y_pred
+
+        seat_pred_unrounded = preds.iloc[len(preds) - 1, :]
+        seat_pred = []
+        for i in range(0, len(seat_pred_unrounded)):
+            seat_pred.append(int(round(float(seat_pred_unrounded[i][0]), 0)))
+
+        while sum(seat_pred) < 650:
+            for i in range(0, 5):
+                if sum(seat_pred) < 650:
+                    seat_pred[i] = seat_pred[i] + 1
+
+        while sum(seat_pred) > 650:
+            for i in range(0, 5):
+                if sum(seat_pred) > 650:
+                    seat_pred[i] = seat_pred[i] - 1
+
+        print(seat_pred)
+
+        preds.loc[len(preds) - 1] = seat_pred
+
+        preds.to_csv('datasets/2019-seat-preds.csv')
+    def compare(self):
+        comp_df = pd.read_csv('datasets/comparisons.csv')
+        seat_df = pd.read_csv('datasets/2019-seat-preds.csv', index_col=0)
+        pop_df = pd.read_csv('datasets/2019-pop-for-seats.csv', index_col=0)
+
+        list = ['%.2f' % elem for elem in pop_df.loc[len(pop_df)-1].values.tolist()]
+
+        pop_df.loc[len(pop_df)-1] = list
+
+
+        print(pop_df.iloc[len(pop_df)-1, :].values.tolist())
+
+        model_results = pop_df.iloc[len(pop_df)-1, :].values.tolist() + seat_df.iloc[len(seat_df)-1, :].values.tolist()
+        model_results.append('Other Includes Northern Irish Constituencies')
+
+        df = pd.DataFrame({'Con Vote': [],'Labour Vote': [],'LibDem Vote': [],'PC/SNP Vote': [],'Other Vote': [],
+                           'Con Seat': [], 'Labour Seat': [],'LibDem Seat': [], 'PC/SNP Seat': [],'Other Seat': [],
+                           'Notes': []})
+
+        print(df.columns)
+        print(model_results)
+
+        df.loc[len(df)] = model_results
+        df.loc[len(df)] = comp_df.loc[len(comp_df) - 3]
+        df.loc[len(df)] = comp_df.loc[len(comp_df) - 2]
+        df.loc[len(df)] = comp_df.loc[len(comp_df) - 1]
+        df['model'] = ['This Model', 'YouGov', 'Electoral Calculus', '2019 Election Result']
+
+
+
+
+        df.to_csv('datasets/comparisons-2019.csv', index=False)
+
+    def model_details(self):
+        past_model_df = pd.read_csv('datasets/past_model_results.csv')
+        date_time = past_model_df.iloc[len(past_model_df)-1,0]
+        Popular_Vote_Average_MAE = statistics.mean(pd.read_csv('datasets/evals.csv').values.tolist()[0])
+
 
 if __name__ == "__main__":
     m = Model()
-    m.run_pop_forecast()
-    m.forecast_seats()
-
+    m.model_details()
