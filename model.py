@@ -29,8 +29,8 @@ from datetime import datetime
 class Model:
 
     running = False
-    seed(64)
-    set_random_seed(1)
+    seed(100)
+    set_random_seed(256)
 
     def clean_pollbase(self):
         new_df = pd.read_csv("datasets/opinionpolls.csv") # Read excel file
@@ -189,7 +189,7 @@ class Model:
         s.to_csv('datasets/PreprocessedOpinionPolls.csv', index=False)
 
     def forecast_popular_vote(self):
-        model = RANSACRegressor(random_state=120)
+        model = RANSACRegressor(random_state=64)
         pp_df = pd.read_csv("datasets/PreprocessedOpinionPolls.csv")
         pp_df = pp_df.sort_values(by='date_ordinals')
 
@@ -208,8 +208,8 @@ class Model:
 
         for i in pp_df.columns:
             if not "date" in i:
-                x = pp_df['date_ordinals'].tail(50).values.reshape(-1, 1)
-                y = pp_df[i].tail(50).values.reshape(-1, 1)
+                x = pp_df['date_ordinals'].tail(75).values.reshape(-1, 1)
+                y = pp_df[i].tail(75).values.reshape(-1, 1)
 
                 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
 
@@ -373,6 +373,10 @@ class Model:
 
         # evaluate model
         scores = cross_val_score(model, x_train, y_train, scoring='neg_mean_absolute_error', n_jobs=-1)
+        mean_scores = mean((absolute(scores)))
+        partys = {'Con':[], 'Lab':[], 'Lib Dem':[], 'Green':[], 'Reform':[]}
+
+        print('mean scores', mean_scores)
 
         # force scores to be positive
         return mean((absolute(scores)))
@@ -1102,6 +1106,7 @@ class Model:
             model_results[i].append(round(pred[0][0], 2))
 
         model_results = pd.DataFrame(model_results)
+        print(model_results)
 
         model_results.to_csv('datasets/2019-pop-pred.csv', index = 0)
 
@@ -1317,4 +1322,5 @@ class Model:
 
 if __name__ == "__main__":
     m = Model()
-    m.model_details()
+    m.forecast_2019_pop()
+    m.forecast_2019_seats()
